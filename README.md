@@ -37,7 +37,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Juegos](#juegos)
   * [Android / Moviles](#android-moviles)
   * [Por Regiones](#por-regiones)
-  * [Comunidad de Murcia](#comunidad-de-murcia)
 * [BOTs](#bots)
   * [Encuestas](#encuestas)
   * [Gestión canales / RRSS](#gestión-canales-rrss)
