@@ -20,7 +20,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Programación / Developers](#programación-developers)
   * [Móviles / Android](#móviles-android)
   * [Cultura/Ocio/Otros](#culturaociootros)
-    * [Arte / Dibujo](#arte-dibujo)
   * [Política](#política)
   * [Regionales](#regionales)
     * [Región de Murcia](#región-de-murcia)
@@ -53,46 +52,35 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### ONGs / Asociaciones
 
 * [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Noticias sobre Zero Waste y medioambiente (1 diaria de media)
-
 * [https://t.me/podcastActualidadEmpleoAmbiental](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
-
 * [https://t.me/ecologistas](https://t.me/ecologistas) - Canal de Telegram de Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
-
 * [https://t.me/greenpeace\_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
-
 * [https://t.me/unicef\_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
-
 * [https://t.me/facua](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
 
 ### Noticias
 
 * [https://t.me/maldita\_es](https://t.me/maldita_es)
-
 * [https://t.me/malditobulo](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
-
 * [https://t.me/eldiarioes](https://t.me/eldiarioes) - Sistema de alertas informativas
-
 * [https://t.me/elpaiscom](https://t.me/elpaiscom) - Última hora y alertas de noticias
-
 * [https://t.me/ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
-
 * [https://t.me/blogsostenible](https://t.me/blogsostenible) - Sobre sostenibilidad, medioambiente y especismo
 
 ### Informática
 
 * [https://t.me/entrevistaendiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - (Tiene grupo asociado)
-
 * [https://t.me/xataka](https://t.me/xataka) - Apasionados por la tecnología
-
 * [https://t.me/important\_stories\_alert\_hacknews](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
-
 * [https://t.me/DerechodelaRed](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 
 ### Software Libre / FLOSS
 * Software Libre
   * [https://t.me/esLibre\_anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
-  * [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
   * [https://t.me/software\_libre](https://t.me/software_libre) - Contenido en español sobre software libre
+* Cultura Libre
+  * [https://t.me/wikimedia\_es](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
+  * [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 * FLOSS
   * [https://t.me/FreeSoftwareFoundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
     * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
@@ -109,7 +97,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/LiGNUxNews](https://t.me/LiGNUxNews) - Canal de noticias LiGNUx
   * Tiene [grupo](https://t.me/lignux)
 * [https://t.me/GNUPropaganda](https://t.me/GNUPropaganda) - Distribute these to help others learn about the evils of proprietary software, and the benefits of free software\!
-* [https://t.me/LinuxAdministration](https://t.me/LinuxAdministration) - (Parado desde 2019-06)
+* [https://t.me/LinuxAdministration](https://t.me/LinuxAdministration) - `(Parado desde 2019-06)`
 
 #### Podcasts
 
@@ -131,18 +119,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/systeminsideaudio](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [https://t.me/ARMparaTodos](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos
 * [https://t.me/maraton\_linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
-* [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. (Parado desde 2019-05)
+* [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. `(Parado desde 2019-05)`
 
 #### Blogs
 
 * [https://t.me/revistasololinux](https://t.me/revistasololinux) - Canal de la revista digital SoloLinux
-
 * [https://t.me/lamiradadelreplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
-
 * [https://t.me/voidnullblog](https://t.me/voidnullblog) - Canal Oficial del blog \_ voidNull [www.voidnull.es](http://www.voidnull.es)
-
 * [https://t.me/colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
-
 * [https://t.me/Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) (Canal vacío)
 
 #### Eventos
@@ -154,135 +138,87 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Distros
 
 * [https://t.me/opensusenews](https://t.me/opensusenews) - News from https://news.opensuse.org/
-
 * [https://t.me/fedoranews](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
-
 * [https://t.me/endeavour\_news](https://t.me/endeavour_news) - community driven Antergos fork
-
-* [https://t.me/archlinuxnews](https://t.me/archlinuxnews) - Latest news from Arch web site. (Parado desde 2018-02)
-
-* [https://t.me/archplanet](https://t.me/archplanet) - Planet Arch Linux latest posts. (Parado desde 2018-02)
-
+* [https://t.me/archlinuxnews](https://t.me/archlinuxnews) - Latest news from Arch web site. `(Parado desde 2018-02)`
+* [https://t.me/archplanet](https://t.me/archplanet) - Planet Arch Linux latest posts. `(Parado desde 2018-02)`
 * [https://t.me/galponminino](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware (Abandonada?)
 
 #### Empresas
 
 * [https://t.me/slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
-
 * [https://t.me/vantpc](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 
 ### Telegram
 
 * [https://t.me/telegram](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
-
 * [https://t.me/TelegramES](https://t.me/TelegramES) - Canal oficial de Telegram en español
-
 * [https://t.me/desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
-
 * [https://t.me/OpenSourceTelegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
-
 * [https://t.me/tgx\_android](https://t.me/tgx_android) - Developer's channel - Telegram X
-
 * [https://t.me/avionesdepapel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - Tiene grupo privado
-
 * [https://t.me/mastelegram](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más.
-
 * [https://t.me/StickersAnimados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
-
 * [https://t.me/contest](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
-
 * [https://t.me/geekschannel](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
-
 * [https://t.me/geeksChat](https://t.me/geeksChat)
-
 * [https://t.me/VariedadTelegram](https://t.me/VariedadTelegram) - Variedades Telegram
-
-* [https://t.me/TlgrmChannels](https://t.me/TlgrmChannels) - (Parado desde 2019-02)
+* [https://t.me/TlgrmChannels](https://t.me/TlgrmChannels) - `(Parado desde 2019-02)`
 
 #### Info sobre Bots
 
 * [https://t.me/BotNews](https://t.me/BotNews) - The official source for news about the Telegram Bot API.
-
 * [https://t.me/BotUpdates](https://t.me/BotUpdates) - The team that makes life better with using bots.
-
-* [https://t.me/BotsChannel](https://t.me/BotsChannel) - (Parado desde 2018-06)
-
+* [https://t.me/BotsChannel](https://t.me/BotsChannel) - `(Parado desde 2018-06)`
 * [https://t.me/ControllerUpdates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
-
 * [https://t.me/WJClubNews](https://t.me/WJClubNews) - Official News Channel of @WJClub (Noticias sobre algunos bots de encuestas)
-
 * [https://t.me/MiTracking](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
 
 #### Directorios / Guías
 
 * [https://t.me/DirectorioTelegram](https://t.me/DirectorioTelegram) - AMPLIA LISTA DE CANALES, GRUPOS, BOTS DE FORMA ORDENADA Y POR CATEGORÍAS.
-
 * [https://t.me/Telegrias](https://t.me/Telegrias) - similar a una TV Guia donde encontrara grupos, canales y paginas, referentes a un cierto contenido y acomodados por categorias y etiquetas,
-
 * [https://t.me/tuscanalestelegram](https://t.me/tuscanalestelegram) -
-
 * [https://t.me/indicetelegram](https://t.me/indicetelegram) - Este canal es un índice no oficial de Telegram
-
 * [https://t.me/tchannels](https://t.me/tchannels) - Get to know the most interesting new Telegram channels\! tchannels.me (Parado desde 2017-12)
-
 * [https://t.me/gameeapp](https://t.me/gameeapp) - Unofficial Complete list of games by @gamee. Requires Telegram v 3.13
-
 
 ### Seguridad
 
 * [https://t.me/sysadmin24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
-
 * [https://t.me/linuxSegurInteresInformatica](https://t.me/linuxSegurInteresInformatica) - Linux, seguridad y cosas informáticas curiosas
-
 * [https://t.me/cybersecuritypulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
-
 * [https://t.me/Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
-
 * [https://t.me/paloalto\_firewall](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
 
 ### Programación / Developers
 
 * [https://t.me/programmerjokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
-
 * [https://t.me/thedevs](https://t.me/thedevs) - Developers Community on Telegram.
 
 ### Móviles / Android
 
 * [https://t.me/fairphoneblog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
-
 * [https://t.me/s/ubports\_news](https://t.me/s/ubports_news) - The very latest from the UBports Community\!
-
-* [https://t.me/LineageOS](https://t.me/LineageOS) - Parado desde 2019-03
+* [https://t.me/LineageOS](https://t.me/LineageOS) - `Parado desde 2019-03`
 
 ### Cultura/Ocio/Otros
 
-* [https://t.me/wikimedia\_es](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
-
-* [https://t.me/capsulahistoria](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
-
-* [https://t.me/realfooder](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
-
-* [https://t.me/jude\_devir](https://t.me/jude_devir) - Tira cómica de pareja.
-
-* [https://t.me/historygram](https://t.me/historygram) - Fotografías históricas. (Parado desde 2019-03)
-
-* [https://t.me/dieteticasinpatrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. (Parado desde 2019-02)
-
-* [https://t.me/vegan](https://t.me/vegan) - Infografías y fotos, Abandonado desde 2016, pero tiene material curioso.
-
-* [https://t.me/cultivatuhuerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
-
 * [https://t.me/EducacionEspecial](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
-
 * [https://t.me/educacion](https://t.me/educacion) - Educación Digital con lo último.
-
 * [https://t.me/urgenciasyemergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
-
 * [https://t.me/DIY\_Hazlotumismo](https://t.me/DIY_Hazlotumismo) -Planeta DIY - Hazlo tu mismo
-
-#### Arte / Dibujo
-
-* [https://t.me/artplanet](https://t.me/artplanet) - Art planet
+* Historia
+  * [https://t.me/capsulahistoria](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
+  * [https://t.me/historygram](https://t.me/historygram) - Fotografías históricas. `(Parado desde 2019-03)`
+* Alimentación
+  * [https://t.me/dieteticasinpatrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. `(Parado desde 2019-02)`
+  * [https://t.me/realfooder](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
+  * [https://t.me/vegan](https://t.me/vegan) - Infografías y fotos, Abandonado desde 2016, pero tiene material curioso.
+  * [https://t.me/cultivatuhuerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
+* Arte / Dibujo
+  * [https://t.me/jude\_devir](https://t.me/jude_devir) - Tira cómica de pareja.
+  * [https://t.me/artplanet](https://t.me/artplanet) - Art planet
 
 ### Política
 
