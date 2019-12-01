@@ -127,7 +127,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/lamiradadelreplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
 * [https://t.me/voidnullblog](https://t.me/voidnullblog) - Canal Oficial del blog \_ voidNull [www.voidnull.es](http://www.voidnull.es)
 * [https://t.me/colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
-* [https://t.me/Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) (Canal vacío)
+* [https://t.me/Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) `(Sin contenido)`
 
 #### Eventos
 
@@ -223,23 +223,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Política
 
 * [https://t.me/news1906](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
-
 * [https://t.me/CongresodelosDiputados](https://t.me/CongresodelosDiputados) - Actualidad del Congreso de los Diputados
-
 * [https://t.me/ahorapodemos](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
-
 * [https://t.me/podemosexterior](https://t.me/podemosexterior) - círculos en el exterior
-
 * [https://t.me/canalPSOE](https://t.me/canalPSOE) - Canal oficial del PSOE en Telegram
-
 * [https://t.me/MasPais\_Es](https://t.me/MasPais_Es) - Nacemos para ser el antídoto a la abstención y sacar a nuestro país del bloqueo. Por un país más verde, feminista, justo y libre. Súmate\!
-
 * [https://t.me/CsCiudadanos](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
-
 * [https://t.me/Partido\_Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
-
 * [https://t.me/GPPopular](https://t.me/GPPopular) - en el Congreso de los Diputados
-
 * [https://t.me/PodemosAdmonPublica](https://t.me/PodemosAdmonPublica) - Canal oficial de la Secretaria de Administraciones Públicas de PODEMOS
 
 ### Regionales
@@ -247,14 +238,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Región de Murcia
 
 * [https://t.me/ResiduoCeroRM](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
-
 * [https://t.me/rutavegana](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
-
 * [https://t.me/lasaludentucomida](https://t.me/lasaludentucomida) - Comidas saludables para llevar, panadería y repostería 0% gluten 100% sabor. También tenemos Menús vegetarianos y veganos. (Comida para llevar en Cartagena)
-
 * [https://t.me/UbiLaManga](https://t.me/UbiLaManga) - Ubicaciones La Manga
-
-* [https://t.me/GPMurcia](https://t.me/GPMurcia) - GreenPeace Murcia (Vacío)
+* [https://t.me/GPMurcia](https://t.me/GPMurcia) - GreenPeace Murcia `(Sin contenido)`
 
 #### Comunidad Valenciana
 
@@ -267,129 +254,85 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Madrid
 
 * [https://t.me/librelabucm](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
-
   * Tiene grupo: [https://t.me/LLUchat](https://t.me/LLUchat)
 
 
 ## GRUPOS
-
 ### Software Libre
 
 * [https://t.me/tuxaldea](https://t.me/tuxaldea)
-
 * [https://t.me/Linuxeros\_es](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, \* Hacking
-
 * [https://t.me/novato\_en\_linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
-
 * [https://t.me/LLUchat](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
-
-* [https://t.me/hackers\_es](https://t.me/hackers_es) -
-
+* [https://t.me/hackers\_es](https://t.me/hackers_es)
 * [https://t.me/Sysadmin\_esp](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros
-
 * [https://t.me/sysadmincuba](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD
 
-Hispalinustálgicos (Con invitación)
+* Hispalinustálgicos (Con invitación)
 
 ### Aplicaciones
 
 * [https://t.me/libreoffice\_es](https://t.me/libreoffice_es)
-
 * [https://t.me/InkscapeES](https://t.me/InkscapeES)
 
 ### Podcasts sin canal
 
 * [https://t.me/entredevyops](https://t.me/entredevyops) - Comunidad del podcast Entre Dev y Ops 🎙 - [https://www.entredevyops.es](https://www.entredevyops.es)
-
 * [https://t.me/maratonlinuxero](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre. [https://maratonlinuxero.org](https://maratonlinuxero.org)
-
 * [https://t.me/HomeStudioLibre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
 
 ### Bash / Zsh
 
 * [https://t.me/shelldevs\_es](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
-
 * [https://t.me/BashZshCLI](https://t.me/BashZshCLI) - Grupo para tratar temas relacionados con BASH/Zsh y aplicaciones CLI
 
 ### Distribuciones GNU/Linux
 
 * [https://telegram.me/GnuLinuxGrupo](https://telegram.me/GnuLinuxGrupo) - distribuciones, ayuda, errores, drivers, instalaciones...
-
 * [https://t.me/Debian\_es](https://t.me/Debian_es) - Debian
-
 * [https://t.me/ubuntu\_es](https://t.me/ubuntu_es) - Ubuntu en Español
-
 * [https://t.me/ubuntizados](https://t.me/ubuntizados) - Ubuntizados
-
 * [https://t.me/kdeneones](https://t.me/kdeneones) - KDE Neon
-
 * [https://t.me/Kubuntues](https://t.me/Kubuntues) - Kubuntu
-
 * [https://t.me/UbuntuStudio](https://t.me/UbuntuStudio) - Ubuntu Studio
-
 * [https://t.me/lubuntues](https://t.me/lubuntues) - Lubuntu
-
 * [https://t.me/linuxmint\_es](https://t.me/linuxmint_es) - Linux Mint
-
 * [https://t.me/devuan\_es](https://t.me/devuan_es) - Devuan
-
 * [https://t.me/opensusesp](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
-
 * [https://t.me/opensuselinux](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español (Poco movimiento)
-
 * [https://t.me/fedora\_es](https://t.me/fedora_es) - Fedora
-
 * [https://t.me/centos\_es](https://t.me/centos_es) - Centos
-
 * [https://t.me/redhat\_es](https://t.me/redhat_es) - Red Hat
-
 * [https://t.me/deepinenespanol](https://t.me/deepinenespanol) - Deepin en Español - [https://t.me/deepin\_es](https://t.me/deepin_es)
-
 * [https://t.me/slackware\_es](https://t.me/slackware_es)
-
 * [https://t.me/anarchyenespanol](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
-
 * [https://t.me/ArchLinuxYDerivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
-
 * [https://t.me/antergosesp](https://t.me/antergosesp) y [https://t.me/antergos\_es](https://t.me/antergos_es) - Antergos en español (descontinuada)
-
 * [https://t.me/Antergos](https://t.me/Antergos) - En inglés
-
 * [https://t.me/manjarolinuxes](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
-
 * [https://t.me/voidlinux\_es](https://t.me/voidlinux_es) - Void Linux
-
 * [https://t.me/gentoo\_es](https://t.me/gentoo_es) - Gentoo
-
 * [https://t.me/kalilinux\_es](https://t.me/kalilinux_es) - Kali Linux
-
 * [https://t.me/huayra\_comunidad](https://t.me/huayra_comunidad) - Huayra Linux
 
 #### Entornos de Escritorio
 
 * [https://t.me/KDE\_esp](https://t.me/KDE_esp) - KDE
-
 * [https://t.me/kde\_canasbravas](https://t.me/kde_canasbravas) - KDE Cañas y Bravas
-
 * [https://t.me/gnomeros](https://t.me/gnomeros) - Gnomeros
-
 * [https://t.me/grupoxfce](https://t.me/grupoxfce) - Grupo XFCE
 
 ### Juegos
 
 * [https://t.me/EnLinuxjugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
-
 * [https://t.me/jugandoenlinux](https://t.me/jugandoenlinux) - Grupo de la página [http://www.jugandoenlinux.com](http://www.jugandoenlinux.com)
 
 ### Android / Moviles
+
 * [https://t.me/andOTP](https://t.me/andOTP) - Official Telegram group for the open-source two-factor authentication app andOTP
-
 * [https://t.me/Lineageos\_group](https://t.me/Lineageos_group)
-
 * [https://t.me/ubports](https://t.me/ubports) -Supported Devices: [https://devices.ubuntu-touch.io/](https://devices.ubuntu-touch.io/)
-
 * [https://t.me/WelcomePlus](https://t.me/WelcomePlus) -Ubports newcomers room
-
 * [https://t.me/UBPorts\_ES](https://t.me/UBPorts_ES) -Grupo oficial de la comunidad de UBPorts en Español
 
 ### Tecnológicos
@@ -401,12 +344,11 @@ Hispalinustálgicos (Con invitación)
 #### Comunidad de Murcia
 
 * [https://t.me/MurciaRegionLibre](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
-
 * [https://t.me/hackandsecmurcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
-
 * Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad
 
 #### Por localización
+
 * Cartagena
   * Cartagena Residuo Cero / ZeroWaste
   * Cartagena Software Libre
@@ -422,6 +364,7 @@ Hispalinustálgicos (Con invitación)
 #### Galicia
 
 * [https://t.me/galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
+
 
 ## BOTs
 
