@@ -89,17 +89,18 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/DerechodelaRed](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 
 ### Software Libre / FLOSS
+* Software Libre
+  * [https://t.me/esLibre\_anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
 
-* [https://t.me/esLibre\_anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
+  * [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 
-* [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
+  * [https://t.me/software\_libre](https://t.me/software_libre) - Contenido en español sobre software libre
+  
+* FLOSS
+  * [https://t.me/FreeSoftwareFoundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
+    * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
 
-* [https://t.me/FreeSoftwareFoundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
-  * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
-
-* [https://t.me/itsfoss\_official](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
-
-* [https://t.me/software\_libre](https://t.me/software_libre) - Contenido en español sobre software libre
+  * [https://t.me/itsfoss\_official](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
 
 #### GNU/Linux
 
