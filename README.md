@@ -258,7 +258,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 
 ## GRUPOS
-### Software Libre
+### Sotware Libre
 
 * [https://t.me/tuxaldea](https://t.me/tuxaldea)
 * [https://t.me/Linuxeros\_es](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, \* Hacking
@@ -267,7 +267,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/hackers\_es](https://t.me/hackers_es)
 * [https://t.me/Sysadmin\_esp](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros
 * [https://t.me/sysadmincuba](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD
-
 * Hispalinustálgicos (Con invitación)
 
 ### Aplicaciones
