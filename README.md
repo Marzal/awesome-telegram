@@ -91,72 +91,46 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Software Libre / FLOSS
 * Software Libre
   * [https://t.me/esLibre\_anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
-
   * [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
-
   * [https://t.me/software\_libre](https://t.me/software_libre) - Contenido en español sobre software libre
-  
 * FLOSS
   * [https://t.me/FreeSoftwareFoundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
     * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
-
   * [https://t.me/itsfoss\_official](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
 
 #### GNU/Linux
 
 * [https://t.me/UnDiaUnaAplicacion](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
-
 * [https://t.me/Phoronix](https://t.me/Phoronix) - Phoronix News. - Benchmarks y reviews en Linux
-
 * [https://t.me/muylinux](https://t.me/muylinux) - Linux, Open Source y mucho más, en [https://MuyLinux.com](https://muylinux.com)
-
 * [https://t.me/linuxgram](https://t.me/linuxgram) - News and info from the Linux world
-
 * [https://t.me/climagic](https://t.me/climagic) - Cool Unix/Linux Command Line tricks you can use in \~140 characters
-
 * [https://t.me/nacion\_linux](https://t.me/nacion_linux) - Clound general con articulos,links y archivos
-
 * [https://t.me/LiGNUxNews](https://t.me/LiGNUxNews) - Canal de noticias LiGNUx
   * Tiene [grupo](https://t.me/lignux)
-
 * [https://t.me/GNUPropaganda](https://t.me/GNUPropaganda) - Distribute these to help others learn about the evils of proprietary software, and the benefits of free software\!
-
 * [https://t.me/LinuxAdministration](https://t.me/LinuxAdministration) - (Parado desde 2019-06)
 
 #### Podcasts
 
 * [https://t.me/compilandopodcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
-
 * [https://t.me/elpodcast](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
   * Grupo asociado [https://t.me/grupopodcast](https://t.me/grupopodcast) para comentar los capítulos (+ de todo)
   * Canal asociado [https://t.me/elpodcastaudios](https://t.me/elpodcastaudios) - Audios del podcast
-
 * [https://t.me/podcastlinux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
-
 * [https://t.me/canal\_atareao](https://t.me/canal_atareao) - Tiene grupo asociado
-
 * [https://t.me/ochobitshacenunbyte](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la web [https://www.ochobitshacenunbyte.com](https://www.ochobitshacenunbyte.com)
-
 * [https://t.me/salmorejogeek](https://t.me/salmorejogeek)
-
 * [https://t.me/uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
   * Grupo asociado [https://t.me/uGeekPodcast](https://t.me/uGeekPodcast)
-
 * [https://t.me/mosqueterowebencanal](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
-
 * [https://t.me/TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
-
 * [https://t.me/neositelinux](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
-
 * [https://t.me/neositelinuxpodcast](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
   * Grupo asociado - [https://t.me/neositelinuxgrupo](https://t.me/neositelinuxgrupo)
-
 * [https://t.me/systeminsideaudio](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
-
 * [https://t.me/ARMparaTodos](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos
-
 * [https://t.me/maraton\_linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
-
 * [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. (Parado desde 2019-05)
 
 #### Blogs
@@ -174,7 +148,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Eventos
 
 * [https://t.me/opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga**
-
 * [https://t.me/lyt16](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas)
 
@@ -495,12 +468,16 @@ Hispalinustálgicos (Con invitación)
 
 * [https://t.me/hackandsecmurcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
 
-Grupo privado de Cartagena News de CartagenaNews con noticias sobre la ciudad
+* Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad
 
-#### Por localización: Cartagena
-
-* Cartagena Residuo Cero / ZeroWaste
-* Cartagena Software Libre
+#### Por localización
+* Cartagena
+  * Cartagena Residuo Cero / ZeroWaste
+  * Cartagena Software Libre
+* Murcia
+  * Residuo Cero Murcia♻️🌲
+  * Software y Cultura Libre Murcia 🐧♻️
+  * Go Vegan Murcia 🌱
 
 #### Comunidad Valenciana
 
