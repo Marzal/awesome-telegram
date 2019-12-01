@@ -1,6 +1,7 @@
 # awesome-telegram
 Listado de Canales, Grupos, Bots y Recursos de Telegram
 
+<!-- TOC depthFrom:1 -->
 * [CANALES](#CANALES)
   * [ONGs / Asociaciones](#ONGs--Asociaciones)
   * [Noticias](#Noticias)
@@ -46,6 +47,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Utilidades](#Utilidades)
   * [Oficiales Telegram](#Oficiales-Telegram)
 
+<!-- /TOC -->
 
 ## CANALES
 
