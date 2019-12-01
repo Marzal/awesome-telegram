@@ -53,11 +53,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### ONGs Asociaciones
 
-* [*https://t.me/ResiduoCero*](https://t.me/ResiduoCero) - Noticias sobre Zero Waste y medioambiente (1 diaria de media)
+* [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Noticias sobre Zero Waste y medioambiente (1 diaria de media)
 
 * [*https://t.me/podcastActualidadEmpleoAmbiental*](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
 
-* [*https://t.me/ecologistas*](https://t.me/ecologistas) - Canal de Telegram de Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
+* [https://t.me/ecologistas](https://t.me/ecologistas) - Canal de Telegram de Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 
 * [*https://t.me/greenpeace\_esp*](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
 
@@ -92,11 +92,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Software Libre / FLOSS
 
 * [*https://t.me/esLibre\_anuncios*](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
-) -
+
 * [*https://t.me/liberaturadio\_canal*](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 
 * [*https://t.me/FreeSoftwareFoundation*](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
-  * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - mucho tráfico, discuten de política en inglés
+  * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
 
 * [*https://t.me/itsfoss\_official*](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
 
