@@ -3,11 +3,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 <!-- TOC depthFrom:1 -->
 * [CANALES](#canales)
-  * [ONGs / Asociaciones](#ongs--asociaciones)
+  * [ONGs / Asociaciones](#ongs---asociaciones)
   * [Noticias](#noticias)
   * [Informática](#informática)
-  * [Software Libre / FLOSS](#software-libre--floss)
-    * [GNU/Linux](#gnu/linux)
+  * [Software Libre / FLOSS](#software-libre---floss)
+    * [GNU/Linux](#gnu-linux)
     * [Podcasts](#podcasts)
     * [Blogs](#blogs)
     * [Eventos](#eventos)
@@ -51,7 +51,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## CANALES
 
-### ONGs Asociaciones
+### ONGs / Asociaciones
 
 * [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Noticias sobre Zero Waste y medioambiente (1 diaria de media)
 
@@ -499,9 +499,8 @@ Grupo privado de Cartagena News de CartagenaNews con noticias sobre la ciudad
 
 #### Por localización: Cartagena
 
-Cartagena Residuo Cero / ZeroWaste
-
-Cartagena Software Libre
+* Cartagena Residuo Cero / ZeroWaste
+* Cartagena Software Libre
 
 #### Comunidad Valenciana
 
