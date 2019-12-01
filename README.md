@@ -30,7 +30,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Software Libre](#software-libre)
   * [Aplicaciones](#aplicaciones)
   * [Podcasts sin canal](#podcasts-sin-canal)
-  * [Bash / Zsh](#bash-zsh)
+  * [Bash / Shell](#bash-shell)
   * [Distribuciones GNU/Linux](#distribuciones-gnulinux)
     * [Entornos de Escritorio](#entornos-de-escritorio)
   * [Juegos](#juegos)
@@ -258,10 +258,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 
 ## GRUPOS
+
 ### Sotware Libre
 
 * [https://t.me/tuxaldea](https://t.me/tuxaldea)
-* [https://t.me/Linuxeros\_es](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, \* Hacking
+* [https://t.me/Linuxeros\_es](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
 * [https://t.me/novato\_en\_linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
 * [https://t.me/LLUchat](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
 * [https://t.me/hackers\_es](https://t.me/hackers_es)
@@ -280,7 +281,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/maratonlinuxero](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre. [https://maratonlinuxero.org](https://maratonlinuxero.org)
 * [https://t.me/HomeStudioLibre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
 
-### Bash / Zsh
+### Bash / Shell
 
 * [https://t.me/shelldevs\_es](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
 * [https://t.me/BashZshCLI](https://t.me/BashZshCLI) - Grupo para tratar temas relacionados con BASH/Zsh y aplicaciones CLI
