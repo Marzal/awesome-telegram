@@ -224,15 +224,20 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Política
 
 * [https://t.me/news1906](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
-* [https://t.me/CongresodelosDiputados](https://t.me/CongresodelosDiputados) - Actualidad del Congreso de los Diputados
-* [https://t.me/ahorapodemos](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
-* [https://t.me/podemosexterior](https://t.me/podemosexterior) - círculos en el exterior
-* [https://t.me/canalPSOE](https://t.me/canalPSOE) - Canal oficial del PSOE en Telegram
-* [https://t.me/MasPais\_Es](https://t.me/MasPais_Es) - Nacemos para ser el antídoto a la abstención y sacar a nuestro país del bloqueo. Por un país más verde, feminista, justo y libre. Súmate\!
-* [https://t.me/CsCiudadanos](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
-* [https://t.me/Partido\_Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
-* [https://t.me/GPPopular](https://t.me/GPPopular) - en el Congreso de los Diputados
-* [https://t.me/PodemosAdmonPublica](https://t.me/PodemosAdmonPublica) - Canal oficial de la Secretaria de Administraciones Públicas de PODEMOS
+* Partidos
+  * [https://t.me/ahorapodemos](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
+    * [https://t.me/podemosexterior](https://t.me/podemosexterior) - círculos en el exterior
+    * [https://t.me/PodemosAdmonPublica](https://t.me/PodemosAdmonPublica) - Canal oficial de la
+  * [https://t.me/canalPSOE](https://t.me/canalPSOE) - Canal oficial del PSOE en Telegram
+  * [https://t.me/MasPais\_Es](https://t.me/MasPais_Es) - Nacemos para ser el antídoto a la abstención y sacar a nuestro país del bloqueo. Por un país más verde, feminista, justo y libre. Súmate\!
+  * [https://t.me/CsCiudadanos](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
+  * [https://t.me/Partido\_Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
+   Secretaria de Administraciones Públicas de PODEMOS
+* Congreso de los Diputados (Madrid)
+  * [https://t.me/CongresodelosDiputados](https://t.me/CongresodelosDiputados) - Actualidad del
+  * [https://t.me/GPPopular](https://t.me/GPPopular) - en el Congreso de los Diputados
+* Internacional
+  * https://t.me/ISISwatch - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
 
 ### Regionales
 
@@ -388,15 +393,15 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Gestión canales / RRSS
 
-@GramToolBot
+@ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. _(Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...)_
 
-@ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...
-
-@discussbot - Make this bot an admin in your channel to add comment buttons to all posts. (“Oficial”)
+@discussbot - Make this bot an admin in your channel to add comment buttons to all posts. _(Oficial)_
 
 @CommentsBot - I can help you to create posts with comments, share them to your channels or groups.
 
-@IFTTT - Link your Telegram groups or channels to more than 360 other services.
+@IFTTT - Link your Telegram groups or channels to more than 360 other services. - _(Oficial de IFFT)_
+
+@GramToolBot - Instagram helper bot on Telegram!. I can assist you with all sorts of things such as downloading posts, getting account stats, reseaching hashtags, finding viral content and much more!
 
 ### Administración de Grupos
 
@@ -414,33 +419,56 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Develop
 
-@HttpResponseBot
+@HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 
 @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
+
+@GithubBot - track GitHub updates.
 
 ### Utilidades
 
 @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 
-@cuandosale\_bot - Para saber la fecha de salida de un capítulo
+@cuandosale_bot - Para saber la fecha de salida de un capítulo
 
 @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
 
-Spoiler Alert Bot - Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción
+@SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
 
-@temp\_mail\_bot
+@transcriber_bot - Voz a texto
 
-@transcriber\_bot - Voz a texto
+@temp_mail_bot - (ruso) - `[temp_mail_bot]`
 
-### Oficiales Telegram
+### Aprobados por Telegram
+
+@pic
+
+@gif - Type @gif with a search query in your channel and gif suggestions will show up
+
+@like
+
+@youtube
+
+@sticker
+
+@telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
 
 @BotFather - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
 
-@TelegramAuditions
+@notoscam - Reports about scammers are welcome here.
+
+@GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
+
+@TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
+
+@botsupport - _(Para mandarles sugerencias sobre los bots. Oficial)_
 
 
 ## RECURSOS
 
+### Para bots
+* Buscadores:
+** https://botostore.com/bots/telegram/
 
 
 ## LEYENDA
