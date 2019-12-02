@@ -361,7 +361,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Comunidad Valenciana
 
-* [https://t.me/gnulinuxvalencia](https://t.me/gnulinuxvalencia) - [https://gnulinuxvalencia.org](Difusión de GNU/Linux.) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
+* [https://t.me/gnulinuxvalencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
 
 #### Galicia
 
