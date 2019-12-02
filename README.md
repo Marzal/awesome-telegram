@@ -84,7 +84,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [https://t.me/liberaturadio\_canal](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 * FLOSS
   * [https://t.me/FreeSoftwareFoundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
-    * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _mucho tráfico, discuten de política en inglés_
+    * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
   * [https://t.me/itsfoss\_official](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
 
 #### GNU/Linux
@@ -98,7 +98,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/LiGNUxNews](https://t.me/LiGNUxNews) - Canal de noticias LiGNUx
   * Tiene [grupo](https://t.me/lignux)
 * [https://t.me/GNUPropaganda](https://t.me/GNUPropaganda) - Distribute these to help others learn about the evils of proprietary software, and the benefits of free software\!
-* [https://t.me/LinuxAdministration](https://t.me/LinuxAdministration) - `(Parado desde 2019-06)`
+* [https://t.me/LinuxAdministration](https://t.me/LinuxAdministration) - `[Parado desde 2019-06]`
 
 #### Podcasts
 
@@ -107,7 +107,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Grupo asociado [https://t.me/grupopodcast](https://t.me/grupopodcast) para comentar los capítulos (+ de todo)
   * Canal asociado [https://t.me/elpodcastaudios](https://t.me/elpodcastaudios) - Audios del podcast
 * [https://t.me/podcastlinux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
-* [https://t.me/canal\_atareao](https://t.me/canal_atareao) - _Tiene grupo asociado_
+* [https://t.me/canal\_atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [https://t.me/ochobitshacenunbyte](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la web [https://www.ochobitshacenunbyte.com](https://www.ochobitshacenunbyte.com)
 * [https://t.me/salmorejogeek](https://t.me/salmorejogeek)
 * [https://t.me/uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
@@ -120,7 +120,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/systeminsideaudio](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [https://t.me/ARMparaTodos](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos
 * [https://t.me/maraton\_linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
-* [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `(Parado desde 2019-05)`
+* [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
 
 #### Blogs
 
@@ -128,11 +128,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/lamiradadelreplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
 * [https://t.me/voidnullblog](https://t.me/voidnullblog) - Canal Oficial del blog \_ voidNull [www.voidnull.es](http://www.voidnull.es)
 * [https://t.me/colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
-* [https://t.me/Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `(Sin contenido)`
+* [https://t.me/Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
 
 #### Eventos
 
-* [https://t.me/opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `(Parado)`
+* [https://t.me/opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 * [https://t.me/lyt16](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas)
 
@@ -141,9 +141,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/opensusenews](https://t.me/opensusenews) - News from https://news.opensuse.org/
 * [https://t.me/fedoranews](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
 * [https://t.me/endeavour\_news](https://t.me/endeavour_news) - community driven Antergos fork
-* [https://t.me/archlinuxnews](https://t.me/archlinuxnews) - Latest news from Arch web site. - `(Parado desde 2018-02)`
-* [https://t.me/archplanet](https://t.me/archplanet) - Planet Arch Linux latest posts. - `(Parado desde 2018-02)`
-* [https://t.me/galponminino](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `(Abandonado?)`
+* [https://t.me/archlinuxnews](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
+* [https://t.me/archplanet](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
+* [https://t.me/galponminino](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
 
 #### Empresas
 
@@ -158,19 +158,19 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/OpenSourceTelegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [https://t.me/tgx\_android](https://t.me/tgx_android) - Developer's channel - Telegram X
 * [https://t.me/avionesdepapel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - Tiene grupo privado
-* [https://t.me/mastelegram](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _Tiene grupo asociado_
+* [https://t.me/mastelegram](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [https://t.me/StickersAnimados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [https://t.me/contest](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
 * [https://t.me/geekschannel](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
 * [https://t.me/geeksChat](https://t.me/geeksChat)
 * [https://t.me/VariedadTelegram](https://t.me/VariedadTelegram) - Variedades Telegram
-* [https://t.me/TlgrmChannels](https://t.me/TlgrmChannels) - `(Parado desde 2019-02)`
+* [https://t.me/TlgrmChannels](https://t.me/TlgrmChannels) - `[Parado desde 2019-02]`
 
 #### Info sobre Bots
 
 * [https://t.me/BotNews](https://t.me/BotNews) - The official source for news about the Telegram Bot API.
 * [https://t.me/BotUpdates](https://t.me/BotUpdates) - The team that makes life better with using bots.
-* [https://t.me/BotsChannel](https://t.me/BotsChannel) - `(Parado desde 2018-06)`
+* [https://t.me/BotsChannel](https://t.me/BotsChannel) - `[Parado desde 2018-06]`
 * [https://t.me/ControllerUpdates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
 * [https://t.me/WJClubNews](https://t.me/WJClubNews) - Official News Channel of @WJClub (Noticias sobre algunos bots de encuestas)
 * [https://t.me/MiTracking](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
@@ -201,7 +201,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [https://t.me/fairphoneblog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
 * [https://t.me/s/ubports\_news](https://t.me/s/ubports_news) - The very latest from the UBports Community\!
-* [https://t.me/LineageOS](https://t.me/LineageOS) - `(Parado desde 2019-03)`
+* [https://t.me/LineageOS](https://t.me/LineageOS) - `[Parado desde 2019-03]`
 
 ### Cultura/Ocio/Otros
 
@@ -211,14 +211,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/DIY\_Hazlotumismo](https://t.me/DIY_Hazlotumismo) -Planeta DIY - Hazlo tu mismo
 * Historia
   * [https://t.me/capsulahistoria](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
-  * [https://t.me/historygram](https://t.me/historygram) - Fotografías históricas. - `(Parado desde 2019-03)`
+  * [https://t.me/historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
 * Alimentación
-  * [https://t.me/dieteticasinpatrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `(Parado desde 2019-02)`
+  * [https://t.me/dieteticasinpatrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
   * [https://t.me/realfooder](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
   * [https://t.me/vegan](https://t.me/vegan) - Infografías y fotos, Abandonado desde 2016, pero tiene material curioso.
   * [https://t.me/cultivatuhuerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
 * Arte / Dibujo
-  * [https://t.me/jude\_devir](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _Tira cómica de pareja_
+  * [https://t.me/jude\_devir](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [https://t.me/artplanet](https://t.me/artplanet) - Art planet
 
 ### Política
@@ -240,9 +240,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [https://t.me/ResiduoCeroRM](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
 * [https://t.me/rutavegana](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
-* [https://t.me/lasaludentucomida](https://t.me/lasaludentucomida) - Comidas saludables para llevar, panadería y repostería 0% gluten 100% sabor. También tenemos Menús vegetarianos y veganos. (Comida para llevar en Cartagena)
+* [https://t.me/lasaludentucomida](https://t.me/lasaludentucomida) - Comidas saludables para llevar, panadería y repostería 0% gluten 100% sabor. También tenemos Menús vegetarianos y veganos. _(Comida para llevar en Cartagena)_
 * [https://t.me/UbiLaManga](https://t.me/UbiLaManga) - Ubicaciones La Manga
-* [https://t.me/GPMurcia](https://t.me/GPMurcia) - GreenPeace Murcia - `(Sin contenido)`
+* [https://t.me/GPMurcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Comunidad Valenciana
 
@@ -300,7 +300,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/linuxmint\_es](https://t.me/linuxmint_es) - Linux Mint
 * [https://t.me/devuan\_es](https://t.me/devuan_es) - Devuan
 * [https://t.me/opensusesp](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
-* [https://t.me/opensuselinux](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español (Poco movimiento)
+* [https://t.me/opensuselinux](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español - _(Poco movimiento)_
 * [https://t.me/fedora\_es](https://t.me/fedora_es) - Fedora
 * [https://t.me/centos\_es](https://t.me/centos_es) - Centos
 * [https://t.me/redhat\_es](https://t.me/redhat_es) - Red Hat
@@ -308,8 +308,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/slackware\_es](https://t.me/slackware_es)
 * [https://t.me/anarchyenespanol](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
 * [https://t.me/ArchLinuxYDerivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
-* [https://t.me/antergosesp](https://t.me/antergosesp) y [https://t.me/antergos\_es](https://t.me/antergos_es) - Antergos en español (descontinuada)
-* [https://t.me/Antergos](https://t.me/Antergos) - En inglés
+* [https://t.me/antergosesp](https://t.me/antergosesp) y [https://t.me/antergos\_es](https://t.me/antergos_es) - Antergos en español  - _(Distro descontinuada)_
+* [https://t.me/Antergos](https://t.me/Antergos) - _(En inglés)_
 * [https://t.me/manjarolinuxes](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
 * [https://t.me/voidlinux\_es](https://t.me/voidlinux_es) - Void Linux
 * [https://t.me/gentoo\_es](https://t.me/gentoo_es) - Gentoo
@@ -335,11 +335,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * UBports
   * [https://t.me/ubports](https://t.me/ubports) - UBports [ENGLISH]
     * [https://t.me/UBPorts\_ES](https://t.me/UBPorts_ES) - Grupo oficial de la comunidad de UBPorts en Español
-    * [https://t.me/WelcomePlus](https://t.me/WelcomePlus) - Ubports newcomers room - _Para novatos_
+    * [https://t.me/WelcomePlus](https://t.me/WelcomePlus) - Ubports newcomers room - _(Para novatos)_
 
 ### Tecnológicos
 
-* [https://t.me/TodoSobreTelegram](https://t.me/TodoSobreTelegram/136492) - _Grupo sobre actualidad de todo lo relacionado con Telegram_
+* [https://t.me/TodoSobreTelegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
 
 ### Por Regiones
 
@@ -347,7 +347,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [https://t.me/MurciaRegionLibre](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
 * [https://t.me/hackandsecmurcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
-* Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _Cartagena.España_
+* Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
 
 #### Por localización
 
@@ -361,7 +361,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Comunidad Valenciana
 
-* [https://t.me/gnulinuxvalencia](https://t.me/gnulinuxvalencia) - [https://gnulinuxvalencia.org](Difusión de GNU/Linux.) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _español y valenciano_
+* [https://t.me/gnulinuxvalencia](https://t.me/gnulinuxvalencia) - [https://gnulinuxvalencia.org](Difusión de GNU/Linux.) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
 
 #### Galicia
 
@@ -404,7 +404,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 @GroupButler\_bot - managing your group with rules, anti-flood, description, custom trigger
 
-@MissRose\_bot - _es privativo por cabreo del developer_ - [https://t.me/RoseSupport](https://t.me/RoseSupport)
+@MissRose\_bot - _(es privativo por cabreo del developer)_ - [https://t.me/RoseSupport](https://t.me/RoseSupport)
 
 ### Para encontrar en Telegram
 
@@ -445,7 +445,7 @@ Spoiler Alert Bot - Permite enviar texto o imagen como spoiler y no es legible e
 
 ## LEYENDA
 
-* *Canal/Grupo/Bot* - Descripción dada por el autor/dueño - _Comentario_ - `(Estado parado o vacío)`
+* **Canal/Grupo/Bot** - Descripción dada por el autor/dueño - _(Comentario)_ - `[Estado parado o vacío]`
 
 
 ## Licencia
