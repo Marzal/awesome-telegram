@@ -54,11 +54,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Medioambiente / Sostenibilidad
 
-* [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
+* [ZeroWaste / Residuo Cero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
   * Tiene [grupo asociado](https://t.me/ZeroWaste_ResiduoCero) - Grupo para comentar las noticias del canal @ResiduoCero administrado por @ResiduoCeroRM
-* [https://t.me/ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
+* [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
 * [https://t.me/blogsostenible](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
-
+* Energías Renovables
+  * [Energías renovables DIY](https://t.me/Energias_renovables_DIY) - Nos gustan las energías renovables, creemos en las energías limpias, generamos nuestra propia energía verde.
+  * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
+  * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
 ### ONGs / Asociaciones
 * [https://t.me/ecologistas](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [https://t.me/greenpeace\_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
@@ -217,7 +220,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/EducacionEspecial](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
 * [https://t.me/educacion](https://t.me/educacion) - Educación Digital con lo último.
 * [https://t.me/urgenciasyemergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
-* [https://t.me/DIY\_Hazlotumismo](https://t.me/DIY_Hazlotumismo) -Planeta DIY - Hazlo tu mismo
+* [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
 * Historia
   * [https://t.me/capsulahistoria](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [https://t.me/historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
@@ -225,7 +228,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [https://t.me/dieteticasinpatrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
   * [https://t.me/realfooder](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
   * [https://t.me/vegan](https://t.me/vegan) - Infografías y fotos, Abandonado desde 2016, pero tiene material curioso.
-  * [https://t.me/cultivatuhuerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
+  * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
+  * [Huerto ecológico](https://t.me/Huerto_ecologico) - Producir para autoconsumir. Aprende a cultivar tu propio huerto ecológico.
 * Arte / Dibujo
   * [https://t.me/jude\_devir](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [https://t.me/artplanet](https://t.me/artplanet) - Art planet
