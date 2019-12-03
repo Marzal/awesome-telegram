@@ -3,6 +3,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 <!-- TOC depthFrom:1 -->
 * [CANALES](#canales)
+  * [Medioambiente / Sostenibilidad](#medioambiente-sostenibilidad)
   * [ONGs / Asociaciones](#ongs-asociaciones)
   * [Noticias](#noticias)
   * [Informática](#informática)
@@ -51,12 +52,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## CANALES
 
-### ONGs / Asociaciones
+### Medioambiente / Sostenibilidad
 
 * [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
 * [https://t.me/podcastActualidadEmpleoAmbiental](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
 * [https://t.me/ecologistas](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [https://t.me/greenpeace\_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
+* [https://t.me/ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
+* [https://t.me/blogsostenible](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
+
+### ONGs / Asociaciones
 * [https://t.me/unicef\_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
 * [https://t.me/facua](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
 
@@ -66,8 +71,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/malditobulo](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
 * [https://t.me/eldiarioes](https://t.me/eldiarioes) - Sistema de alertas informativas
 * [https://t.me/elpaiscom](https://t.me/elpaiscom) - Última hora y alertas de noticias
-* [https://t.me/ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
-* [https://t.me/blogsostenible](https://t.me/blogsostenible) - Sobre sostenibilidad, medioambiente y especismo
 
 ### Informática
 
@@ -452,6 +455,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
 
 ### Aprobados por Telegram
+
 * @telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
 * @BotFather - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
 * @like - _(Mensajes con botones)_
@@ -463,6 +467,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @imdb
   * @bold - Markdown bot
   * @gamee - Juegos
+  * @music
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
   * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
