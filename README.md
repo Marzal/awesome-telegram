@@ -158,7 +158,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Telegram
 
 * [https://t.me/telegram](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
-* [https://t.me/TelegramES](https://t.me/TelegramES) - Canal oficial de Telegram en español
+  * [https://t.me/TelegramES](https://t.me/TelegramES) - Canal oficial de Telegram en español
 * [https://t.me/desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
 * [https://t.me/OpenSourceTelegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [https://t.me/tgx\_android](https://t.me/tgx_android) - Developer's channel - Telegram X
@@ -452,28 +452,23 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
 
 ### Aprobados por Telegram
-
-\@pic
-
-@gif - Type @gif with a search query in your channel and gif suggestions will show up
-
-@like
-
-@youtube
-
-@sticker
-
-@telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
-
-@BotFather - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
-
-@notoscam - Reports about scammers are welcome here.
-
-@GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
-
-@TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
-
-@botsupport - _(Para mandarles sugerencias sobre los bots. Oficial)_
+* @telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
+* @BotFather - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
+* @like - _(Mensajes con botones)_
+* Busquedas inline
+  * @gif - Type @gif with a search query in your channel and gif suggestions will show up
+  * @pic - _(imagenes)_
+  * @youtube - _(Busca videos)_
+  * @sticker
+  * @imdb
+  * @bold - Markdown bot
+  * @gamee - Juegos
+* Soporte
+  * @NoToScam - Reports about scammers are welcome here.
+  * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
+  * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
+  * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
+  * @BotSupport - _(Para mandarles sugerencias sobre los bots. Oficial)_
 
 
 ## RECURSOS
