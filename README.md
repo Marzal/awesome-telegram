@@ -125,6 +125,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Grupo asociado - [https://t.me/neositelinuxgrupo](https://t.me/neositelinuxgrupo)
 * [https://t.me/systeminsideaudio](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [https://t.me/maraton\_linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
+  * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
 * [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
 * Programación
   * https://t.me/webreactiva - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
@@ -132,7 +133,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Blogs
 
-* [https://t.me/revistasololinux](https://t.me/revistasololinux) - Canal de la revista digital SoloLinux
+* https://t.me/sololinux_es - Telegram oficial de sololinux.es
 * [https://t.me/lamiradadelreplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
 * [https://t.me/voidnullblog](https://t.me/voidnullblog) - Canal Oficial del blog \_ voidNull [www.voidnull.es](http://www.voidnull.es)
 * [https://t.me/colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
@@ -275,7 +276,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## GRUPOS
 
-### Sotware Libre
+### Software Libre
 
 * [https://t.me/tuxaldea](https://t.me/tuxaldea)
 * [https://t.me/Linuxeros\_es](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
@@ -294,7 +295,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Podcasts sin canal
 
 * [https://t.me/entredevyops](https://t.me/entredevyops) - Comunidad del podcast Entre Dev y Ops 🎙 - [https://www.entredevyops.es](https://www.entredevyops.es)
-* [https://t.me/maratonlinuxero](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre. [https://maratonlinuxero.org](https://maratonlinuxero.org)
 * [https://t.me/HomeStudioLibre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
 
 ### Bash / Shell
@@ -349,6 +349,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/jugandoenlinux](https://t.me/jugandoenlinux) - Grupo de la página [http://www.jugandoenlinux.com](http://www.jugandoenlinux.com)
 
 ### Android / Moviles
+
 * Android
   * [https://t.me/andOTP](https://t.me/andOTP) - Official Telegram group for the open-source two-factor authentication app andOTP
   * [https://t.me/Lineageos\_group](https://t.me/Lineageos_group)
@@ -360,6 +361,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Tecnológicos
 
 * [https://t.me/TodoSobreTelegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
+
+* Programación
+  * https://t.me/Pythonparadocentes - Grupo de discusión sobre Python en la educación (España)
 
 ### Por Regiones
 
