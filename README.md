@@ -199,7 +199,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/cybersecuritypulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [https://t.me/Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
 * [https://t.me/paloalto\_firewall](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
-
+* [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
+  * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
 ### Programación / Developers
 
 * [https://t.me/programmerjokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
@@ -230,7 +231,23 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [https://t.me/artplanet](https://t.me/artplanet) - Art planet
 
 ### Otros Podcasts
-* https://t.me/filosofianada - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
+
+* [Republica Web](https://t.me/republicaweb) - Un [podcast](www.republicaweb.es) de tecnología sin canal de Telegram no merece ser emitido.
+* [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
+  * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
+* [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
+  * Tiene [grupo](https://t.me/opinafilosofianada)
+* [Tiempo escaso](https://t.me/tiempoescaso)
+* [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono)
+* [Porqué podcast](https://t.me/porquepodcast)
+* [Hablemos de Montessori](https://t.me/hablemosdemontessori)
+* [Red de  podcast Nación Podcaster](https://t.me/nacionpodcast)
+  * Tiene [grupo](https://t.me/nacionpodcaster)
+* [Va Por Nosotras](https://t.me/vapornosotraspodcast)
+  * Tiene [grupo](https://t.me/vapornosotras)
+* [Viajo en Moto](https://t.me/viajoenmoto)
+  * Tiene [grupo](https://t.me/chat_viajo_en_moto)
+* [Historacing](https://t.me/historacing)
 
 ### Política
 
@@ -296,8 +313,18 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Podcasts sin canal
 
-* [https://t.me/entredevyops](https://t.me/entredevyops) - Comunidad del podcast Entre Dev y Ops 🎙 - [https://www.entredevyops.es](https://www.entredevyops.es)
-* [https://t.me/HomeStudioLibre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
+* [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
+* [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
+* [La cocina está abierta](https://t.me/lacocinaestaabierta)
+* [Esto No Es Politica](https://t.me/ETEPolitica)
+* [Cosas de ModernOS](https://t.me/cosasdemodernos)
+* [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
+* [Yo Virtualizador](https://t.me/grupovirtualizador)
+* [De Rodillas Grupo](https://t.me/derodillas)
+* [Vacía tu bandeja](https://t.me/Vaciatubandeja)
+* [El Peor Consultorio](https://t.me/elpeorconsultorio)
+* [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
+* [Series Reality Podcast](https://t.me/joinchat/AYDUWk73myOxZ7140NsJGg)
 
 ### Bash / Shell
 
