@@ -55,13 +55,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Medioambiente / Sostenibilidad
 
 * [https://t.me/ResiduoCero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
-* [https://t.me/podcastActualidadEmpleoAmbiental](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
-* [https://t.me/ecologistas](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
-* [https://t.me/greenpeace\_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
+  * Tiene [grupo asociado](https://t.me/ZeroWaste_ResiduoCero) - Grupo para comentar las noticias del canal @ResiduoCero administrado por @ResiduoCeroRM
 * [https://t.me/ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
 * [https://t.me/blogsostenible](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
 
 ### ONGs / Asociaciones
+* [https://t.me/ecologistas](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
+* [https://t.me/greenpeace\_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
 * [https://t.me/unicef\_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
 * [https://t.me/facua](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
 
@@ -275,6 +275,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 
 ## GRUPOS
+
+* [https://t.me/podcastActualidadEmpleoAmbiental](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
 
 ### Software Libre
 
