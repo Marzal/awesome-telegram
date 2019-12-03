@@ -20,6 +20,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Programación / Developers](#programación-developers)
   * [Móviles / Android](#móviles-android)
   * [Cultura/Ocio/Otros](#culturaociootros)
+  * [Otros Podcasts](#otros-podcasts)
   * [Política](#política)
   * [Regionales](#regionales)
     * [Región de Murcia](#región-de-murcia)
@@ -114,13 +115,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Grupo asociado [https://t.me/uGeekPodcast](https://t.me/uGeekPodcast)
 * [https://t.me/mosqueterowebencanal](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [https://t.me/TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
+* [https://t.me/avionesdepapel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
+* [https://t.me/ARMparaTodos](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos - _Tiene grupo privado_
 * [https://t.me/neositelinux](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
-* [https://t.me/neositelinuxpodcast](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
+  * [https://t.me/neositelinuxpodcast](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
   * Grupo asociado - [https://t.me/neositelinuxgrupo](https://t.me/neositelinuxgrupo)
 * [https://t.me/systeminsideaudio](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
-* [https://t.me/ARMparaTodos](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos
 * [https://t.me/maraton\_linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
 * [https://t.me/killallradiopodcast](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
+* Programación
+  * https://t.me/webreactiva - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
+  * https://t.me/podcastjustdevzero - Canal dedicado a la distribución de mi [podcast](https://podcast.justdevzero.me/) homónimo.
 
 #### Blogs
 
@@ -157,7 +162,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [https://t.me/desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
 * [https://t.me/OpenSourceTelegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [https://t.me/tgx\_android](https://t.me/tgx_android) - Developer's channel - Telegram X
-* [https://t.me/avionesdepapel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - Tiene grupo privado
 * [https://t.me/mastelegram](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [https://t.me/StickersAnimados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [https://t.me/contest](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
@@ -220,6 +224,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Arte / Dibujo
   * [https://t.me/jude\_devir](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [https://t.me/artplanet](https://t.me/artplanet) - Art planet
+
+### Otros Podcasts
+* https://t.me/filosofianada - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
 
 ### Política
 
@@ -294,32 +301,37 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Distribuciones GNU/Linux
 
-* [https://telegram.me/GnuLinuxGrupo](https://telegram.me/GnuLinuxGrupo) - distribuciones, ayuda, errores, drivers, instalaciones...
-* [https://t.me/Debian\_es](https://t.me/Debian_es) - Debian
-* [https://t.me/ubuntu\_es](https://t.me/ubuntu_es) - Ubuntu en Español
-* [https://t.me/ubuntizados](https://t.me/ubuntizados) - Ubuntizados
-* [https://t.me/kdeneones](https://t.me/kdeneones) - KDE Neon
-* [https://t.me/Kubuntues](https://t.me/Kubuntues) - Kubuntu
-* [https://t.me/UbuntuStudio](https://t.me/UbuntuStudio) - Ubuntu Studio
-* [https://t.me/lubuntues](https://t.me/lubuntues) - Lubuntu
-* [https://t.me/linuxmint\_es](https://t.me/linuxmint_es) - Linux Mint
-* [https://t.me/devuan\_es](https://t.me/devuan_es) - Devuan
-* [https://t.me/opensusesp](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
-* [https://t.me/opensuselinux](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español - _(Poco movimiento)_
-* [https://t.me/fedora\_es](https://t.me/fedora_es) - Fedora
-* [https://t.me/centos\_es](https://t.me/centos_es) - Centos
-* [https://t.me/redhat\_es](https://t.me/redhat_es) - Red Hat
-* [https://t.me/deepinenespanol](https://t.me/deepinenespanol) - Deepin en Español - [https://t.me/deepin\_es](https://t.me/deepin_es)
-* [https://t.me/slackware\_es](https://t.me/slackware_es)
-* [https://t.me/anarchyenespanol](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
-* [https://t.me/ArchLinuxYDerivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
-* [https://t.me/antergosesp](https://t.me/antergosesp) y [https://t.me/antergos\_es](https://t.me/antergos_es) - Antergos en español  - _(Distro descontinuada)_
-* [https://t.me/Antergos](https://t.me/Antergos) - _(En inglés)_
-* [https://t.me/manjarolinuxes](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
-* [https://t.me/voidlinux\_es](https://t.me/voidlinux_es) - Void Linux
-* [https://t.me/gentoo\_es](https://t.me/gentoo_es) - Gentoo
-* [https://t.me/kalilinux\_es](https://t.me/kalilinux_es) - Kali Linux
-* [https://t.me/huayra\_comunidad](https://t.me/huayra_comunidad) - Huayra Linux
+* [https://t.me/GnuLinuxGrupo](https://t.me/GnuLinuxGrupo) - distribuciones, ayuda, errores, drivers, instalaciones...
+* DEB
+  * [https://t.me/Debian\_es](https://t.me/Debian_es) - Debian
+    * [https://t.me/devuan\_es](https://t.me/devuan_es) - Devuan
+  * [https://t.me/ubuntu\_es](https://t.me/ubuntu_es) - Ubuntu en Español
+    * [https://t.me/ubuntizados](https://t.me/ubuntizados) - Ubuntizados
+    * [https://t.me/kdeneones](https://t.me/kdeneones) - KDE Neon
+    * [https://t.me/Kubuntues](https://t.me/Kubuntues) - Kubuntu
+    * [https://t.me/UbuntuStudio](https://t.me/UbuntuStudio) - Ubuntu Studio
+    * [https://t.me/lubuntues](https://t.me/lubuntues) - Lubuntu
+    * [https://t.me/linuxmint\_es](https://t.me/linuxmint_es) - Linux Mint
+  * [https://t.me/deepinenespanol](https://t.me/deepinenespanol) - Deepin en Español - [https://t.me/deepin\_es](https://t.me/deepin_es)
+  * [https://t.me/huayra\_comunidad](https://t.me/huayra_comunidad) - [Huayra Linux](https://huayra.conectarigualdad.gob.ar/) - _desarrollado por Educ.ar SE para los Programas Conectar Igualdad y Primaria Digital._
+* RPM
+  * [https://t.me/fedora\_es](https://t.me/fedora_es) - Fedora
+  * [https://t.me/centos\_es](https://t.me/centos_es) - Centos
+  * [https://t.me/redhat\_es](https://t.me/redhat_es) - Red Hat
+* Rolling Release
+  * [https://t.me/opensusesp](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
+    * [https://t.me/opensuselinux](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español - _(Poco movimiento)_
+  * Arch based
+    * [https://t.me/ArchLinuxYDerivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
+    * [https://t.me/anarchyenespanol](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
+    * [https://t.me/manjarolinuxes](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
+    * [https://t.me/antergosesp](https://t.me/antergosesp) y [https://t.me/antergos\_es](https://t.me/antergos_es) - Antergos en español  - _(Distro descontinuada)_
+    * [https://t.me/Antergos](https://t.me/Antergos) - _(En inglés)_
+  * [https://t.me/voidlinux\_es](https://t.me/voidlinux_es) - Void Linux
+  * [https://t.me/gentoo\_es](https://t.me/gentoo_es) - Gentoo
+  * [https://t.me/kalilinux\_es](https://t.me/kalilinux_es) - Kali Linux
+* Otras
+  * [https://t.me/slackware\_es](https://t.me/slackware_es)
 
 #### Entornos de Escritorio
 
@@ -433,15 +445,15 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
 
-@SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
-
 @transcriber_bot - Voz a texto
 
 @temp_mail_bot - (ruso) - `[temp_mail_bot]`
 
+@SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
+
 ### Aprobados por Telegram
 
-@pic
+\@pic
 
 @gif - Type @gif with a search query in your channel and gif suggestions will show up
 
@@ -468,7 +480,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Para bots
 * Buscadores:
-** https://botostore.com/bots/telegram/
+  * https://botostore.com/bots/telegram/
 
 
 ## LEYENDA
