@@ -389,7 +389,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 
 ## BOTs
-
+`Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
 * @Politi_bot - Piezas informativas e infografías de manera interactiva
 * @bulobot - Para enviar bulos a los de [https://t.me/malditobulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
@@ -432,7 +432,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
 * @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
 * @transcriber_bot - Voz a texto
-* @temp_mail_bot - (ruso) - `[temp_mail_bot]`
+* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
 * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
 
 ### Aprobados por Telegram
