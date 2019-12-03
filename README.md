@@ -390,69 +390,50 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## BOTs
 
-@Politi\_bot - Piezas informativas e infografías de manera interactiva
-
-@bulobot - Para enviar bulos a los de [https://t.me/malditobulo](https://t.me/malditobulo)
-
-@bulo\_blocker\_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
-
-@eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
-
-@aemetbot - Consulta el tiempo de tu localidad. Sólo España.
+* @Politi_bot - Piezas informativas e infografías de manera interactiva
+* @bulobot - Para enviar bulos a los de [https://t.me/malditobulo](https://t.me/malditobulo)
+* @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
+* @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
+* @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 
 ### Encuestas
 
-@advancedpollbot
-
-@groupagreebot
+* @advancedpollbot
+* @groupagreebot
 
 ### Gestión canales / RRSS
 
-@ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. _(Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...)_
-
-@discussbot - Make this bot an admin in your channel to add comment buttons to all posts. _(Oficial)_
-
-@CommentsBot - I can help you to create posts with comments, share them to your channels or groups.
-
-@IFTTT - Link your Telegram groups or channels to more than 360 other services. - _(Oficial de IFFT)_
-
-@GramToolBot - Instagram helper bot on Telegram!. I can assist you with all sorts of things such as downloading posts, getting account stats, reseaching hashtags, finding viral content and much more!
+* @ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. _(Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...)_
+* @discussbot - Make this bot an admin in your channel to add comment buttons to all posts. _(Oficial)_
+* @CommentsBot - I can help you to create posts with comments, share them to your channels or groups.
+* @IFTTT - Link your Telegram groups or channels to more than 360 other services. - _(Oficial de IFFT)_
+* @GramToolBot - Instagram helper bot on Telegram!. I can assist you with all sorts of things such as downloading posts, getting account stats, reseaching hashtags, finding viral content and much more!
 
 ### Administración de Grupos
 
-@join\_captcha\_bot - [GIT](https://github.com/J-Rios/TLG_JoinCaptchaBot)
-
-@GroupButler\_bot - managing your group with rules, anti-flood, description, custom trigger
-
-@MissRose\_bot - _(es privativo por cabreo del developer)_ - [https://t.me/RoseSupport](https://t.me/RoseSupport)
+* @join_captcha_bot - [GIT](https://github.com/J-Rios/TLG_JoinCaptchaBot)
+* @GroupButler_bot - managing your group with rules, anti-flood, description, custom trigger
+* @MissRose_bot - _(es privativo por cabreo del developer)_ - [https://t.me/RoseSupport](https://t.me/RoseSupport)
 
 ### Para encontrar en Telegram
 
-@tchannelsbot - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
-
-@storebot - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
+* @tchannelsbot - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
+* @storebot - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
 
 ### Develop
 
-@HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
-
-@GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
-
-@GithubBot - track GitHub updates.
+* @HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
+* @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
+* @GithubBot - track GitHub updates.
 
 ### Utilidades
 
-@MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
-
-@cuandosale_bot - Para saber la fecha de salida de un capítulo
-
-@reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
-
-@transcriber_bot - Voz a texto
-
-@temp_mail_bot - (ruso) - `[temp_mail_bot]`
-
-@SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
+* @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
+* @cuandosale_bot - Para saber la fecha de salida de un capítulo
+* @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
+* @transcriber_bot - Voz a texto
+* @temp_mail_bot - (ruso) - `[temp_mail_bot]`
+* @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
 
 ### Aprobados por Telegram
 
