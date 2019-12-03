@@ -91,7 +91,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 * FLOSS
   * [Free Software Foundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
-    * Grupo Asociado [https://t.me/stallmanwasright](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
+    * Grupo asociado [StallmanWasRight](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
   * [It's FOSS](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
 
 #### GNU/Linux
@@ -111,21 +111,21 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [ Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [El Podcast de Eduardo](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
-  * Grupo asociado [https://t.me/grupopodcast](https://t.me/grupopodcast) para comentar los capítulos (+ de todo)
-  * Canal asociado [https://t.me/elpodcastaudios](https://t.me/elpodcastaudios) - Audios del podcast
+  * Grupo asociado [Grupo Podcast](https://t.me/grupopodcast) para comentar los capítulos - _(+ de todo un poco)_
+  * Canal asociado [Audios - El Podcast de Eduardo](https://t.me/elpodcastaudios) - Audios del podcast
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
-* [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la web [https://www.ochobitshacenunbyte.com](https://www.ochobitshacenunbyte.com)
+* [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
 * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
-  * Grupo asociado [https://t.me/uGeekPodcast](https://t.me/uGeekPodcast)
+  * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
 * [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos - _Tiene grupo privado_
 * [NeoSiteLinux - Software Libre y más...](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
-  * [https://t.me/neositelinuxpodcast](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
-  * Grupo asociado - [https://t.me/neositelinuxgrupo](https://t.me/neositelinuxgrupo)
+  * [NeoSiteLinux Podcast (Audios)](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
+  * Grupo asociado [NeoSiteLinux (grupo)](https://t.me/neositelinuxgrupo)
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
   * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
@@ -312,7 +312,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
-  * Recomienda [grupo](https://t.me/ArteGraficoLibre)
+  * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
 
 ### Podcasts sin canal
 
@@ -348,7 +348,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Kubuntu en Español](https://t.me/Kubuntues) - Grupo NO oficial de Kubuntu en Español
     * [Ubuntu Studio en Español](https://t.me/UbuntuStudio) - Un grupo creado para ayudarnos a usar este lindo sistema para humanos creativos, tambien compartir nuestros conocimientos y creaciones.
     * [Linux Mint en Español](https://t.me/linuxmint_es) - Grupo oficial de Linux Mint en Español
-  * [Deepin en Español](https://t.me/deepinenespanol) - Somos un grupo en español sobre Deepin - [https://t.me/deepin\_es](https://t.me/deepin_es)
+  * [DeepinOS](https://t.me/deepin_es) - Grupo Oficial de DeepinOS en Español!
+    * [Deepin en Español](https://t.me/deepinenespanol) - Somos un grupo en español sobre Deepin
   * [Huayra GNU/Linux](https://t.me/huayra_comunidad) - Grupo Oficial de la Comunidad [Huayra Linux](https://huayra.conectarigualdad.gob.ar/) - _desarrollado por Educ.ar SE para los Programas Conectar Igualdad y Primaria Digital._
 * RPM
   * [Fedora en Español](https://t.me/fedora_es) - Grupo oficial de Fedora en Español.
@@ -379,7 +380,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Juegos
 
 * [ENLinuxJugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
-* [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la página [http://www.jugandoenlinux.com](http://www.jugandoenlinux.com)
+* [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la [página](http://www.jugandoenlinux.com)
 
 ### Android / Moviles
 
@@ -427,7 +428,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
 * @Politi_bot - Piezas informativas e infografías de manera interactiva
-* @bulobot - Para enviar bulos a los de [https://t.me/malditobulo](https://t.me/malditobulo)
+* @bulobot - Para enviar bulos a los de [Maldito Bulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
 * @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
@@ -449,7 +450,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * @join_captcha_bot - [GIT](https://github.com/J-Rios/TLG_JoinCaptchaBot)
 * @GroupButler_bot - managing your group with rules, anti-flood, description, custom trigger
-* @MissRose_bot - _(es privativo por cabreo del developer)_ - [https://t.me/RoseSupport](https://t.me/RoseSupport)
+* @MissRose_bot - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
 
 ### Para encontrar en Telegram
 
