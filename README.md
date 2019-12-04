@@ -506,34 +506,34 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### IFTT
 * Tiempo / Meteorología
-  * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
-  * https://ifttt.com/applets/ah7SPBUe-send-a-message-to-a-telegram-chat-if-there-will-be-rain-in-your-area-tomorrow
+  * [WU a TG_Chat](https://ifttt.com/applets/ah7SPBUe-send-a-message-to-a-telegram-chat-if-there-will-be-rain-in-your-area-tomorrow) - Send a message to a Telegram chat if there will be rain in your area tomorrow - _Weather Underground_
+  * [WU a TG_Chat](https://ifttt.com/applets/V5jg4iNb-its-gonna-rain) - Sends you a telegram message if its going to rain - _Weather Underground_
 
-#### Facebook
-* [Fotos a TG_Chat](https://ifttt.com/applets/urbQAevJ-save-photos-you-re-tagged-in-on-facebook-to-a-telegram-chat) - Save photos you're tagged in on Facebook to a Telegram chat
+* Facebook
+  * [Fotos a TG_Chat](https://ifttt.com/applets/urbQAevJ-save-photos-you-re-tagged-in-on-facebook-to-a-telegram-chat) - Save photos you're tagged in on Facebook to a Telegram chat
 
-#### Twitter
-* Telegram -> TW
-  * [Canal a Tweet](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel) - Tweet new text posts from your Telegram channel
-  * https://ifttt.com/applets/bZca3fjt-telegram-to-twitter-posting
-  * https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter
-  * https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram
-* TW -> Telegram
-  * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y) - Whenever you are mentioned on Twitter, post a message to Telegram
-  * https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram
-  * https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram
-  * https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s
-  * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
+* Twitter
+  * Telegram -> TW
+    * [Canal a Tweet](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel) - Tweet new text posts from your Telegram channel
+    * https://ifttt.com/applets/bZca3fjt-telegram-to-twitter-posting
+    * https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter
+    * https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram
+  * TW -> Telegram
+    * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y) - Whenever you are mentioned on Twitter, post a message to Telegram
+    * https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram
+    * https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram
+    * https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s
+    * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
 
-#### Instagram
-* IG -> Telegram
-  * (https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat)
-  * (https://ifttt.com/applets/yhdqYTXw-post-your-new-instagram-videos-with-a-specific-hashtag-to-a-telegram-chat)
-  * (https://ifttt.com/applets/Zu8X9dDz-send-my-instagram-post-url-to-telegram-group-chat)
-  * (https://ifttt.com/applets/D6SJMnAm-post-your-instagram-photos-to-telegram)
-  * (https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat)
-  * (https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel)
-  * (https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel)
+* Instagram
+  * IG -> Telegram
+    * (https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat)
+    * (https://ifttt.com/applets/yhdqYTXw-post-your-new-instagram-videos-with-a-specific-hashtag-to-a-telegram-chat)
+    * (https://ifttt.com/applets/Zu8X9dDz-send-my-instagram-post-url-to-telegram-group-chat)
+    * (https://ifttt.com/applets/D6SJMnAm-post-your-instagram-photos-to-telegram)
+    * (https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat)
+    * (https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel)
+    * (https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel)
 
 ### Para bots
 * Buscadores:
