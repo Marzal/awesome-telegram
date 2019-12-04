@@ -6,7 +6,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Medioambiente / Sostenibilidad](#medioambiente-sostenibilidad)
   * [ONGs / Asociaciones](#ongs-asociaciones)
   * [Noticias](#noticias)
-  * [Informática](#informática)
+  * [Informática / Tecnología](#informática-tecnología)
   * [Software Libre / FLOSS](#software-libre-floss)
     * [GNU/Linux](#gnulinux)
     * [Podcasts](#podcasts)
@@ -75,10 +75,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
 
-### Informática
+### Informática / Tecnología
 
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
 * [Xataka](https://t.me/xataka) - Apasionados por la tecnología
+* [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
+* [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 * [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 
@@ -496,9 +498,64 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## RECURSOS
 
+### Oficiales
+* [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
+
+### Utilidades
+* https://т.website/ - _Generador de previews insertables_
+
+### IFTT
+* Tiempo / Meteorología
+  * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
+  * https://ifttt.com/applets/ah7SPBUe-send-a-message-to-a-telegram-chat-if-there-will-be-rain-in-your-area-tomorrow
+
+#### Facebook
+* [Fotos a TG_Chat](https://ifttt.com/applets/urbQAevJ-save-photos-you-re-tagged-in-on-facebook-to-a-telegram-chat) - Save photos you're tagged in on Facebook to a Telegram chat
+
+#### Twitter
+* Telegram -> TW
+  * [Canal a Tweet](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel) - Tweet new text posts from your Telegram channel
+  * https://ifttt.com/applets/bZca3fjt-telegram-to-twitter-posting
+  * https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter
+  * https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram
+* TW -> Telegram
+  * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y) - Whenever you are mentioned on Twitter, post a message to Telegram
+  * https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram
+  * https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram
+  * https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s
+  * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
+
+#### Instagram
+* IG -> Telegram
+  * (https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat)
+  * (https://ifttt.com/applets/yhdqYTXw-post-your-new-instagram-videos-with-a-specific-hashtag-to-a-telegram-chat)
+  * (https://ifttt.com/applets/Zu8X9dDz-send-my-instagram-post-url-to-telegram-group-chat)
+  * (https://ifttt.com/applets/D6SJMnAm-post-your-instagram-photos-to-telegram)
+  * (https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat)
+  * (https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel)
+  * (https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel)
+
 ### Para bots
 * Buscadores:
-  * https://botostore.com/bots/telegram/
+  * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
+
+### Funcionamiento
+* Tutoriales
+  * [Así es TELEGRAM, la mejor alternativa a WHATSAPP | ChicaGeek](https://www.youtube.com/watch?v=l19qpCDvQb8) - Video con funcionamiento básico - 20 minutos
+
+### Para encontrar canales, grupos o bots
+* Otros listados
+  * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
+  * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
+* Buscadores
+  * https://telegramchannels.me/ - Discover The Best Telegram Channels - _Channels, Groups, and Bots_
+  * https://telegramic.org - Social Telegram Directory - _Channels, Groups, Bots and Stickers_
+
+  * Solo Canales
+    * https://canalgram.com/directorio-canales/
+  * Solo Grupos
+    * http://www.grupostelegram.net/
+    * https://telegroups.info
 
 
 ## LEYENDA
