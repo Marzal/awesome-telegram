@@ -205,6 +205,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
 * [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
+
 ### Programación / Developers
 
 * [Programmer Jokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
@@ -458,13 +459,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Para encontrar en Telegram
 
 * @tchannelsbot - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
-* @storebot - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
+* [@StoreBot](https://t.me/StoreBot) - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
 
 ### Develop
 
 * @HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 * @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
-* @GithubBot - track GitHub updates.
+* [@githubbot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
 
 ### Utilidades
 
@@ -478,13 +479,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Aprobados por Telegram
 
 * @telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
-* @BotFather - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
-* @like - _(Mensajes con botones)_
+* [@BotFather](https://t.me/botfather) - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
+* [@like](https://t.me/like) - _(Mensajes con botones)_
+* [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
 * Busquedas inline
-  * @gif - Type @gif with a search query in your channel and gif suggestions will show up
+  * [@gif](https://t.me/gif) - Type @gif with a search query in your channel and gif suggestions will show up
   * @pic - _(imagenes)_
   * @youtube - _(Busca videos)_
-  * @sticker
+  * @sticker - enter and emoji
   * @imdb
   * @bold - Markdown bot
   * @gamee - Juegos
@@ -498,6 +500,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 
 ## RECURSOS
+
+ * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En ingles y ruso_
 
 ### Oficiales
 * [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
@@ -534,6 +538,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * (https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel)
 
 ### Para bots
+* Info sobre crearlos
+  * [Awesome Telegram Bots](https://github.com/DenisIzmaylov/awesome-telegram-bots#readme) -  Open Source Examples, Libraries and Starter Kits for Telegram Bots to speed up your learning process.
+  * [Awesome Bots](https://github.com/abdelhai/awesome-bots#readme) - A curated list of links and resources about bots. - _Bots en general no especifico de Telegram_
 * Buscadores:
   * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
 
