@@ -124,7 +124,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
-* [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde estan los audios del podcast ARM para Todos - _Tiene grupo privado_
+* [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado_
 * [NeoSiteLinux - Software Libre y más...](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
   * [NeoSiteLinux Podcast (Audios)](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
   * Grupo asociado [NeoSiteLinux (grupo)](https://t.me/neositelinuxgrupo)
@@ -248,7 +248,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono)
 * [Porqué podcast](https://t.me/porquepodcast)
 * [Hablemos de Montessori](https://t.me/hablemosdemontessori)
-* [Red de  podcast Nación Podcaster](https://t.me/nacionpodcast)
+* [Red de podcast Nación Podcaster](https://t.me/nacionpodcast)
   * Tiene [grupo](https://t.me/nacionpodcaster)
 * [Va Por Nosotras](https://t.me/vapornosotraspodcast)
   * Tiene [grupo](https://t.me/vapornosotras)
@@ -326,6 +326,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Cosas de ModernOS](https://t.me/cosasdemodernos)
 * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
 * [Yo Virtualizador](https://t.me/grupovirtualizador)
+* [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano
 * [De Rodillas Grupo](https://t.me/derodillas)
 * [Vacía tu bandeja](https://t.me/Vaciatubandeja)
 * [El Peor Consultorio](https://t.me/elpeorconsultorio)
@@ -504,14 +505,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Utilidades
 * https://т.website/ - _Generador de previews insertables_
 
-### IFTT
+### IFTTT
 * Tiempo / Meteorología
   * [WU a TG_Chat](https://ifttt.com/applets/ah7SPBUe-send-a-message-to-a-telegram-chat-if-there-will-be-rain-in-your-area-tomorrow) - Send a message to a Telegram chat if there will be rain in your area tomorrow - _Weather Underground_
   * [WU a TG_Chat](https://ifttt.com/applets/V5jg4iNb-its-gonna-rain) - Sends you a telegram message if its going to rain - _Weather Underground_
-
 * Facebook
   * [Fotos a TG_Chat](https://ifttt.com/applets/urbQAevJ-save-photos-you-re-tagged-in-on-facebook-to-a-telegram-chat) - Save photos you're tagged in on Facebook to a Telegram chat
-
 * Twitter
   * Telegram -> TW
     * [Canal a Tweet](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel) - Tweet new text posts from your Telegram channel
@@ -524,7 +523,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram
     * https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s
     * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
-
 * Instagram
   * IG -> Telegram
     * (https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat)
@@ -550,12 +548,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Buscadores
   * https://telegramchannels.me/ - Discover The Best Telegram Channels - _Channels, Groups, and Bots_
   * https://telegramic.org - Social Telegram Directory - _Channels, Groups, Bots and Stickers_
-
   * Solo Canales
     * https://canalgram.com/directorio-canales/
   * Solo Grupos
     * http://www.grupostelegram.net/
-    * https://telegroups.info
 
 
 ## LEYENDA
