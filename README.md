@@ -474,21 +474,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 
-### Utilidades
-
-* @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
-* @cuandosale_bot - Para saber la fecha de salida de un capítulo
-* @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
-* @transcriber_bot - Voz a texto
-* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
-* @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
-* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
-* [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
-
-### Inline
-* [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
-* [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
-
 ### Aprobados por Telegram
 
 * @telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
@@ -515,6 +500,24 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
   * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
 
+### Utilidades
+
+* @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
+* @cuandosale_bot - Para saber la fecha de salida de un capítulo
+* @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
+* @transcriber_bot - Voz a texto
+* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
+* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
+* [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
+* Inline
+  * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
+  * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
+  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
+* Buscadores de letras de canciones
+  * @song_lyrics_bot
+  * @iLyricsBot - _También inline_
+  * @BingMusicBot - _También vídeos_
+  * @LyricsGramBot
 
 ## RECURSOS
 
@@ -560,7 +563,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Awesome Bots](https://github.com/abdelhai/awesome-bots#readme) - A curated list of links and resources about bots. - _Bots en general no especifico de Telegram_
 * Buscadores:
   * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
-  * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_  
+  * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_
+* Listados
+  * https://telegra.ph/Recomendaci%C3%B3n-de-BOTS-de-Androidsis-07-30-2 - Recomendación-de-BOTS-de-Androidsis-07-30-2
 
 ### Funcionamiento
 * Tutoriales
