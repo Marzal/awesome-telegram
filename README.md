@@ -170,6 +170,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
 * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
+* [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
 * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
@@ -210,6 +211,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Programmer Jokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
 * [The Devs](https://t.me/thedevs) - Developers Community on Telegram.
+* [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
 
 ### Móviles / Android
 
@@ -452,20 +454,25 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Administración de Grupos
 
-* @join_captcha_bot - [GIT](https://github.com/J-Rios/TLG_JoinCaptchaBot)
-* @GroupButler_bot - managing your group with rules, anti-flood, description, custom trigger
-* @MissRose_bot - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
+* @join_captcha_bot - To verify if a new user in a group is human - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - _AntiSpam en el login para grupos_
+* @GroupButler_bot - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
+* @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
+* [@combot](https://t.me/combot) - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
+* [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
 
 ### Para encontrar en Telegram
 
 * @tchannelsbot - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
 * [@StoreBot](https://t.me/StoreBot) - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
+* [Telegram Bot Store (StoreOfBot)](https://t.me/StoreOfBot) - Search, Explore & Discover the best bots or channel
 
 ### Develop
 
 * @HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 * @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
 * [@githubbot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
+* [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
+* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 
 ### Utilidades
 
@@ -475,6 +482,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @transcriber_bot - Voz a texto
 * @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
 * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
+* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
+* [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
+
+### Inline
+* [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
+* [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
 
 ### Aprobados por Telegram
 
@@ -482,21 +495,25 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@BotFather](https://t.me/botfather) - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
 * [@like](https://t.me/like) - _(Mensajes con botones)_
 * [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
+* @vote - _Creador de encuestas. El mismo integrado en los 3 puntos de arriba a la derecha._
 * Busquedas inline
   * [@gif](https://t.me/gif) - Type @gif with a search query in your channel and gif suggestions will show up
-  * @pic - _(imagenes)_
+  * [@pic](https://t.me/pic) - _(imagenes sacadas de Yandex)_
   * @youtube - _(Busca videos)_
+    * [@vid](https://t.me/vid) - Official YouTube videos.
   * @sticker - enter and emoji
-  * @imdb
-  * @bold - Markdown bot
-  * @gamee - Juegos
-  * @music
+  * [@imdb](https://t.me/imdb) - Official Movies from IMDB.
+  * [@bold](https://t.me/Bold) - Markdown bot / Highlight your message with bold, italic or fixed width.
+  * [@gamee](https://t.me/gamee) - Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform. - _Juegos dentro de Telegram_
+  * [@music](https://t.me/music) - Official Classic music search. - _Música Clásica_
+  * @wiki - _Wikipedia_
+  * @bing - _Imagenes de bing_
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
   * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
   * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
   * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
-  * @BotSupport - _(Para mandarles sugerencias sobre los bots. Oficial)_
+  * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
 
 
 ## RECURSOS
@@ -543,6 +560,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Awesome Bots](https://github.com/abdelhai/awesome-bots#readme) - A curated list of links and resources about bots. - _Bots en general no especifico de Telegram_
 * Buscadores:
   * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
+  * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_  
 
 ### Funcionamiento
 * Tutoriales
@@ -555,6 +573,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Buscadores
   * https://telegramchannels.me/ - Discover The Best Telegram Channels - _Channels, Groups, and Bots_
   * https://telegramic.org - Social Telegram Directory - _Channels, Groups, Bots and Stickers_
+  * https://tdirectory.me/ - Discover Popular Telegram Channels, Groups, Bots and Games
+  * https://tgram.io/ - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
   * Solo Canales
     * https://canalgram.com/directorio-canales/
   * Solo Grupos
