@@ -168,15 +168,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Telegram
 
-* [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
-  * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
-* [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
+* Oficiales
+  * [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
+    * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
+  * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
+  * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
+  * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
+  * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
-* [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
-* [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
-* [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
+* [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado desde 2019-02]`
@@ -260,6 +262,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Historacing](https://t.me/historacing)
+* Ciencia
+  * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
+  * [GeoCastAway](https://t.me/geocastaway) - _Geología_
+    * Tiene [grupo](https://t.me/geocastawaypodcast)
+* En ingles
+  * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](www.theminimalists.com) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
 ### Política
 
@@ -337,6 +345,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [El Peor Consultorio](https://t.me/elpeorconsultorio)
 * [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
 * [Series Reality Podcast](https://t.me/joinchat/AYDUWk73myOxZ7140NsJGg)
+* [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
 
 ### Bash / Shell
 
@@ -408,30 +417,24 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Por Regiones
 
-#### Comunidad de Murcia
-
-* [Cultura y Software Libre de la Region de Murcia](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
-* [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
-* Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
-
-#### Por localización
-
-* Cartagena
-  * Cartagena Residuo Cero / ZeroWaste
-  * Cartagena Software Libre
-* Murcia
-  * Residuo Cero Murcia♻️🌲
-  * Software y Cultura Libre Murcia 🐧♻️
-  * Go Vegan Murcia 🌱
-
-#### Comunidad Valenciana
-
-* [GNU/Linux Valencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
-
-#### Galicia
-
-* [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
-
+* Comunidad de Murcia
+  * [Cultura y Software Libre de la Region de Murcia](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
+  * [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
+  * Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
+  * Por localización
+    * Cartagena
+      * Cartagena Residuo Cero / ZeroWaste
+      * Cartagena Software Libre
+    * Murcia
+      * Residuo Cero Murcia♻️🌲
+      * Software y Cultura Libre Murcia 🐧♻️
+      * Go Vegan Murcia 🌱
+* Comunidad Valenciana
+  * [GNU/Linux Valencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
+* Galicia
+  * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
+* Andalucía
+  * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
