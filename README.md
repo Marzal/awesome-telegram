@@ -63,7 +63,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Energías renovables DIY](https://t.me/Energias_renovables_DIY) - Nos gustan las energías renovables, creemos en las energías limpias, generamos nuestra propia energía verde.
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
-  
+
 ### ONGs / Asociaciones
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
@@ -540,24 +540,26 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Twitter
   * Telegram -> TW
     * [Canal a Tweet](https://ifttt.com/applets/FyU3EhJZ-tweet-new-text-posts-from-your-telegram-channel) - Tweet new text posts from your Telegram channel
-    * https://ifttt.com/applets/bZca3fjt-telegram-to-twitter-posting
-    * https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter
-    * https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram
+    * [Grupo a Tweet](https://ifttt.com/applets/bZca3fjt-telegram-to-twitter-posting) - When posted on telegram group, also
+posts tweet
+    * [Canal a Tweet](https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter) - Export telegram channel posts to twitter. W/O double info in tweet
+    * [Canal a Tweet](https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram) - Auto post from your telegram channel into twitter
   * TW -> Telegram
     * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y) - Whenever you are mentioned on Twitter, post a message to Telegram
-    * https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram
-    * https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram
-    * https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s
-    * https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram
+    * [@Usuario TW a Chat](https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram) - When a specific user Tweets, this Applet will
+send it to Telegram
+    * [@Usuario TW a Chat](https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram) - Forward user tweets to Telegram
+    * [@Usuario TW con $PATRON a Chat](https://ifttt.com/applets/MvW6xs5n-telegram-me-if-tweet-by-specific-user-with-specific-word-s) - Telegram me if tweet by specific user with specific word(s)
+    * [Feed a Chat](https://ifttt.com/applets/NBYc6xbq-forward-twitter-feed-to-telegram) - Forward twitter feed to telegram
 * Instagram
   * IG -> Telegram
-    * (https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat)
-    * (https://ifttt.com/applets/yhdqYTXw-post-your-new-instagram-videos-with-a-specific-hashtag-to-a-telegram-chat)
-    * (https://ifttt.com/applets/Zu8X9dDz-send-my-instagram-post-url-to-telegram-group-chat)
-    * (https://ifttt.com/applets/D6SJMnAm-post-your-instagram-photos-to-telegram)
-    * (https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat)
-    * (https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel)
-    * (https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel)
+    * [Foto a TG_Chat](https://ifttt.com/applets/YCB6Gvfg-every-time-you-post-a-new-instagram-photo-share-it-to-a-telegram-chat) - Every time you post a new Instagram photo, share it to a Telegram chat
+    * [Video con # a TG_Chat](https://ifttt.com/applets/yhdqYTXw-post-your-new-instagram-videos-with-a-specific-hashtag-to-a-telegram-chat) - Post your new Instagram videos with a specific hashtag to a Telegram chat
+    * [URL post a TG_G-Chat](https://ifttt.com/applets/Zu8X9dDz-send-my-instagram-post-url-to-telegram-group-chat) - Send my Instagram Post URL to Telegram Group Chat
+    * [Foto a TG_Chat](https://ifttt.com/applets/D6SJMnAm-post-your-instagram-photos-to-telegram) - Post your Instagram photos to telegram
+    * [Foto con # a TG_Chat](https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat) - Post Instagram photos with a specific hashtag to a Telegram chat
+    * [Foto con # a TG_Canal](https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel) - Post my Instagram photos to Telegram Channel
+    * [Foto a TG](https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel) - Post your Instagram pics to your Telegram chat or channel!
 
 ### Para bots
 * Info sobre crearlos
