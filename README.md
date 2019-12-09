@@ -65,6 +65,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
 
 ### ONGs / Asociaciones
+
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
 * [UNICEF_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
@@ -247,8 +248,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Otros Podcasts
 
 * [Republica Web](https://t.me/republicaweb) - Un [podcast](www.republicaweb.es) de tecnología sin canal de Telegram no merece ser emitido.
+* [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
 * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
   * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
+* [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
 * [Tiempo escaso](https://t.me/tiempoescaso)
