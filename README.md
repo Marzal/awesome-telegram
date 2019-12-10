@@ -114,7 +114,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Podcasts
 
-* [ Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
+* [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [El Podcast de Eduardo](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
   * Grupo asociado [Grupo Podcast](https://t.me/grupopodcast) para comentar los capítulos - _(+ de todo un poco)_
   * Canal asociado [Audios - El Podcast de Eduardo](https://t.me/elpodcastaudios) - Audios del podcast
@@ -134,6 +134,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
   * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
+* [GDF Estudio](https://t.me/gdfestudio) - Entérate de en qué se está trabajando en GDF Estudio antes que nadie. Magia y Tecnología. Podcast Rebasando el Horizonte
 * [Killall Radio Podcast Telegram](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
 * Programación
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
@@ -342,6 +343,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Cosas de ModernOS](https://t.me/cosasdemodernos)
 * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
 * [Yo Virtualizador](https://t.me/grupovirtualizador)
+* [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
+  * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
 * [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano
 * [De Rodillas Grupo](https://t.me/derodillas)
 * [Vacía tu bandeja](https://t.me/Vaciatubandeja)
