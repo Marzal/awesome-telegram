@@ -184,6 +184,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado desde 2019-02]`
+* Aplicaciones
+  * [Plus Messenger oficial](https://t.me/plusmsgres) - Canal oficial de Plus Messenger en español
+    * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
 
 #### Info sobre Bots
 
@@ -233,6 +236,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
 * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
+* [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
@@ -245,6 +249,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
+* Música
+  * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
 
 ### Otros Podcasts
 
@@ -346,7 +352,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
   * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
 * [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano
-* [De Rodillas Grupo](https://t.me/derodillas)
+* [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
+* [De Rodillas Grupo](https://t.me/derodillas) - Ni aunque me lo pidas de rodillas
 * [Vacía tu bandeja](https://t.me/Vaciatubandeja)
 * [El Peor Consultorio](https://t.me/elpeorconsultorio)
 * [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
@@ -404,6 +411,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [ENLinuxJugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
 * [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la [página](http://www.jugandoenlinux.com)
+* [Todo Sobre Juegos Telegram](https://t.me/JuegosTg) - Grupo para jugar a los juegos de Telegram.
 
 ### Android / Moviles
 
@@ -417,6 +425,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Tecnológicos
 
 * [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
+* [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
@@ -441,6 +450,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
+
+### Grupos varios
+
+ * [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
+
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
@@ -536,6 +550,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Oficiales
 * [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
+* [Palabra a emoji](https://translations.telegram.org/es/emoji) - _Traducción de Telegram, en la que pones una palabra o simbolo y sugiere un emoji_
 
 ### Utilidades
 * https://т.website/ - _Generador de previews insertables_
