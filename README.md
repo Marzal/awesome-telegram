@@ -182,10 +182,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
+* [Red Telegram ✅ Canales, Grupos y Bots](https://t.me/RedTelegram) - Guía de Canales, Grupos y Bots recomendados en Telegram.
+  * [Guia de Canales Telegram](https://t.me/GuiaDeCanales) - Los Canales mas recomendados de cada tematica.
+  * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
+  * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado desde 2019-02]`
 * Aplicaciones
-  * [Plus Messenger oficial](https://t.me/plusmsgres) - Canal oficial de Plus Messenger en español
+  * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
 
 #### Info sobre Bots
@@ -426,6 +430,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
 * [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
+* [Enlaces Telegram](https://t.me/EnlacesTelegram) - Publica enlaces de canales, grupos, bots y stickers.
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
