@@ -187,7 +187,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
   * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
-* [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado desde 2019-02]`
+* [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
 * Aplicaciones
   * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
@@ -196,10 +196,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [BotNews](https://t.me/BotNews) - The official source for news about the Telegram Bot API.
 * [Bot Updates](https://t.me/BotUpdates) - The team that makes life better with using bots.
-* [Bots Channel](https://t.me/BotsChannel) - `[Parado desde 2018-06]`
 * [Controller Updates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
-* [WJClub News](https://t.me/WJClubNews) - Official News Channel of @WJClub (Noticias sobre algunos bots de encuestas)
 * [@MiTrackingBot - Info y novedades](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
+* [WJClub News](https://t.me/WJClubNews) - Official News Channel of @WJClub (Noticias sobre algunos bots de encuestas) - `[Parado 2019-07]`
+* [Bots Channel](https://t.me/BotsChannel) - `[Parado 2018-06]`
 
 #### Directorios / Guías
 
@@ -430,7 +430,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
 * [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
-* [Enlaces Telegram](https://t.me/EnlacesTelegram) - Publica enlaces de canales, grupos, bots y stickers.
+* ~~[Enlaces Telegram](https://t.me/EnlacesTelegram) - Publica enlaces de canales, grupos, bots y stickers.~~
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
@@ -470,9 +470,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 
 ### Encuestas
+* @ultimate_pollbot - [Open Source](https://github.com/Nukesor/ultimate-poll-bot) - _Crea encuestas de todo tipo_
+* @groupagreebot - _Crea encuestas de todo tipo_ - `[Offline]`
+  * @advancedpollbot - _Crea encuestas de todo tipo y permite añadir opciones en caliente_
 
-* @advancedpollbot
-* @groupagreebot
 
 ### Gestión canales / RRSS
 
