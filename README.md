@@ -42,10 +42,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Encuestas](#encuestas)
   * [Gestión canales / RRSS](#gestión-canales-rrss)
   * [Administración de Grupos](#administración-de-grupos)
-  * [Develop](#develop)
   * [Para encontrar en Telegram](#para-encontrar-en-telegram)
+  * [Develop](#develop)
+  * [Aprobados por Telegram](#aprobados-por-telegram)
   * [Utilidades](#utilidades)
-  * [Oficiales Telegram](#oficiales-telegram)
 * [RECURSOS](#recursos)
 * [LEYENDA](#leyenda)
 <!-- /TOC -->
