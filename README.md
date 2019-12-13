@@ -159,8 +159,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [openSUSE News](https://t.me/opensusenews) - News from https://news.opensuse.org/
 * [Fedora Project News](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
 * [EndeavourOS-news](https://t.me/endeavour_news) - community driven Antergos fork
-* [Arch Linux News](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
-* [Planet Arch](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
+* Arch Linux
+  * [Planet Arch Linux & News](https://t.me/planetarch) - Planet Arch Linux is a window into the world, work and lives of Arch Linux hackers and developers. Also we have the latest news from the Arch Linux development staff.
+  * [Arch Linux News](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
+  * [Planet Arch](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
 
 #### Empresas
@@ -183,6 +185,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
 * [Red Telegram ✅ Canales, Grupos y Bots](https://t.me/RedTelegram) - Guía de Canales, Grupos y Bots recomendados en Telegram.
+  * [Noticias Telegram](https://t.me/NoticiasTelegram) - Avisos y novedades de Telegram en Español
   * [Guia de Canales Telegram](https://t.me/GuiaDeCanales) - Los Canales mas recomendados de cada tematica.
   * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
   * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
@@ -463,6 +466,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
+
 * @Politi_bot - Piezas informativas e infografías de manera interactiva
 * @bulobot - Para enviar bulos a los de [Maldito Bulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
@@ -470,6 +474,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 
 ### Encuestas
+
 * @ultimate_pollbot - [Open Source](https://github.com/Nukesor/ultimate-poll-bot) - _Crea encuestas de todo tipo_
 * @groupagreebot - _Crea encuestas de todo tipo_ - `[Offline]`
   * @advancedpollbot - _Crea encuestas de todo tipo y permite añadir opciones en caliente_
@@ -493,7 +498,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Para encontrar en Telegram
 
-* @tchannelsbot - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
+* [@tchannelsbot](https://t.me/tchannelsbot) - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
 * [@StoreBot](https://t.me/StoreBot) - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
 * [Telegram Bot Store (StoreOfBot)](https://t.me/StoreOfBot) - Search, Explore & Discover the best bots or channel
 
@@ -507,7 +512,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Aprobados por Telegram
 
-* @telegraph - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
+* [@telegraph](https://t.me/telegraph) - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
 * [@BotFather](https://t.me/botfather) - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
 * [@like](https://t.me/like) - _(Mensajes con botones)_
 * [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
@@ -524,12 +529,15 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [@music](https://t.me/music) - Official Classic music search. - _Música Clásica_
   * @wiki - _Wikipedia_
   * @bing - _Imagenes de bing_
+
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
   * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
   * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
   * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
   * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
+  * [@SpamBot](https://t.me/SpamBot) - The official Spam Info Bot by Telegram. Helps users with limited accounts regain the full functionality.
+  * [@previews](https://t.me/Previews) - Use this bot to leave feedback about webpage previews generated for Telegram's Instant View feature.
 
 ### Utilidades
 
@@ -544,11 +552,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
   * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
+  * [@archwikibot](https://t.me/archwikibot) - [Open Source](https://github.com/TheWeirdDev/arch-wiki-bot) - Inline search through ArchWiki pages in telegram!
+  * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
+  * [@raebot](https://t.me/raebot) - Bot no oficial para consultar definiciones de palabras según el diccionario de la Real Academia Española.
+    * [@drae_bot](https://t.me/drae_bot) - Diccionario RAE (No Oficial)
 * Buscadores de letras de canciones
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_
   * @BingMusicBot - _También vídeos_
   * @LyricsGramBot
+
 
 ## RECURSOS
 
