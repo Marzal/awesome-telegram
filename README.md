@@ -261,21 +261,26 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Otros Podcasts
 
-* [Republica Web](https://t.me/republicaweb) - Un [podcast](www.republicaweb.es) de tecnología sin canal de Telegram no merece ser emitido.
-* [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
-* [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
-  * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
-* [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
+* Tecnología
+  * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
+    * Tiene [grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad.
+  * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web
+  * [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
+  * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
+    * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
+  * [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
+  * [Cosas de ModernOS](https://t.me/cosasdemodernoscanal) - Un podcast donde tres viejóvenes cuentan sus vivencias tecnológicas de abuelos cebolletas y recuerdos de doña Concha Velasco.  @lareddemario @yoyo308 @josescolar
+    * Tiene [grupo](https://t.me/cosasdemodernos)
+    * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
-* [Tiempo escaso](https://t.me/tiempoescaso)
-* [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono)
-* [Porqué podcast](https://t.me/porquepodcast)
-* [Hablemos de Montessori](https://t.me/hablemosdemontessori)
+* [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono) - noticias, eventos, herramientas, curiosidades y recomendaciones relacionadas con el podcasting.
+* [Porqué podcast](https://t.me/porquepodcast) - navega cada mes hacia rumbo desconocido para regresar cada día 15 al mismo puerto
+* [Hablemos de Montessori](https://t.me/hablemosdemontessori) - dedicado a la Educación #Montessori
 * [Red de podcast Nación Podcaster](https://t.me/nacionpodcast)
   * Tiene [grupo](https://t.me/nacionpodcaster)
-* [Va Por Nosotras](https://t.me/vapornosotraspodcast)
-  * Tiene [grupo](https://t.me/vapornosotras)
+* [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
+  * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Historacing](https://t.me/historacing)
@@ -349,24 +354,24 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Podcasts sin canal
 
 * [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
-* [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
-* [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
+* Tecnología
+  * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
+  * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
+  * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
+  * [Yo Virtualizador](https://t.me/grupovirtualizador)
+  * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
 * [La cocina está abierta](https://t.me/lacocinaestaabierta)
 * [Esto No Es Politica](https://t.me/ETEPolitica)
-* [Cosas de ModernOS](https://t.me/cosasdemodernos)
-* [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
-* [Yo Virtualizador](https://t.me/grupovirtualizador)
 * [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
   * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
 * [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano
-* [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
 * [De Rodillas Grupo](https://t.me/derodillas) - Ni aunque me lo pidas de rodillas
-* [Vacía tu bandeja](https://t.me/Vaciatubandeja)
 * [El Peor Consultorio](https://t.me/elpeorconsultorio)
 * [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
 * [Series Reality Podcast](https://t.me/joinchat/AYDUWk73myOxZ7140NsJGg)
-* [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
-
+* Ciencia
+  * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
+  * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
 ### Bash / Shell
 
 * [ShellDevs - Español](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
