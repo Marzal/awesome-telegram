@@ -479,7 +479,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @groupagreebot - _Crea encuestas de todo tipo_ - `[Offline]`
   * @advancedpollbot - _Crea encuestas de todo tipo y permite añadir opciones en caliente_
 
-
 ### Gestión canales / RRSS
 
 * @ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. _(Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...)_
@@ -529,7 +528,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [@music](https://t.me/music) - Official Classic music search. - _Música Clásica_
   * @wiki - _Wikipedia_
   * @bing - _Imagenes de bing_
-
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
   * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
