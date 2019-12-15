@@ -271,7 +271,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
   * [Cosas de ModernOS](https://t.me/cosasdemodernoscanal) - Un podcast donde tres viejóvenes cuentan sus vivencias tecnológicas de abuelos cebolletas y recuerdos de doña Concha Velasco.  @lareddemario @yoyo308 @josescolar
     * Tiene [grupo](https://t.me/cosasdemodernos)
-    * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
+  * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
 * [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono) - noticias, eventos, herramientas, curiosidades y recomendaciones relacionadas con el podcasting.
@@ -308,6 +308,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
 * Internacional
   * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
+* Pastafaris
+  * [Pastafaris España](https://t.me/pastafarisespana) - Canal de noticias de Pastafaris en España
+      * Tienen [grupo oficial](https://t.me/Pastafaris) - Grupo oficial para todos los Pastafaris en España
+  * [Asociación República Pastafari de MonEsVol](https://t.me/asociacionpastafari) -
 
 ### Regionales
 
