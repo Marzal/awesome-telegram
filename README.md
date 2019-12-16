@@ -77,6 +77,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
 * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
+* [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
 
 ### Informática / Tecnología
 
@@ -161,6 +162,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [EndeavourOS-news](https://t.me/endeavour_news) - community driven Antergos fork
 * Arch Linux
   * [Planet Arch Linux & News](https://t.me/planetarch) - Planet Arch Linux is a window into the world, work and lives of Arch Linux hackers and developers. Also we have the latest news from the Arch Linux development staff.
+  * [Arch Linux: Recent package updates](https://t.me/archlinux_updates) - Channel with recent package updates in Arch Linux repositories.
   * [Arch Linux News](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
   * [Planet Arch](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
@@ -406,6 +408,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [OpenSUSE en Español](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español - _(Poco movimiento)_
   * Arch based
     * [Arch Linux y Derivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
+    * [Arch Linux](https://t.me/archlinuxgroup) - Unofficial group for discussing everything about Arch Linux.
     * [Anarchy Linux en Español](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
     * [Manjaro en Español](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
     * [Antergos en Español](https://t.me/antergosesp) y [Antergos en Español](https://t.me/antergos_es) - _(Distro descontinuada)_
