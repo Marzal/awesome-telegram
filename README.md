@@ -180,6 +180,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
   * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
+  * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
