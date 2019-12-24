@@ -231,6 +231,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Programmer Jokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
 * [The Devs](https://t.me/thedevs) - Developers Community on Telegram.
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
+* [UnPythonAlDia](https://t.me/UnPythonAlDia) - Cada día se mostrará una herramienta de desarrollo para Python.
+  * [AprendePython](https://t.me/aprendepython) - Tutoriales, artículos y cursos sobre el ecosistema de Python.
 * [Programar Fácil](https://t.me/programarfacilc) - #Arduino no es la solución para todo pero si que es el comienzo para buscar esa solución #Maker #DIY #SAV https://campus.programarfacil.com/
 
 ### Móviles / Android
