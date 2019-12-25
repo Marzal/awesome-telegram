@@ -192,6 +192,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Guia de Canales Telegram](https://t.me/GuiaDeCanales) - Los Canales mas recomendados de cada tematica.
   * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
   * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
+* [Telegram Info En](https://t.me/tginfoen) - English mirror of @tginfo
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
 * Aplicaciones
@@ -558,10 +559,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
 * @reverseSearchBot - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
+* [@pronunciationbot](https://t.me/pronunciationbot) - This is a bot that allows you to convert text into speech in 84 languages. - _Texto a voz_
 * @transcriber_bot - Voz a texto
-* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
+* [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
+* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
