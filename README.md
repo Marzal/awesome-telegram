@@ -564,6 +564,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
+* [@randymbot](https://t.me/randymbot) - [Open Source](https://github.com/backmeupplz/randymbot) - Randy can randomly select a raffle participant in a chat or a channel
+* [GiveawaysBot 🎰](https://t.me/Giveaways_Bot) - [Open Source](https://github.com/DanySpin97/GiveawaysBot)`2017` - handles giveaways creation and management, allowing users to easily create, join and share giveaways.
 * @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
