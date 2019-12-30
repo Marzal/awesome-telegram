@@ -88,7 +88,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
-* [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 
 ### Software Libre / FLOSS
 * Software Libre
@@ -225,9 +224,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux, seguridad y cosas informáticas curiosas](https://t.me/linuxSegurInteresInformatica) - Linux, seguridad y cosas informáticas curiosas
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
-* [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
+* [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
+* GINSEG
+  * [Cyber Threat Intel News](https://t.me/ThreatIntelligence) - Canal de noticias de la comunidad [GINSEG](https://t.me/ginseg)
+    * [Grupo Analisis de inteligencia español](https://t.me/Analisisdeinteligencia) - Aportar material y sucesos interesantes encuadrado en Análisis de Inteligencia y para Analistas. Temática en Español.
+  * [Domain Squatting / DNS Security](https://t.me/DNSSecurity) - Grupo enfocado en estas amenazas: #CyberSquatting #TypoSquatting #IDN #Dominios #DNS
+* [Inteligencia más Liderazgo](https://t.me/inteligenciayliderazgo) - Formación y consultoría en inteligencia
+* [Ciberpatrulla - Técnicas OSINT](https://t.me/ciberpatrullacom) - Ciberpatrulla - Técnicas OSINT
 * [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
+* [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
 
 ### Programación / Developers
 
@@ -281,6 +287,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Cosas de ModernOS](https://t.me/cosasdemodernoscanal) - Un podcast donde tres viejóvenes cuentan sus vivencias tecnológicas de abuelos cebolletas y recuerdos de doña Concha Velasco.  @lareddemario @yoyo308 @josescolar
     * Tiene [grupo](https://t.me/cosasdemodernos)
   * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
+  * [Secure Podcast - Channel](https://t.me/securepodcast) - Un intento de Podcast sobre InfoSec, hecho por y para la Comunidad. - _Retweets de su cuenta de Twitter_
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
 * [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono) - noticias, eventos, herramientas, curiosidades y recomendaciones relacionadas con el podcasting.
@@ -586,8 +593,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## RECURSOS
 
- * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En ingles y ruso_
-
 ### Oficiales
 * [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
 * [Palabra a emoji](https://translations.telegram.org/es/emoji) - _Traducción de Telegram, en la que pones una palabra o simbolo y sugiere un emoji_
@@ -641,6 +646,7 @@ send it to Telegram
 
 ### Para encontrar canales, grupos o bots
 * Otros listados
+  * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En ingles y ruso_
   * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
   * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
 * Buscadores
