@@ -64,6 +64,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Energías renovables DIY](https://t.me/Energias_renovables_DIY) - Nos gustan las energías renovables, creemos en las energías limpias, generamos nuestra propia energía verde.
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
+  * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
+* [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 
 
 ### ONGs / Asociaciones
@@ -197,6 +199,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
 * Aplicaciones
+  * [Telegram Android ID Channel](https://t.me/tgaidchannel) - All about related #Telegram #collections & #apps #android [ #official, #unofficial, #mod, #review, #news, etc ]
   * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
 
