@@ -148,8 +148,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
 * [LaMiradaDelReplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
-* [_ voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
+* [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
+* [masLinuXBlog](https://t.me/canalmaslinuxblog) - Canal sólo artículos del blog - Tiene [Grupo](https://t.me/MasGNULinuXBlog)
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
 
 #### Eventos
@@ -169,11 +170,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Arch Linux News](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
   * [Planet Arch](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
+* Entornos de escritorio
+  * [Kdeblog](https://t.me/kdeblog) - blog sobre el Software Libre centrado en la Comunidad KDE - _Retweets de su cuenta de Twitter_
 
 #### Empresas
 
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
+* [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
 
 ### Telegram
 
@@ -365,6 +369,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Novato en Linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
 * [Hacking en Español](https://t.me/hackers_es)
 * [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros
+* [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD
 * Hispalinustálgicos _(Con invitación)_
 
@@ -383,6 +388,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
   * [Yo Virtualizador](https://t.me/grupovirtualizador)
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
+  * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
 * [La cocina está abierta](https://t.me/lacocinaestaabierta)
 * [Esto No Es Politica](https://t.me/ETEPolitica)
 * [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
@@ -395,6 +401,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Ciencia
   * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
   * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
+
 ### Bash / Shell
 
 * [ShellDevs - Español](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
@@ -402,6 +409,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Distribuciones GNU/Linux
 
+* [Pásate a GNU/Linux](https://t.me/pasategnulinux) - Grupo de Telegram para solventar dudas sobre la instalación de GNU/Linux. Sólo se responde a dudas
 * [GNU/LINUX](https://t.me/GnuLinuxGrupo) - distribuciones, ayuda, errores, drivers, instalaciones...
 * DEB
   * [Debian_es](https://t.me/Debian_es) - Grupo sobre Debian de hispano hablantes.
