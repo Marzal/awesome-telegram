@@ -553,6 +553,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@like](https://t.me/like) - _(Mensajes con botones)_
 * [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
 * @vote - _Creador de encuestas. El mismo integrado en los 3 puntos de arriba a la derecha._
+* [@GmailBot](https://t.me/GmailBot) - With this bot you can get new emails and reply to them without leaving Telegram.[Privacy](https://telegram.org/privacy/gmailbot)
 * Busquedas inline
   * [@gif](https://t.me/gif) - Type @gif with a search query in your channel and gif suggestions will show up
   * [@pic](https://t.me/pic) - _(imagenes sacadas de Yandex)_
