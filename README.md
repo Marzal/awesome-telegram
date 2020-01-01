@@ -92,6 +92,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Software Libre / FLOSS
+
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
   * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre
@@ -204,6 +205,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
 * Aplicaciones
   * [Telegram Android ID Channel](https://t.me/tgaidchannel) - All about related #Telegram #collections & #apps #android [ #official, #unofficial, #mod, #review, #news, etc ]
+  * [Telegram Beta](https://t.me/tgbeta) - _Información sobre actualizaciones en Android e iOS principalmente_
+    * Tiene [grupo asociado](https://t.me/tgbetachat) - Telegram news, bugs, and features. _El desarrollador de Telegram para Android esta en este grupo_
+    * [tgfiles](https://t.me/tgfiles) - _Todos los ficheros de las aplicaciones moviles y de escritorio_
   * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
 
