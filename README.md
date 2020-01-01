@@ -191,6 +191,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
+* [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
+  * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida y no ser un bot_
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
