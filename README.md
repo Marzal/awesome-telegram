@@ -89,6 +89,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Xataka](https://t.me/xataka) - Apasionados por la tecnología
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
+* [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Software Libre / FLOSS
@@ -179,6 +180,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 * [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
+* [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
 
 ### Telegram
 
@@ -234,6 +236,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Seguridad
 
 * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
+* [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
 * [Linux, seguridad y cosas informáticas curiosas](https://t.me/linuxSegurInteresInformatica) - Linux, seguridad y cosas informáticas curiosas
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
