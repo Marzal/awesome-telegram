@@ -389,6 +389,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
 * Tecnología
+  * [OpenExpo Europe](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
   * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
