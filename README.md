@@ -108,8 +108,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### GNU/Linux
 
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
-* [Phoronix News](https://t.me/Phoronix) - Phoronix News. - Benchmarks y reviews en Linux
-* [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
+* [Phoronix News](https://t.me/Phoronix) - Phoronix News. - _Benchmarks y reviews en inglés_
 * [Linuxgram 🐧](https://t.me/linuxgram) - News and info from the Linux world 🐧
 * [Command Line Magic](https://t.me/climagic) - Cool Unix/Linux Command Line tricks you can use in \~140 characters
 * [Nación Linux](https://t.me/nacion_linux) - Clound general con articulos,links y archivos
@@ -148,18 +147,21 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Blogs
 
-* [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
-* [LaMiradaDelReplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre
-* [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
+* [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
+* [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
+* [LaMiradaDelReplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre - _Calidad frente a cantidad_
+* [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
+* [Desde Linux](https://t.me/desdelinuxweb) - Linux en estado puro. Las noticias de última hora y tutoriales más variados y completos.
+* [Linux Adictos](https://t.me/linuxadictos) - Linux para auténticos adictos y fans. Noticias cada día y los tutoriales más completos que podrás encontrar.
 * [masLinuXBlog](https://t.me/canalmaslinuxblog) - Canal sólo artículos del blog - Tiene [Grupo](https://t.me/MasGNULinuXBlog)
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
 
 #### Eventos
 
-* [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 * [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas)
+* [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 
 #### Distros
 
@@ -379,6 +381,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Hacking en Español](https://t.me/hackers_es)
 * [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
+* [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
 * [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD
 * Hispalinustálgicos _(Con invitación)_
 
