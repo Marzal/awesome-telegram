@@ -67,7 +67,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 
-
 ### ONGs / Asociaciones
 
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
@@ -90,6 +89,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
+* [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Software Libre / FLOSS
@@ -208,8 +208,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
   * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
 * [Telegram Info En](https://t.me/tginfoen) - English mirror of @tginfo
-* [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado]`
-* [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
 * Aplicaciones
   * [Telegram Android ID Channel](https://t.me/tgaidchannel) - All about related #Telegram #collections & #apps #android [ #official, #unofficial, #mod, #review, #news, etc ]
   * [Telegram Beta](https://t.me/tgbeta) - _Información sobre actualizaciones en Android e iOS principalmente_
@@ -217,6 +215,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [tgfiles](https://t.me/tgfiles) - _Todos los ficheros de las aplicaciones moviles y de escritorio_
   * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
+* Parados
+  * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
+  * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado 2017]`
 
 #### Info sobre Bots
 
@@ -278,6 +279,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 
 ### Móviles / Android
 
+* [El Androide Libre](https://t.me/AndroideLibre) - Noticias Android
 * [Andro4all](https://t.me/andro4all) - Android, noticias de tecnología, análisis, comparativas, ofertas... ¡Toda la actualidad móvil al alcance de tu mano!
 * [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
 * [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
@@ -292,6 +294,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
 * [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
+* [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
+* [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
