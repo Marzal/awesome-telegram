@@ -114,6 +114,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Nación Linux](https://t.me/nacion_linux) - Clound general con articulos,links y archivos
 * [LiGNUx](https://t.me/LiGNUxNews) - Canal de noticias LiGNUx
   * Tiene [grupo](https://t.me/lignux)
+* [LinuxBloc](https://t.me/LinuxBloc) - Anotaciones , enlaces , programas y ajustes para GNU/Linux
 * [GNU Propaganda](https://t.me/GNUPropaganda) - Distribute these to help others learn about the evils of proprietary software, and the benefits of free software\! CC-BY-SA
 * [Linux Administration](https://t.me/LinuxAdministration) - `[Parado desde 2019-06]`
 
@@ -237,7 +238,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Seguridad
 
-* [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
 * [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
 * [Linux, seguridad y cosas informáticas curiosas](https://t.me/linuxSegurInteresInformatica) - Linux, seguridad y cosas informáticas curiosas
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
@@ -249,9 +249,23 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Domain Squatting / DNS Security](https://t.me/DNSSecurity) - Grupo enfocado en estas amenazas: #CyberSquatting #TypoSquatting #IDN #Dominios #DNS
 * [Inteligencia más Liderazgo](https://t.me/inteligenciayliderazgo) - Formación y consultoría en inteligencia
 * [Ciberpatrulla - Técnicas OSINT](https://t.me/ciberpatrullacom) - Ciberpatrulla - Técnicas OSINT
+* [🔒Seguridad Informática](https://t.me/seguridadinformatic4) - Compartimos conocimientos en seguridad informática, aunque el término más indicado debería ser autodefensa digital.
 * [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
-* [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
+* [Security News for Everyone](https://t.me/SeguridadInformatica) - Canal dedicado a noticias de Seguridad Informática en todos sus ámbitos, gratuito y sin publicidad 24h x 365 días al año
+* [Pléyades IT - Ciberseguridad](https://t.me/pleyades_it) - Canal de 📰 actualidad y 🚨 alertas de Ciberseguridad.
+  * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general.
+Objetivo: compartir conocimientos, opiniones y resolver dudas.
+* [Segu-Info Channel](https://t.me/SeguInfoChannel) - Canal de Seguridad de la Información de Segu-Info. Más info: https://blog.segu-info.com.ar
+* [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
+* [Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING
+* [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
+* [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
+* [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
+* En inglés
+  * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
+  * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
+  * [ALL ABOUT HACKER](https://t.me/ALLABOUTHACK) - https://www.allabouthack.com - Tiene [grupo](https://t.me/AllAboutHack2)
 
 ### Programación / Developers
 
@@ -264,6 +278,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Móviles / Android
 
+* [Andro4all](https://t.me/andro4all) - Android, noticias de tecnología, análisis, comparativas, ofertas... ¡Toda la actualidad móvil al alcance de tu mano!
 * [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
 * [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
 * [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
@@ -487,6 +502,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
+* Seguridad
+  * [Hackers en Español](https://t.me/hackers_es) - Grupo de Hacking en Español
+  * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática
+Aquí estamos para aprender seguridad entre todos.
+  * [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
 
 ### Por Regiones
 
