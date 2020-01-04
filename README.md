@@ -104,6 +104,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Free Software Foundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
     * Grupo asociado [StallmanWasRight](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
   * [It's FOSS](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
+  * [Mastodon Project](https://t.me/mastodonnews) - Read all news from the official joinmastodon.org blog and much more.
 
 #### GNU/Linux
 
