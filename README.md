@@ -340,6 +340,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Historacing](https://t.me/historacing)
+* [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
 * Ciencia
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
   * [GeoCastAway](https://t.me/geocastaway) - _Geología_
