@@ -311,8 +311,11 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
+  * [World Architecture](https://t.me/Architecture_World) - Architectural structures from around the world
 * Música
   * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
+* Literatura
+  * [Frases | Literatura | Aforismos](https://t.me/Frases_Literatura_citas) - Aquí encontrarás las mejores frases de los mejores escritores, poetas y artistas
 
 ### Otros Podcasts
 
