@@ -79,8 +79,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MALDITA.ES](https://t.me/maldita_es) - Periodismo para que no te la cuelen
 * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
 * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
+* [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
 * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
+  * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
 
 ### Informática / Tecnología
 
