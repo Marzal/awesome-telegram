@@ -482,6 +482,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Kali Linux](https://t.me/kalilinux_es) - Grupo oficial de Kali Linux en Español.
 * Otras
   * [Slackware en Español](https://t.me/slackware_es) - Grupo oficial de Slackware Linux en Español
+* [Raspberry Pi](https://t.me/GrupoRaspberryPi) - Grupo general para hablar sobre Raspberry Pi. Tenemos grupos sobre temáticas específicas como emuladores, mediacenters _Moderado por @vlcguardianbot_
 
 #### Entornos de Escritorio
 
@@ -515,8 +516,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
 * Seguridad
   * [Hackers en Español](https://t.me/hackers_es) - Grupo de Hacking en Español
-  * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática
-Aquí estamos para aprender seguridad entre todos.
+  * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática. Aquí estamos para aprender seguridad entre todos.
+  * [InfoSec - es](https://t.me/infoseces) - Pregunta dudas técnicas, ayuda en las que puedas. Nada de política ni opinión. Es un canal de 1 y 0s
   * [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
 
 ### Por Regiones
@@ -702,6 +703,7 @@ send it to Telegram
 
 ### Para encontrar canales, grupos o bots
 * Otros listados
+  * [awesome-telegram-lists](https://github.com/lorien/awesome-telegram-lists) - _Listado de listas con recursos de Telegram_
   * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En ingles y ruso_
   * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
   * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
