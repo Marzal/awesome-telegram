@@ -59,12 +59,15 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente. [Castellano](ecointeligencia.com) & english
 * [BlogSOSTENIBLE - Ecología y más](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
 * [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
+* [Reducir](https://t.me/reducir) - Reducir tu basura, reducir las compras de productos que no necesitas, reducir el consumo, reduce tu huella... reducir es sostenibilidad, reducir es ayudar al planeta.
 * [Ecología y medio ambiente](https://t.me/ecologia_medioambiente) - Noticias en relación a la ecología y el medio ambiente.
+* [Arquitectura sostenible](https://t.me/arquitecturasostenible) - se define como un modo de concebir el diseño arquitectónico, optimizando el uso de los recursos naturales y los sistemas constructivos de manera que se minimice el impacto de los edificios sobre el medio ambiente.
 * Energías Renovables
   * [Energías renovables DIY](https://t.me/Energias_renovables_DIY) - Nos gustan las energías renovables, creemos en las energías limpias, generamos nuestra propia energía verde.
-  * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
+  * [Eficiencia energética](https://t.me/eficiencia_energetica) - práctica que tiene como objetivo reducir el consumo de energía. La eficiencia energética es el uso eficiente de la energía.
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
   * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
+  * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 
 ### ONGs / Asociaciones
