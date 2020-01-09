@@ -1,6 +1,7 @@
 # awesome-telegram
 Listado de Canales, Grupos, Bots y Recursos de Telegram
 
+[Novedades](https://gitlab.com/listados/awesome-telegram/commits/master) - Historial de cambios de este listado
 <!-- TOC depthFrom:1 -->
 * [CANALES](#canales)
   * [Medioambiente / Sostenibilidad](#medioambiente-sostenibilidad)
@@ -95,6 +96,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
+* [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Software Libre / FLOSS
@@ -102,6 +104,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
   * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre
+  * [feminismo 💜 soft.libre 🗝 tecnología 👩‍💻](https://t.me/feminismo_y_tecnologia) - Un canal (por fin) para mujeres y disidentes de género sobre tecnología y software libre
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
@@ -269,6 +272,9 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
 * [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
 * [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
+* Derechos Digitales
+  * [Interferencias Canal](https://t.me/inter_ferencias_ruido) - Asociación ciberactivista para compartir actividades, información y opinión sobre #DerechosDigitales, #SeguridadInformatica y similares.
+    * Tiene [grupo](https://t.me/inter_ferencias) - Sin software libre no hay privacidad posible. _Granada_
 * En inglés
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
@@ -308,7 +314,10 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * Alimentación
   * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
   * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
-  * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, Abandonado desde 2016, pero tiene material curioso.
+  * [Recetas veganas 😋](https://t.me/recetas_veganas) - Recetas veganas de sana y deliciosa comida
+  * [Canal Veggie](https://t.me/recetasveggiesconamor) - Canal de recetas vegetarianas y veganas y más! - _Tiene grupo privado asociado_
+  * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, [Abandonado desde 2016], pero tiene material interesante.
+* Huertos
   * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
   * [Huerto ecológico](https://t.me/Huerto_ecologico) - Producir para autoconsumir. Aprende a cultivar tu propio huerto ecológico.
 * Arte / Dibujo
@@ -319,6 +328,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
 * Literatura
   * [Frases | Literatura | Aforismos](https://t.me/Frases_Literatura_citas) - Aquí encontrarás las mejores frases de los mejores escritores, poetas y artistas
+  * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
 
 ### Otros Podcasts
 
@@ -366,6 +376,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Ciudadanos Cs](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
   * [Partido Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
    Secretaria de Administraciones Públicas de PODEMOS
+  * [☠️ PIRATAS.org ☠️](https://t.me/PiratasORG) - Canal del Movimiento Pirata en el Estado español ☠️
 * Congreso de los Diputados (Madrid)
   * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Actualidad del
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
@@ -547,6 +558,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 ### Grupos varios
 
  * [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
+ * [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
+  * Tiene también [canal](https://t.me/komun)
 
 
 ## BOTs
