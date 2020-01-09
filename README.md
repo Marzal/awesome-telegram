@@ -218,9 +218,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
-  * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida y no ser un bot_
+  * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
-* [Uso Telegram](https://t.me/usoTelegram) - Noticias y tutoriales de Telegram - _Tiene grupo asociado_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
@@ -240,6 +239,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Parados
   * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
   * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado 2017]`
+  * ~~[Uso Telegram](https://t.me/usoTelegram) - Noticias y tutoriales de Telegram - _Tiene grupo asociado_~~
 
 #### Info sobre Bots
 
@@ -283,11 +283,11 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
 * [Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING
 * [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
-* [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
 * [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
 * Derechos Digitales
   * [internautas](https://t.me/asociacion) - Asociación de Internautas
   * [Xnet - Info al momento de nuestras acciones](https://t.me/XnetInfo) - Democracia en la era digital. Tecnopolítica. Lucha contra la corrupción. Información y cultura libres. - _Miembro de EDRi (European Digital Rights)_
+  * [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
   * [Interferencias Canal](https://t.me/inter_ferencias_ruido) - Asociación ciberactivista para compartir actividades, información y opinión sobre #DerechosDigitales, #SeguridadInformatica y similares.
     * Tiene [grupo](https://t.me/inter_ferencias) - Sin software libre no hay privacidad posible. _Granada_
 * En inglés
@@ -322,6 +322,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
 * Ciencia
   * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
+  * [Cienciamania](https://t.me/cienciamania) - Canal que recopila los post de los mejores blogs y páginas de ciencia de la web en español
+  * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.  
 * Educación
   * [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
   * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
