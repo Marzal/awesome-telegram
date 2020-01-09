@@ -77,6 +77,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
 * [UNICEF_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
 * [FACUA](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
+* [esXRebellion](https://t.me/EsXrebellion) - ESXrebellion: Extinción/Rebelión es una movimiento que a través  de la desobediencia civil, masiva, pacífica y sostenida en el tiempo  presiona a la clase política y busca activar a la sociedad ante el colapso climático y la crisis existencial q viene.
+* [Juventud por el Clima - Fridays for Future España](https://t.me/jxclima) - Bienvenidx al canal oficial de Juventud por el Clima!! Por aquí publicaremos nuestras campañas, sentadas, acciones, asambleas...  - _Tiene canal asociado_
+  * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
 
 ### Noticias
 
@@ -87,6 +90,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
 * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
+* [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de
+@RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
 
 ### Informática / Tecnología
 
