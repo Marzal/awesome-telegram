@@ -88,6 +88,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
 * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
+* [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
+* [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
+* [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
+* [Público](https://t.me/publico_es) - Canal oficial de Público
+* [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
 * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
 * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de
@@ -100,9 +105,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
+* [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
+* [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
 
 ### Software Libre / FLOSS
 
@@ -213,6 +220,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
   * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida y no ser un bot_
 * [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
+* [Uso Telegram](https://t.me/usoTelegram) - Noticias y tutoriales de Telegram - _Tiene grupo asociado_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
@@ -278,6 +286,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
 * [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
 * Derechos Digitales
+  * [internautas](https://t.me/asociacion) - Asociación de Internautas
+  * [Xnet - Info al momento de nuestras acciones](https://t.me/XnetInfo) - Democracia en la era digital. Tecnopolítica. Lucha contra la corrupción. Información y cultura libres. - _Miembro de EDRi (European Digital Rights)_
   * [Interferencias Canal](https://t.me/inter_ferencias_ruido) - Asociación ciberactivista para compartir actividades, información y opinión sobre #DerechosDigitales, #SeguridadInformatica y similares.
     * Tiene [grupo](https://t.me/inter_ferencias) - Sin software libre no hay privacidad posible. _Granada_
 * En inglés
@@ -293,38 +303,51 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [UnPythonAlDia](https://t.me/UnPythonAlDia) - Cada día se mostrará una herramienta de desarrollo para Python.
   * [AprendePython](https://t.me/aprendepython) - Tutoriales, artículos y cursos sobre el ecosistema de Python.
 * [Programar Fácil](https://t.me/programarfacilc) - #Arduino no es la solución para todo pero si que es el comienzo para buscar esa solución #Maker #DIY #SAV https://campus.programarfacil.com/
+* SEO
+  * [SEO Blogging y Marketing digital](https://t.me/seo30) - Canal sobre SEO y marketing online.
 
 ### Móviles / Android
 
 * [El Androide Libre](https://t.me/AndroideLibre) - Noticias Android
 * [Andro4all](https://t.me/andro4all) - Android, noticias de tecnología, análisis, comparativas, ofertas... ¡Toda la actualidad móvil al alcance de tu mano!
-* [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
-* [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
-* [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
-  * Tiene [grupo asociado](https://t.me/LineageOS_group)
-  * Para [offtopic](https://t.me/lineageos_offtopic)
+* [MovilZona](https://t.me/MovilZonaES) - Reviews, tutoriales, curiosidades, noticias y opinión en tu canal de tecnología.
+* En inglés
+  * [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
+  * [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
+  * [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
+    * Tiene [grupo asociado](https://t.me/LineageOS_group)
+    * Para [offtopic](https://t.me/lineageos_offtopic)
 
 ### Cultura/Ocio/Otros
-
-* [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
-* [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
-* [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
-* [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
-* [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
-* [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
+* Ciencia
+  * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
+* Educación
+  * [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
+  * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
+  * [EDUCACIÓN 3.0](https://t.me/EDUCACION3_0) - EDUCACIÓN 3.0 es el medio de comunicación líder en innovación educativa, nuevas tecnologías y metodologías, innovación docente, formación y recursos para profesores.
+* Salud
+  * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
+  * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
+* Alimentación
+   * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
+   * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
+   * [Recetas veganas 😋](https://t.me/recetas_veganas) - Recetas veganas de sana y deliciosa comida
+   * [Canal Veggie](https://t.me/recetasveggiesconamor) - Canal de recetas vegetarianas y veganas y más! - _Tiene grupo privado asociado_
+   * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, [Abandonado desde 2016], pero tiene material interesante.
+ * Huertos
+   * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
+   * [Huerto ecológico](https://t.me/Huerto_ecologico) - Producir para autoconsumir. Aprende a cultivar tu propio huerto ecológico.
+* Televisión
+  * [Órbita Laika](https://t.me/orbitalaika) - Programa  de divulgación científica y humor  emitido por televisión española.
+  * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
+  * [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
+  * [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
+  * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
+  * [Carrusel por la Historia](https://t.me/HistoriayArqueologia) - Novedades históricas y artículos histórico-paleontológicos
   * [Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
-* Alimentación
-  * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
-  * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
-  * [Recetas veganas 😋](https://t.me/recetas_veganas) - Recetas veganas de sana y deliciosa comida
-  * [Canal Veggie](https://t.me/recetasveggiesconamor) - Canal de recetas vegetarianas y veganas y más! - _Tiene grupo privado asociado_
-  * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, [Abandonado desde 2016], pero tiene material interesante.
-* Huertos
-  * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
-  * [Huerto ecológico](https://t.me/Huerto_ecologico) - Producir para autoconsumir. Aprende a cultivar tu propio huerto ecológico.
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
@@ -334,6 +357,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * Literatura
   * [Frases | Literatura | Aforismos](https://t.me/Frases_Literatura_citas) - Aquí encontrarás las mejores frases de los mejores escritores, poetas y artistas
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
+* Electronica y Mecánica
+  * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
 
 ### Otros Podcasts
 
@@ -356,6 +381,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Hablemos de Montessori](https://t.me/hablemosdemontessori) - dedicado a la Educación #Montessori
 * [Red de podcast Nación Podcaster](https://t.me/nacionpodcast)
   * Tiene [grupo](https://t.me/nacionpodcaster)
+* [Carne Cruda](https://t.me/carnecruda) - Recibe nuestros mensajes de texto y voz con las últimas noticias y contenidos. - _Programa de radio_
 * [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
   * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
 * [Viajo en Moto](https://t.me/viajoenmoto)
@@ -366,7 +392,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
   * [GeoCastAway](https://t.me/geocastaway) - _Geología_
     * Tiene [grupo](https://t.me/geocastawaypodcast)
-* En ingles
+* En inglés
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](www.theminimalists.com) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
 ### Política
@@ -375,22 +401,31 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * Partidos
   * [PODEMOS](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
     * [En el Exterior Podemos](https://t.me/podemosexterior) - círculos en el exterior
-    * [Contigo en las administraciones - PODEMOS](https://t.me/PodemosAdmonPublica) - Canal oficial de la
+    * [Contigo en las administraciones - PODEMOS](https://t.me/PodemosAdmonPublica) - Canal oficial de la Secretaria de Administraciones Públicas de PODEMOS
   * [PSOE](https://t.me/canalPSOE) - Canal oficial del PSOE en Telegram
   * [Más País](https://t.me/MasPais_Es) - Nacemos para ser el antídoto a la abstención y sacar a nuestro país del bloqueo. Por un país más verde, feminista, justo y libre. Súmate\!
   * [Ciudadanos Cs](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
   * [Partido Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
-   Secretaria de Administraciones Públicas de PODEMOS
+  * [Animalistas IU](https://t.me/AnimalistasIU) - Canal oficial de comunicación del Movimiento Animalista de IU, Área Federal de Izquierda Unida que trabaja por los Derechos Animales.
   * [☠️ PIRATAS.org ☠️](https://t.me/PiratasORG) - Canal del Movimiento Pirata en el Estado español ☠️
 * Congreso de los Diputados (Madrid)
-  * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Actualidad del
+  * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Canal para estar al tanto de la actualidad del Congreso
+    * [BOE diario](https://t.me/BOEdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
-* Internacional
-  * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
+* Sindicatos
+  * [Canal CCOO](https://t.me/canalccoo) - Canal de la Confederación Sindical de Comisiones Obreras
+  * [UGT Comunicación](https://t.me/ugt_es) - Canal de noticias de la Unión General de Trabajadores
 * Pastafaris
   * [Pastafaris España](https://t.me/pastafarisespana) - Canal de noticias de Pastafaris en España
       * Tienen [grupo oficial](https://t.me/Pastafaris) - Grupo oficial para todos los Pastafaris en España
   * [Asociación República Pastafari de MonEsVol](https://t.me/asociacionpastafari) -
+* Instituciones
+  * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
+  * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
+  * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
+* Internacional
+  * [DOUE diario](https://t.me/DOUEdiario) - El Diario Oficial de la Unión Europea (DO)
+  * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
 
 ### Regionales
 
@@ -400,11 +435,13 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [La Salud en tu comida](https://t.me/lasaludentucomida) - Comidas saludables para llevar, panadería y repostería 0% gluten 100% sabor. También tenemos Menús vegetarianos y veganos. _(Comida para llevar en Cartagena)_
 * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga
+* [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Comunidad Valenciana
 
 * [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
+* [Feria Vegana Valencia](https://t.me/feriaveganavalencia) - http://feriaveganavalencia.org
 
 #### Canarias
 
@@ -725,7 +762,7 @@ send it to Telegram
 ### Para encontrar canales, grupos o bots
 * Otros listados
   * [awesome-telegram-lists](https://github.com/lorien/awesome-telegram-lists) - _Listado de listas con recursos de Telegram_
-  * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En ingles y ruso_
+  * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En inglés y ruso_
   * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
   * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
 * Buscadores
