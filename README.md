@@ -69,6 +69,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
   * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
+* [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 
 ### ONGs / Asociaciones
@@ -110,6 +111,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
+* [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
+  * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica. 
 
 ### Software Libre / FLOSS
 
