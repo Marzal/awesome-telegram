@@ -96,8 +96,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
 * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
-* [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de
-@RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
+* [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
 
 ### Informática / Tecnología
 
@@ -111,8 +110,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
-* [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
-  * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica. 
+* Domótica
+  * [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
+    * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica.
+  * [Enlaces y Material Domology 2.0](https://t.me/linksdomology) - Enlaces, archivos e info de proyectos sobre Domótica interesantes.
+    * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
 
 ### Software Libre / FLOSS
 
