@@ -90,6 +90,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
 * [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
+* [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
 * [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
 * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
 * [Público](https://t.me/publico_es) - Canal oficial de Público
