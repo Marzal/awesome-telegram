@@ -602,6 +602,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
+  * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada. 
 
 ### Grupos varios
 
