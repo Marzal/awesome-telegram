@@ -245,7 +245,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Parados
   * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
   * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado 2017]`
-  * ~~[Uso Telegram](https://t.me/usoTelegram) - Noticias y tutoriales de Telegram - _Tiene grupo asociado_~~
 
 #### Info sobre Bots
 
@@ -441,9 +440,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 
 * [Residuo Cero Region de Murcia](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
-* [La Salud en tu comida](https://t.me/lasaludentucomida) - Comidas saludables para llevar, panadería y repostería 0% gluten 100% sabor. También tenemos Menús vegetarianos y veganos. _(Comida para llevar en Cartagena)_
-* [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
+* [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Comunidad Valenciana
@@ -685,6 +683,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
   * [@SpamBot](https://t.me/SpamBot) - The official Spam Info Bot by Telegram. Helps users with limited accounts regain the full functionality.
   * [@previews](https://t.me/Previews) - Use this bot to leave feedback about webpage previews generated for Telegram's Instant View feature.
+  * [@jobs_bot](https://t.me/jobs_bot) - This bot lists career opportunities at Telegram and accepts candidates' applications. Available at telegram.org/jobs
 
 ### Utilidades
 
@@ -698,6 +697,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [@voicybot](https://t.me/voicybot) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
 * [@randymbot](https://t.me/randymbot) - [Open Source](https://github.com/backmeupplz/randymbot) - Randy can randomly select a raffle participant in a chat or a channel
 * [GiveawaysBot 🎰](https://t.me/Giveaways_Bot) - [Open Source](https://github.com/DanySpin97/GiveawaysBot)`2017` - handles giveaways creation and management, allowing users to easily create, join and share giveaways.
+* [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
 * @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
