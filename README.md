@@ -564,8 +564,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * Android
   * [andOTP](https://t.me/andOTP) - Official Telegram group for the open-source two-factor authentication app andOTP
 * UBports
+  * [UBports \[ESPAÑOL\]](https://t.me/UBPorts_ES) - Grupo oficial de la comunidad de UBPorts en Español
   * [UBports \[ENGLISH\]](https://t.me/ubports) - UBports [ENGLISH]
-    * [UBports \[ESPAÑOL\]](https://t.me/UBPorts_ES) - Grupo oficial de la comunidad de UBPorts en Español
     * [UB Welcome & Install](https://t.me/WelcomePlus) - Ubports newcomers room - _(Para novatos)_
 
 ### Tecnológicos
@@ -598,11 +598,13 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
       * Go Vegan Murcia 🌱
 * Comunidad Valenciana
   * [GNU/Linux Valencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
-* Galicia
-  * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
-  * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada. 
+  * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada.
+* Galicia
+  * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
+* Cataluña
+  * [Col.lectiu Ronda](https://t.me/collectiuronda) - Cooperativa d'assessorament jurídic, laboral i social
 
 ### Grupos varios
 
