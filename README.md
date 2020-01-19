@@ -156,6 +156,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
+* [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
+  * Tiene grupo [asociado](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
 * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
   * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
@@ -189,6 +191,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Eventos
 
+* [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
+  * Tiene grupo [asociado](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas)
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
@@ -326,6 +330,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
     * Para [offtopic](https://t.me/lineageos_offtopic)
 
 ### Cultura/Ocio/Otros
+
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
 * Ciencia
   * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
@@ -486,7 +491,6 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 
 * [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
 * Tecnología
-  * [OpenExpo Europe](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
   * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
