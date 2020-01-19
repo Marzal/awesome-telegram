@@ -90,14 +90,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
 * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
 * [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
-* [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
 * [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
 * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
 * [Público](https://t.me/publico_es) - Canal oficial de Público
 * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
 * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
-* [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
+* Revistas
+  * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
+  * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
+  * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
 
 ### Informática / Tecnología
 
