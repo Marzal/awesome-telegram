@@ -157,7 +157,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
-  * Tiene grupo [asociado](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
+  * [Grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
 * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
   * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
@@ -192,7 +192,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Eventos
 
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
-  * Tiene grupo [asociado](https://t.me/OpenExpoEurope) - [Evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
+  * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas)
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
@@ -732,6 +732,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 
 ### Utilidades
 * https://т.website/ - _Generador de previews insertables_
+* https://telesco.pe/ - _Muestra una web solo con los videos circulares de un canal_
 
 ### IFTTT
 * Tiempo / Meteorología
