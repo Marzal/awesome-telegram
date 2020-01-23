@@ -254,7 +254,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Info sobre Bots
 
-* [BotNews](https://t.me/BotNews) - The official source for news about the Telegram Bot API.
+* [BotNews](https://t.me/BotNews) - The *official* source for news about the Telegram Bot API.
 * [Bot Updates](https://t.me/BotUpdates) - The team that makes life better with using bots.
 * [Controller Updates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
 * [@MiTrackingBot - Info y novedades](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
@@ -671,7 +671,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [@BotFather](https://t.me/botfather) - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
 * [@like](https://t.me/like) - _(Mensajes con botones)_
 * [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
-* @vote - _Creador de encuestas. El mismo integrado en los 3 puntos de arriba a la derecha._
+* [@vote](https://t.me/vote) - _Creador de encuestas. El mismo integrado en los 3 puntos de arriba a la derecha._
+* [@QuizBot](https://t.me/quizbot) - _multi-question quizzes and share them with others_
 * [@GmailBot](https://t.me/GmailBot) - With this bot you can get new emails and reply to them without leaving Telegram.[Privacy](https://telegram.org/privacy/gmailbot)
 * Busquedas inline
   * [@gif](https://t.me/gif) - Type @gif with a search query in your channel and gif suggestions will show up
