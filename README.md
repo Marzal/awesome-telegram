@@ -254,7 +254,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Info sobre Bots
 
-* [BotNews](https://t.me/BotNews) - The *official* source for news about the Telegram Bot API.
+* [BotNews](https://t.me/BotNews) - The ***official*** source for news about the Telegram Bot API.
 * [Bot Updates](https://t.me/BotUpdates) - The team that makes life better with using bots.
 * [Controller Updates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
 * [@MiTrackingBot - Info y novedades](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
@@ -732,8 +732,8 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Palabra a emoji](https://translations.telegram.org/es/emoji) - _Traducción de Telegram, en la que pones una palabra o simbolo y sugiere un emoji_
 
 ### Utilidades
+* https://telesco.pe/ - ***Oficial*** - _Muestra una web solo con los videos circulares de un canal_
 * https://т.website/ - _Generador de previews insertables_
-* https://telesco.pe/ - _Muestra una web solo con los videos circulares de un canal_
 
 ### IFTTT
 * Tiempo / Meteorología
