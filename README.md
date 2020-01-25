@@ -578,7 +578,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
 * [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
-* ~~[Enlaces Telegram](https://t.me/EnlacesTelegram) - Publica enlaces de canales, grupos, bots y stickers.~~
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
