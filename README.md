@@ -150,17 +150,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Podcasts
 
 * [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
+* [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
+* [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [El Podcast de Eduardo](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
   * Grupo asociado [Grupo Podcast](https://t.me/grupopodcast) para comentar los capítulos - _(+ de todo un poco)_
   * Canal asociado [Audios - El Podcast de Eduardo](https://t.me/elpodcastaudios) - Audios del podcast
-* [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
-* [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * [Grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
+  * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
+    * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
-* [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
-  * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
@@ -288,11 +288,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
 * [Security News for Everyone](https://t.me/SeguridadInformatica) - Canal dedicado a noticias de Seguridad Informática en todos sus ámbitos, gratuito y sin publicidad 24h x 365 días al año
 * [Pléyades IT - Ciberseguridad](https://t.me/pleyades_it) - Canal de 📰 actualidad y 🚨 alertas de Ciberseguridad.
-  * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general.
-Objetivo: compartir conocimientos, opiniones y resolver dudas.
+  * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general. Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Segu-Info Channel](https://t.me/SeguInfoChannel) - Canal de Seguridad de la Información de Segu-Info. Más info: https://blog.segu-info.com.ar
 * [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
-* [Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING
 * [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
 * [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
 * Derechos Digitales
@@ -305,6 +303,7 @@ Objetivo: compartir conocimientos, opiniones y resolver dudas.
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
   * [ALL ABOUT HACKER](https://t.me/ALLABOUTHACK) - https://www.allabouthack.com - Tiene [grupo](https://t.me/AllAboutHack2)
+* ~[Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING~
 
 ### Programación / Developers
 
