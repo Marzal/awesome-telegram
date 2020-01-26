@@ -162,9 +162,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
-* [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática
+* [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática. - _Tiene grupo privado_
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
-* [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado_
+* [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado compartido con Tomando un Cafe_
+  * [ARM(alternativas a Raspberry)](https://t.me/AlternativasRaspberry) - Grupo sobre alternativas a Raspberry, donde hablaremos de marcas como Pine64,OrangePi,NanoPI, BananaPi,LibreComputer y otras marcas.
 * [NeoSiteLinux - Software Libre y más...](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
   * [NeoSiteLinux Podcast (Audios)](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
   * Grupo asociado [NeoSiteLinux (grupo)](https://t.me/neositelinuxgrupo)
@@ -464,6 +465,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
   * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
+* [XR Madrid](https://t.me/XRMadrid) - Canal de Telegram de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
 
 
 ## GRUPOS
