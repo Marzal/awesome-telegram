@@ -293,7 +293,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Segu-Info Channel](https://t.me/SeguInfoChannel) - Canal de Seguridad de la Información de Segu-Info. Más info: https://blog.segu-info.com.ar
 * [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
 * [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
-* [Seguridad Informática Cloud ☁️](https://t.me/joinchat/AAAAAE_TwAdOrBRQcLs8yg) - Archivos, Recusos y demás
 * Derechos Digitales
   * [internautas](https://t.me/asociacion) - Asociación de Internautas
   * [Xnet - Info al momento de nuestras acciones](https://t.me/XnetInfo) - Democracia en la era digital. Tecnopolítica. Lucha contra la corrupción. Información y cultura libres. - _Miembro de EDRi (European Digital Rights)_
