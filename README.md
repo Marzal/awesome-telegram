@@ -436,6 +436,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
+  * [Ayuntamientos](https://amalialopezacera.com/listado-de-71-canales-de-telegram-de-ayuntamientos-activos) - Listado de 71 canales de Telegram de ayuntamientos (activos) por "El Blog de Amalia López Acera"
 * Internacional
   * [DOUE diario](https://t.me/DOUEdiario) - El Diario Oficial de la Unión Europea (DO)
   * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
