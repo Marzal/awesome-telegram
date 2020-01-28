@@ -467,6 +467,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
 * [XR Madrid](https://t.me/XRMadrid) - Canal de Telegram de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
 
+#### Andalucía
+
+* [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
+
 
 ## GRUPOS
 
