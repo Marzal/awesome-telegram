@@ -113,6 +113,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
+* [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
 * Domótica
   * [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
     * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica.
@@ -313,6 +314,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [UnPythonAlDia](https://t.me/UnPythonAlDia) - Cada día se mostrará una herramienta de desarrollo para Python.
   * [AprendePython](https://t.me/aprendepython) - Tutoriales, artículos y cursos sobre el ecosistema de Python.
 * [Programar Fácil](https://t.me/programarfacilc) - #Arduino no es la solución para todo pero si que es el comienzo para buscar esa solución #Maker #DIY #SAV https://campus.programarfacil.com/
+* [Desarrolladores Informaticos](https://t.me/DesarrolladoresInformaticos) - Programación , Hacking , Inteligencia Artificial , Ciberseguridad y todo lo relacionado con la Informática. !!!
+  * Tiene [grupo](https://t.me/Desarrolladores_Informaticos) - compartir material y conocimiento
 * SEO
   * [SEO Blogging y Marketing digital](https://t.me/seo30) - Canal sobre SEO y marketing online.
 
@@ -491,6 +494,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
+* [ Comunidad Octoprint Esp ](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
 
 ### Podcasts sin canal
 
@@ -556,6 +560,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Kali Linux](https://t.me/kalilinux_es) - Grupo oficial de Kali Linux en Español.
 * Otras
   * [Slackware en Español](https://t.me/slackware_es) - Grupo oficial de Slackware Linux en Español
+  * [Alpine Linux Espanol](https://t.me/alpine_linux_espanol) - Linux en serio!. efectivo rapido.. incompatible.. como todo lo que hace un hacker hoy dia!
 * [Raspberry Pi](https://t.me/GrupoRaspberryPi) - Grupo general para hablar sobre Raspberry Pi. Tenemos grupos sobre temáticas específicas como emuladores, mediacenters _Moderado por @vlcguardianbot_
 
 #### Entornos de Escritorio
@@ -592,6 +597,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática. Aquí estamos para aprender seguridad entre todos.
   * [InfoSec - es](https://t.me/infoseces) - Pregunta dudas técnicas, ayuda en las que puedas. Nada de política ni opinión. Es un canal de 1 y 0s
   * [Palo Alto Firewall / Panorama](https://t.me/paloalto_firewall) - Palo Alto Firewall / Panorama
+* Compra/Venta
+  * [Segunda Mano Informática| ForoSegundaMano.com](https://t.me/forosegundamano) - Las ofertas y detalles se preguntan a los vendedores por Privado. País: España 🇪🇸.
+  * [RetroMercadillo](https://t.me/retromercadillo) - Grupo RetroMercadillo de compra-venta de electrónica y software retro de segunda mano
+* Programación
+  * [Python España](https://t.me/pythonesp) - Grupo de discusión sobre el lenguaje Python de la comunidad española
+  * [CodeIgniter en Español](https://t.me/CodeIgniterEnEspanol) - Grupo de profesionales para compartir conocimientos sobre CodeIgniter y todo lo relacionado en programación y brindar asesorías entre todos.
+* Sistemas
+  * [Dockerlogy](https://t.me/dockerlogy) - Grupo para aprender a instalar y gestionar aplicaciones mediante docker
+* Varios
+  * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
+  * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
 
 ### Por Regiones
 
@@ -612,6 +628,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
   * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada.
+  * [Aula de Software Libre UCO](https://t.me/aulasoftwarelibreuco) - Grupo del Aula de Software Libre _de la Universidad de Córdoba_
 * Galicia
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Cataluña
@@ -619,9 +636,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Grupos varios
 
- * [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
- * [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
-  * Tiene también [canal](https://t.me/komun)
+* [PADELZOOM 🎾 Grupo Oficial](https://t.me/Padelzoom) - Grupo para hablar de una de nuestras mayores pasiones: las palas de pádel.
+* [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
+* [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
+* Tiene también [canal](https://t.me/komun)
 
 
 ## BOTs
@@ -649,8 +667,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Administración de Grupos
 
-* @join_captcha_bot - To verify if a new user in a group is human - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - _AntiSpam en el login para grupos_
-* @GroupButler_bot - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
+* @join_captcha_bot - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - To verify if a new user in a group is human - _AntiSpam en el login para grupos_
+* [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
+* [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
 * @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
 * [@combot](https://t.me/combot) - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
 * [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
