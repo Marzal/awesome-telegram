@@ -483,10 +483,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LinuxerOS](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
 * [Novato en Linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
 * [Hacking en Español](https://t.me/hackers_es)
-* [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros
+* [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros - _Mucho tráfico/mensajes_
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
-* [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD
+* [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD - _Muchísimo tráfico/mensajes_
 * Hispalinustálgicos _(Con invitación)_
 
 ### Aplicaciones
@@ -494,7 +494,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
-* [ Comunidad Octoprint Esp ](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
+* [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
 
 ### Podcasts sin canal
 
@@ -592,6 +592,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
+  * [Python España](https://t.me/pythonesp) - Grupo de discusión sobre el lenguaje Python de la comunidad española
+  * [CodeIgniter en Español](https://t.me/CodeIgniterEnEspanol) - Grupo de profesionales para compartir conocimientos sobre CodeIgniter y todo lo relacionado en programación y brindar asesorías entre todos.
+* Sistemas
+  * [Dockerlogy](https://t.me/dockerlogy) - Grupo para aprender a instalar y gestionar aplicaciones mediante docker
 * Seguridad
   * [Hackers en Español](https://t.me/hackers_es) - Grupo de Hacking en Español
   * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática. Aquí estamos para aprender seguridad entre todos.
@@ -600,11 +604,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Compra/Venta
   * [Segunda Mano Informática| ForoSegundaMano.com](https://t.me/forosegundamano) - Las ofertas y detalles se preguntan a los vendedores por Privado. País: España 🇪🇸.
   * [RetroMercadillo](https://t.me/retromercadillo) - Grupo RetroMercadillo de compra-venta de electrónica y software retro de segunda mano
-* Programación
-  * [Python España](https://t.me/pythonesp) - Grupo de discusión sobre el lenguaje Python de la comunidad española
-  * [CodeIgniter en Español](https://t.me/CodeIgniterEnEspanol) - Grupo de profesionales para compartir conocimientos sobre CodeIgniter y todo lo relacionado en programación y brindar asesorías entre todos.
-* Sistemas
-  * [Dockerlogy](https://t.me/dockerlogy) - Grupo para aprender a instalar y gestionar aplicaciones mediante docker
 * Varios
   * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
   * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
