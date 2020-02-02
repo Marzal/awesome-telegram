@@ -71,6 +71,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
 * [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
+* [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
 
 ### ONGs / Asociaciones
 
@@ -134,6 +135,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Grupo asociado [StallmanWasRight](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
   * [It's FOSS](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
   * [Mastodon Project](https://t.me/mastodonnews) - Read all news from the official joinmastodon.org blog and much more.
+  * [Libreware](https://t.me/libreware) - English - _Todo tipo de aplicaciones libres_
 
 #### GNU/Linux
 
@@ -373,8 +375,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Literatura
   * [Frases | Literatura | Aforismos](https://t.me/Frases_Literatura_citas) - Aquí encontrarás las mejores frases de los mejores escritores, poetas y artistas
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
-* Electronica y Mecánica
+* Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
+* [Legales Sin Fronteras](https://t.me/legalessinfronteras) - Cooperativa Jurídica sin ánimo de Lucro Social y Solidaria que pretende dar información gratuita a todas las personas.
 
 ### Otros Podcasts
 
@@ -495,6 +498,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
 * [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
+* [Nextcloud](https://t.me/Nextcloud) - _English_
 
 ### Podcasts sin canal
 
@@ -562,6 +566,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Slackware en Español](https://t.me/slackware_es) - Grupo oficial de Slackware Linux en Español
   * [Alpine Linux Espanol](https://t.me/alpine_linux_espanol) - Linux en serio!. efectivo rapido.. incompatible.. como todo lo que hace un hacker hoy dia!
 * [Raspberry Pi](https://t.me/GrupoRaspberryPi) - Grupo general para hablar sobre Raspberry Pi. Tenemos grupos sobre temáticas específicas como emuladores, mediacenters _Moderado por @vlcguardianbot_
+  * [NextCloudPi](https://t.me/NextCloudPi) - Nextcloud instance that is preinstalled and preconfigured
 
 #### Entornos de Escritorio
 
