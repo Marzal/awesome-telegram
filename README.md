@@ -107,6 +107,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
 * [Xataka](https://t.me/xataka) - Apasionados por la tecnología
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
+* [Wwwhatsnew](https://t.me/wwwhatsnew) - Las mejores noticias de wwwhatsnew.com
 * [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
 * [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
 * [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
@@ -655,6 +656,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
 * @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
+* [@wwwhatsnew](https://t.me/Wwwhatsbot) - Muestra de forma automática las noticias publicadas en WWWhatsnew
 
 ### Encuestas
 
