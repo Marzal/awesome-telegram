@@ -500,6 +500,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
 * [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
 * [Nextcloud](https://t.me/Nextcloud) - _English_
+* [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 
 ### Podcasts sin canal
 
