@@ -278,7 +278,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Seguridad
 
 * [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
-* [Linux, seguridad y cosas informáticas curiosas](https://t.me/linuxSegurInteresInformatica) - Linux, seguridad y cosas informáticas curiosas
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
 * [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
@@ -379,6 +378,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
 * [Legales Sin Fronteras](https://t.me/legalessinfronteras) - Cooperativa Jurídica sin ánimo de Lucro Social y Solidaria que pretende dar información gratuita a todas las personas.
+* [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
 
 ### Otros Podcasts
 
