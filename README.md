@@ -156,6 +156,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
+* [GNU/Linux Valencia](https://t.me/canalgnulinuxvalencia) - Nuestro objetivo es la difusión de GNU/Linux. Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc...
+  * Tienen [grupo](https://t.me/gnulinuxvalencia) -
 * [El Podcast de Eduardo](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
   * Grupo asociado [Grupo Podcast](https://t.me/grupopodcast) para comentar los capítulos - _(+ de todo un poco)_
   * Canal asociado [Audios - El Podcast de Eduardo](https://t.me/elpodcastaudios) - Audios del podcast
