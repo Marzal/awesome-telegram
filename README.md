@@ -429,7 +429,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Ciudadanos Cs](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
   * [Partido Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
   * [Animalistas IU](https://t.me/AnimalistasIU) - Canal oficial de comunicación del Movimiento Animalista de IU, Área Federal de Izquierda Unida que trabaja por los Derechos Animales.
-  * [PACMA](https://t.me/PartidoPACMA) - Todas las campañas y acciones del único partido en España que defiende sin excusas los derechos de los animales, el medioambiente y la justicia social. 
+  * [PACMA](https://t.me/PartidoPACMA) - Todas las campañas y acciones del único partido en España que defiende sin excusas los derechos de los animales, el medioambiente y la justicia social.
   * [☠️ PIRATAS.org ☠️](https://t.me/PiratasORG) - Canal del Movimiento Pirata en el Estado español ☠️
 * Congreso de los Diputados (Madrid)
   * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Canal para estar al tanto de la actualidad del Congreso
@@ -481,6 +481,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
 
+#### Cataluña
+* [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
 
 ## GRUPOS
 
