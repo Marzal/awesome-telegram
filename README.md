@@ -296,6 +296,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Pléyades IT - Ciberseguridad](https://t.me/pleyades_it) - Canal de 📰 actualidad y 🚨 alertas de Ciberseguridad.
   * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general. Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Segu-Info Channel](https://t.me/SeguInfoChannel) - Canal de Seguridad de la Información de Segu-Info. Más info: https://blog.segu-info.com.ar
+* [Flu Project](https://t.me/fluproject) - Canal oficial de la comunidad de habla hispana Flu Project. royecto nacido en 2010 con el objetivo de divulgar la ciberseguridad.
 * [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
 * [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
 * Derechos Digitales
@@ -308,7 +309,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
   * [ALL ABOUT HACKER](https://t.me/ALLABOUTHACK) - https://www.allabouthack.com - Tiene [grupo](https://t.me/AllAboutHack2)
-* ~[Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING~
+* ~~[Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING~~
 
 ### Programación / Developers
 
