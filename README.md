@@ -388,7 +388,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Tecnología
   * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
     * Tiene [grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad.
-  * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web
+  * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
   * [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
   * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
     * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
@@ -460,6 +460,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
+* [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
 * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
