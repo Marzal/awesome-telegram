@@ -444,6 +444,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
       * Tienen [grupo oficial](https://t.me/Pastafaris) - Grupo oficial para todos los Pastafaris en España
   * [Asociación República Pastafari de MonEsVol](https://t.me/asociacionpastafari) -
 * Instituciones
+  * [Ministerio de Sanidad](https://t.me/sanidadgob) - Canal oficial del Ministerio de Sanidad en Telegram
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
