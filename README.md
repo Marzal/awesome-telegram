@@ -113,7 +113,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
-* [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
+* [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
 * [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
 * Domótica
@@ -121,7 +121,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica.
   * [Enlaces y Material Domology 2.0](https://t.me/linksdomology) - Enlaces, archivos e info de proyectos sobre Domótica interesantes.
     * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
-
+* English
+  * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
+  
 ### Software Libre / FLOSS
 
 * Software Libre
