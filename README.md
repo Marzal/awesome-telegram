@@ -123,7 +123,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
 * English
   * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
-  
+
 ### Software Libre / FLOSS
 
 * Software Libre
@@ -500,6 +500,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros - _Mucho tráfico/mensajes_
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
+* [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
 * [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD - _Muchísimo tráfico/mensajes_
 * Hispalinustálgicos _(Con invitación)_
 
