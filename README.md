@@ -95,8 +95,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
 * [Público](https://t.me/publico_es) - Canal oficial de Público
 * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
-* [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_
-  * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
+* [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
+  * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_ - `[Parado y contenido pasado al grupo]`
+    * Ahora solo se publican en el [grupo asociado](https://t.me/joinchat/CbJCaU1ZtNvHhIpxsmD-ag)
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
