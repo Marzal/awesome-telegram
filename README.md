@@ -96,8 +96,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Público](https://t.me/publico_es) - Canal oficial de Público
 * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
 * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
-  * [El futuro del periodismo](https://t.me/periodismoyrrss) - _Periodismo y redes sociales_ - `[Parado y contenido pasado al grupo]`
-    * Ahora solo se publican en el [grupo asociado](https://t.me/joinchat/CbJCaU1ZtNvHhIpxsmD-ag)
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
@@ -658,7 +656,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [PADELZOOM 🎾 Grupo Oficial](https://t.me/Padelzoom) - Grupo para hablar de una de nuestras mayores pasiones: las palas de pádel.
 * [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
 * [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
-* Tiene también [canal](https://t.me/komun)
+  * Tiene también [canal](https://t.me/komun)
+* [El futuro del periodismo](https://t.me/joinchat/CbJCaU1ZtNvHhIpxsmD-ag) - _Debate de noticias sobre periodismo y redes sociales_
 
 
 ## BOTs
