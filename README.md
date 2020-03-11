@@ -544,6 +544,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [Pásate a GNU/Linux](https://t.me/pasategnulinux) - Grupo de Telegram para solventar dudas sobre la instalación de GNU/Linux. Sólo se responde a dudas
 * [GNU/LINUX](https://t.me/GnuLinuxGrupo) - distribuciones, ayuda, errores, drivers, instalaciones...
+* [ShurLinuxeros Amantes de GNU/Linux](https://t.me/shurlinuxeros) - _Poco movimiento_
 * DEB
   * [Debian_es](https://t.me/Debian_es) - Grupo sobre Debian de hispano hablantes.
     * [Devuan en Español](https://t.me/devuan_es) - Grupo [oficial](https://devuan.org) de Devuan en Español
@@ -596,6 +597,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Android / Moviles
 
 * Android
+  * [Club de Android y Gnu/Linux](https://t.me/ClubdeAndroidyGnuLinux) - Dos espacios reunidos en un mismo lugar, para usuarios de Android y Gnu/Linux. Además de  asesorias y ayuda en: gadgets, hardware, software, y demás S.O.
   * [andOTP](https://t.me/andOTP) - Official Telegram group for the open-source two-factor authentication app andOTP
 * UBports
   * [UBports \[ESPAÑOL\]](https://t.me/UBPorts_ES) - Grupo oficial de la comunidad de UBPorts en Español
