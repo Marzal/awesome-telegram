@@ -766,7 +766,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
 * [@pronunciationbot](https://t.me/pronunciationbot) - This is a bot that allows you to convert text into speech in 84 languages. - _Texto a voz_
 * [@VisionTest1Bot](https://t.me/visiontest1bot) - Text description of photos - _Le mandas una foto y te intenta decir lo que hay en ella._
-* @temp_mail_bot - (ruso) - `[Bot temporarily disabled]`
+* [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
+* [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
