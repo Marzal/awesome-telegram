@@ -498,11 +498,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LinuxerOS](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
 * [Novato en Linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
 * [Hacking en Español](https://t.me/hackers_es)
-* [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros - _Mucho tráfico/mensajes_
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
-* [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD - _Muchísimo tráfico/mensajes_
+* [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * Hispalinustálgicos _(Con invitación)_
 
 ### Aplicaciones
@@ -510,7 +509,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
+* [FreeCAD en Español](https://t.me/FreeCAD_Es) - Grupo de FreeCAD en Español. Todas tus ideas o proyectos son bienvenidos. Puedes vender tu servicio de diseño o consultar un problema e intentaremos ayudarte.
 * [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
+* [Node-red Spain](https://t.me/nodered)
 * [Nextcloud](https://t.me/Nextcloud) - _English_
 * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 
@@ -608,9 +609,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Tecnológicos
 
-* [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
-* [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
-* [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
+* Telegram
+  * [Todo Sobre Telegram](https://t.me/TodoSobreTelegram/136492) - _(Grupo sobre actualidad de todo lo relacionado con Telegram)_
+  * [Todo Sobre Temas Telegram](https://t.me/TodoSobreTemasTelegram) - Grupo dedicado a los temas de Telegram.
+  * [Geeks Chat](https://t.me/geeksChat) - Meeting point to talk about: ✳️ Telegram, News and Bots
 * Programación/Formación
   * [Formadores Informática](https://t.me/Foentire) - Punto de encuentro para formadores de informática, donde contar nuestras experiencia, resolver dudas y cualquier tema relacionado con la formación.
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
@@ -618,6 +620,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [CodeIgniter en Español](https://t.me/CodeIgniterEnEspanol) - Grupo de profesionales para compartir conocimientos sobre CodeIgniter y todo lo relacionado en programación y brindar asesorías entre todos.
 * Sistemas
   * [Dockerlogy](https://t.me/dockerlogy) - Grupo para aprender a instalar y gestionar aplicaciones mediante docker
+  * [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros - _Mucho tráfico/mensajes_
+  * [🐧SysAdmins de Cuba🇨🇺](https://t.me/sysadmincuba) - Consulta, Ayuda, Instalacion sobre cualquier tema referente a Redes en GNU/Linux, Windows y FreeBSD - _Muchísimo tráfico/mensajes_
 * Seguridad
   * [Hackers en Español](https://t.me/hackers_es) - Grupo de Hacking en Español
   * [SEGURIDAD INFORMATICA](https://t.me/seginformatica) - Grupo de seguridad informática. Aquí estamos para aprender seguridad entre todos.
@@ -626,6 +630,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Compra/Venta
   * [Segunda Mano Informática| ForoSegundaMano.com](https://t.me/forosegundamano) - Las ofertas y detalles se preguntan a los vendedores por Privado. País: España 🇪🇸.
   * [RetroMercadillo](https://t.me/retromercadillo) - Grupo RetroMercadillo de compra-venta de electrónica y software retro de segunda mano
+* Makers
+  * [Making Cosillas ❤️](https://t.me/makingcosillas) - "Activity log" de Makerio: Poned acá cualquier actividad, evento o tarea de proyecto que estéis haciendo. _Tiene listado de grupos regionales_
+  * [Spainlabs: CNC's](https://t.me/SpainLabsCNC) - Tu comunidad maker sobre CNC's, Impresión 3D, Arduino, Electrónica y mucho más.
+  * [Comunicaciones LoRa / LoRaWAN](https://t.me/LoRa_LoRaWAN) - Comunicaciones LoRa / LoRaWAN
 * Varios
   * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
   * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
@@ -646,6 +654,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
       * Go Vegan Murcia 🌱
 * Comunidad Valenciana
   * [GNU/Linux Valencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
+  * [Bitup Alicante Oficial](https://t.me/bitupalicante) - Comunidad y evento de ciberseguridad en Alicante (España)
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
   * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada.
