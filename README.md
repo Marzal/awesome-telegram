@@ -490,6 +490,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## GRUPOS
 
+* [Coronavirus makers](https://t.me/coronavirus_makers) - _Grupo para colaborar en la creación de materiales para ayudar en la emergencia sanitaria_
+
 ### Software Libre
 
 * [La Aldea de Tux 🐧 ](https://t.me/tuxaldea)
