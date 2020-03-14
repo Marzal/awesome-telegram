@@ -468,8 +468,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Comunidad Valenciana
 
-* [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
 * [Feria Vegana Valencia](https://t.me/feriaveganavalencia) - http://feriaveganavalencia.org
+* [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
+* [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
+
 
 #### Canarias
 
