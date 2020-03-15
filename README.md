@@ -98,6 +98,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
+  * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
 
@@ -490,6 +491,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Cataluña
 * [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
+* [XR Girona](https://t.me/XRGirona) - Davant la crisi climàtica i ecològica global i la inacció de les elits polítiques i econòmiques ens rebel·lem!
+
+#### Castilla-La Mancha
+* [Extinction Rebellion Toledo](https://t.me/XRToledo)
+
 
 ## GRUPOS
 
@@ -589,8 +595,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Entornos de Escritorio
 
-* [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro.
-* [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre y
+* KDE Plasma
+  * [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro.
+  * [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre
+  * [KDE Web](https://t.me/KDEWeb) - Managing KDE websites
 * [Gnomeros](https://t.me/gnomeros) - Grupo dedicado al entorno de Escritorio por excelencia en GNU/Linux
 * [Grupo XFCE](https://t.me/grupoxfce)
 
@@ -666,6 +674,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Cataluña
   * [Col.lectiu Ronda](https://t.me/collectiuronda) - Cooperativa d'assessorament jurídic, laboral i social
+* Islas Baleares
+  * [XR Ibiza Global Collaborators](https://t.me/joinchat/C5cQDxPVIPB_3rhhqEgUig) - For English speaking people that like to collaborate with XR Ibiza
 
 ### Grupos varios
 
@@ -674,7 +684,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
   * Tiene también [canal](https://t.me/komun)
 * [El futuro del periodismo](https://t.me/joinchat/CbJCaU1ZtNvHhIpxsmD-ag) - _Debate de noticias sobre periodismo y redes sociales_
-
+* XR (Extinción/Rebelión)
+  * [Rebel Beyond borders:COP25-MADRID](https://t.me/joinchat/AAAAAFaCd4MgsbSV_bg_bQ) - Grupo de Telegram XR durante COP25
+  * [Mobilissation Station](https://t.me/joinchat/NZUJVRQ3l6joyfXekMf-ig) - XR Mass Mobilisation group
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
