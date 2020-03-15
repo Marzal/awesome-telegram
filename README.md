@@ -345,6 +345,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Cienciamania](https://t.me/cienciamania) - Canal que recopila los post de los mejores blogs y páginas de ciencia de la web en español
   * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.  
 * Educación
+  * [EduCanales](https://t.me/Educanalgrupos) - Para recopilar canales y grupos  relacionados con el mundo educativo
   * [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
   * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
   * [EDUCACIÓN 3.0](https://t.me/EDUCACION3_0) - EDUCACIÓN 3.0 es el medio de comunicación líder en innovación educativa, nuevas tecnologías y metodologías, innovación docente, formación y recursos para profesores.
