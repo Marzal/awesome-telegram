@@ -353,6 +353,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Salud
   * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
   * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
+  * [Informe COVID-19 (España)](https://t.me/covid19_spa) - Cada 2 horas, informe del estado de la infección de SARS-CoV-2 (COVID-19) en España
 * Alimentación
    * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
    * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
@@ -784,6 +785,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@VisionTest1Bot](https://t.me/visiontest1bot) - Text description of photos - _Le mandas una foto y te intenta decir lo que hay en ella._
 * [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
 * [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
+* [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
