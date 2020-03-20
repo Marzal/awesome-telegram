@@ -133,6 +133,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
+* Makers
+  * [CV19Makers_Anuncios](https://t.me/CV19Makers_Anuncios) - Canal para centralizar la información de la iniciativa colaborativa de ayuda a la sanidad
 * FLOSS
   * [Free Software Foundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
     * Grupo asociado [StallmanWasRight](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
@@ -372,7 +374,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Carrusel por la Historia](https://t.me/HistoriayArqueologia) - Novedades históricas y artículos histórico-paleontológicos
-  * [Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03]`
+  * ~~[Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03, admin con problemas]`~~
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
