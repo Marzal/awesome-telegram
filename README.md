@@ -135,6 +135,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
 * Makers
   * [CV19Makers_Anuncios](https://t.me/CV19Makers_Anuncios) - Canal para centralizar la información de la iniciativa colaborativa de ayuda a la sanidad
+* Aplicaciones
+  * [Facturascrips 2020](https://t.me/facturascripts) - _Video-tutoriales sobre caracteristicas de la aplicación_
 * FLOSS
   * [Free Software Foundation](https://t.me/FreeSoftwareFoundation) - Unofficial FSF Channel. Here you'll find all sorts of news regarding free software
     * Grupo asociado [StallmanWasRight](https://t.me/stallmanwasright) - _(mucho tráfico, discuten de política en inglés)_
