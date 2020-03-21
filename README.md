@@ -112,6 +112,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
 * [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
+* [uLinks](https://t.me/ulinks) - Descubrimos tesoros en Internet y los compartimos. Un tentáculo más de https://superpatanegra.com
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
@@ -464,7 +465,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Regionales
 
 #### Región de Murcia
-
 * [Residuo Cero Region de Murcia](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
@@ -475,24 +475,19 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Comunidad Valenciana
-
 * [Feria Vegana Valencia](https://t.me/feriaveganavalencia) - http://feriaveganavalencia.org
 * [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
 * [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
 
-
 #### Canarias
-
 * [WiFi Canarias 📡](https://t.me/wificanarias) - WISP, Telecomunicaciones, Wireless, WiFi, \#WiFiConsejos y por supuesto: nuestros \#WiFiCanariasNews...
 
 #### Madrid
-
 * [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
   * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
 * [XR Madrid](https://t.me/XRMadrid) - Canal de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
 
 #### Andalucía
-
 * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
 
 #### Cataluña
