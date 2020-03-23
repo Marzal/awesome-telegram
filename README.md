@@ -377,7 +377,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Carrusel por la Historia](https://t.me/HistoriayArqueologia) - Novedades históricas y artículos histórico-paleontológicos
-  * ~~[Historygram](https://t.me/historygram) - Fotografías históricas. - `[Parado desde 2019-03, admin con problemas]`~~
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
