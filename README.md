@@ -342,6 +342,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
     * Tiene [grupo asociado](https://t.me/LineageOS_group)
     * Para [offtopic](https://t.me/lineageos_offtopic)
+  * [/e/ announcements](https://t.me/mydataismydata) - Latest news from /e/ - my data is MY data https://e.foundation
 
 ### Cultura/Ocio/Otros
 
@@ -733,7 +734,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * @HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 * @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
-* [@githubbot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
+* [@GitHubBot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
 * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 
