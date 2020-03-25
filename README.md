@@ -565,6 +565,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Ubuntizados](https://t.me/ubuntizados) - #Grupo colaborativos de ubuntizados. Usuari@s, seguidor@s, admirador@s y todos aquell@s que tenga interés por la distribución Ubuntu en sus diferentes sabores, Ubuntu, Kubuntu, Xubuntu, Lubuntu,
     * [KDE neon ES](https://t.me/kdeneones) - Grupo de habla hispana para entusiastas de KDE neon (no oficial)
     * [Kubuntu en Español](https://t.me/Kubuntues) - Grupo NO oficial de Kubuntu en Español
+    * [Kubuntu Support](https://t.me/kubuntu_support) - Official Kubuntu support - _Oficial_
     * [Ubuntu Studio en Español](https://t.me/UbuntuStudio) - Un grupo creado para ayudarnos a usar este lindo sistema para humanos creativos, tambien compartir nuestros conocimientos y creaciones.
     * [Linux Mint en Español](https://t.me/linuxmint_es) - Grupo oficial de Linux Mint en Español
   * [DeepinOS](https://t.me/deepin_es) - Grupo Oficial de DeepinOS en Español!
