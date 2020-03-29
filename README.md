@@ -114,6 +114,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
 * [uLinks](https://t.me/ulinks) - Descubrimos tesoros en Internet y los compartimos. Un tentáculo más de https://superpatanegra.com
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
+* [MovistarNoticias](https://t.me/MovistarNoticias) - Noticias del blog oficial de Movistar
 * [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
 * [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
@@ -150,6 +151,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
 * [Phoronix News](https://t.me/Phoronix) - Phoronix News. - _Benchmarks y reviews en inglés_
 * [Linuxgram 🐧](https://t.me/linuxgram) - News and info from the Linux world 🐧
+* [omg! ubuntu!](https://t.me/omgubuntu) - Get notified of the latest posts, what we're planning, and how you can help.
 * [Command Line Magic](https://t.me/climagic) - Cool Unix/Linux Command Line tricks you can use in \~140 characters
 * [Nación Linux](https://t.me/nacion_linux) - Clound general con articulos,links y archivos
 * [LiGNUx](https://t.me/LiGNUxNews) - Canal de noticias LiGNUx
@@ -213,7 +215,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Distros
 
-* [openSUSE News](https://t.me/opensusenews) - News from https://news.opensuse.org/
+* [openSUSE News](https://t.me/opensusenews) - News from https://news.opensuse.org/ - _Oficial_
 * [Fedora Project News](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
 * [EndeavourOS-news](https://t.me/endeavour_news) - community driven Antergos fork
 * Arch Linux
@@ -384,6 +386,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [World Architecture](https://t.me/Architecture_World) - Architectural structures from around the world
 * Música
   * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
+  * [Ana Guerra](https://t.me/anaguerrawarmusic) - _Canal personal?_
 * Literatura
   * [Frases | Literatura | Aforismos](https://t.me/Frases_Literatura_citas) - Aquí encontrarás las mejores frases de los mejores escritores, poetas y artistas
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
@@ -438,16 +441,19 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Más País](https://t.me/MasPais_Es) - Nacemos para ser el antídoto a la abstención y sacar a nuestro país del bloqueo. Por un país más verde, feminista, justo y libre. Súmate\!
   * [Ciudadanos Cs](https://t.me/CsCiudadanos) - Perfil oficial de Ciudadanos. Somos un partido liberal progresista, demócrata y constitucionalista.
   * [Partido Popular](https://t.me/Partido_Popular) - Partido Popular Perfil Oficial
-  * [Animalistas IU](https://t.me/AnimalistasIU) - Canal oficial de comunicación del Movimiento Animalista de IU, Área Federal de Izquierda Unida que trabaja por los Derechos Animales.
+  * [Izquierda Unida🔻](https://t.me/iunida) - Canal oficial de Izquierda Unida en Telegram. #PorUnNuevoPaís más justo, digno, democrático y soberano.
+    * [Animalistas IU](https://t.me/AnimalistasIU) - Canal oficial de comunicación del Movimiento Animalista de IU, Área Federal de Izquierda Unida que trabaja por los Derechos Animales.
   * [PACMA](https://t.me/PartidoPACMA) - Todas las campañas y acciones del único partido en España que defiende sin excusas los derechos de los animales, el medioambiente y la justicia social.
   * [☠️ PIRATAS.org ☠️](https://t.me/PiratasORG) - Canal del Movimiento Pirata en el Estado español ☠️
 * Congreso de los Diputados (Madrid)
   * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Canal para estar al tanto de la actualidad del Congreso
     * [BOE diario](https://t.me/BOEdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
+  * [Podemos Congreso](phttps://t.me/podemoscongreso) - Toda la actualidad de PODEMOS en el Congreso - `[Parado desde 2018]`
 * Sindicatos
   * [Canal CCOO](https://t.me/canalccoo) - Canal de la Confederación Sindical de Comisiones Obreras
   * [UGT Comunicación](https://t.me/ugt_es) - Canal de noticias de la Unión General de Trabajadores
+  * [CNT.es](https://t.me/CNTes) - Canal oficial del sindicato CNT (Confederación Nacional del Trabajo) Este canal depende de la Secretaría de Comunicación de CNT
 * Pastafaris
   * [Pastafaris España](https://t.me/pastafarisespana) - Canal de noticias de Pastafaris en España
       * Tienen [grupo oficial](https://t.me/Pastafaris) - Grupo oficial para todos los Pastafaris en España
@@ -486,13 +492,18 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
   * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
 * [XR Madrid](https://t.me/XRMadrid) - Canal de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
+* Universidad Rey Juan Carlos
+  * [URJC](https://t.me/urjc_uni) - Canal oficial. Mantente al tanto de toda la actualidad universitaria:📰❗️ Noticias❗️📰 ⚽️🏀 Deportes 🏈⚾️...
+  * [URJConline](https://t.me/URJConline) - Canal de URJC online (oficial). Información sobre la Universidad Rey Juan Carlos online.
 
 #### Andalucía
 * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
 
 #### Cataluña
+* [gencat](https://t.me/gencat) - _Generalitat of Catalonia_
 * [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
 * [XR Girona](https://t.me/XRGirona) - Davant la crisi climàtica i ecològica global i la inacció de les elits polítiques i econòmiques ens rebel·lem!
+* [AlertesUdG](https://t.me/alertesudg) - Avisos relacionats amb incidències que requereixin un avís immediat per a la comunitat universitària - _Universidad de Girona_
 
 #### Castilla-La Mancha
 * [Extinction Rebellion Toledo](https://t.me/XRToledo)
@@ -511,6 +522,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
+  * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
+* [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * Hispalinustálgicos _(Con invitación)_
 
@@ -786,6 +799,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
 * [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
 * [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
+* [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
