@@ -822,6 +822,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Oficiales
 * [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
 * [Palabra a emoji](https://translations.telegram.org/es/emoji) - _Traducción de Telegram, en la que pones una palabra o simbolo y sugiere un emoji_
+* [Authorization](https://my.telegram.org/auth) - Delete Account or Manage Apps
 
 ### Utilidades
 * https://telesco.pe/ - ***Oficial*** - _Muestra una web solo con los videos circulares de un canal_
