@@ -247,7 +247,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
   * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
-* [Más➕TELEGRAM👑🚀 ](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
+* [Más➕TELEGRAM👑🚀](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
@@ -531,6 +531,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Aplicaciones
 
 * [LibreOffice-ES](https://t.me/libreoffice_es)
+* [Kdenlive en Español](https://t.me/kdenlive_es) - Comunidad en habla hispana de Kdenlive
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
   * Recomienda grupo [Arte, Dibujos, Ilustraciónes y Logos.](https://t.me/ArteGraficoLibre)
 * [FreeCAD en Español](https://t.me/FreeCAD_Es) - Grupo de FreeCAD en Español. Todas tus ideas o proyectos son bienvenidos. Puedes vender tu servicio de diseño o consultar un problema e intentaremos ayudarte.
