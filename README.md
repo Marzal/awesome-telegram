@@ -394,6 +394,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
 * [Legales Sin Fronteras](https://t.me/legalessinfronteras) - Cooperativa Jurídica sin ánimo de Lucro Social y Solidaria que pretende dar información gratuita a todas las personas.
 * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
+* [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
 
 ### Otros Podcasts
 
