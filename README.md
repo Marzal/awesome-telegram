@@ -801,7 +801,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
 * [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
 * [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
+* [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
+* [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down. 
+* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caidas_
 * Inline
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
