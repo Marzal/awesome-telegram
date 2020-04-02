@@ -429,7 +429,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [GeoCastAway](https://t.me/geocastaway) - _Geología_
     * Tiene [grupo](https://t.me/geocastawaypodcast)
 * En inglés
-  * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](www.theminimalists.com) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
+  * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
 ### Política
 
@@ -778,6 +778,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @NoToScam - Reports about scammers are welcome here.
   * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
   * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
+  * [@VerifyBot](https://t.me/VerifyBot) - This bot can help you verify a Telegram channel, public group or bot. - _Bot para verificar cuentas_
   * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
   * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
   * [@SpamBot](https://t.me/SpamBot) - The official Spam Info Bot by Telegram. Helps users with limited accounts regain the full functionality.
@@ -870,6 +871,8 @@ send it to Telegram
   * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_
 * Listados
   * https://telegra.ph/Recomendaci%C3%B3n-de-BOTS-de-Androidsis-07-30-2 - Recomendación-de-BOTS-de-Androidsis-07-30-2
+* Utilidades
+  * [telegrun](https://gitlab.com/iMil/telegrun) - Execute local commands via Telegram messages
 
 ### Funcionamiento
 * Tutoriales
