@@ -135,6 +135,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
+  * [OpenStreetMaps](https://wiki.openstreetmap.org/wiki/List_of_OSM_centric_Telegram_accounts) - _Listado con oficial canales y grupos_
+    * [OSMF News Español](https://t.me/osmbloges) - Todas las noticias oficiales de la Fundación OpenStreetMap
+    * [OSMbot](https://t.me/OSMbot_channel) - News and tips for @OSMbot, the OpenStreetMap bot for Telegram.
 * Makers
   * [CV19Makers_Anuncios](https://t.me/CV19Makers_Anuncios) - Canal para centralizar la información de la iniciativa colaborativa de ayuda a la sanidad
 * Aplicaciones
@@ -807,6 +810,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down. 
 * [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caidas_
 * Inline
+  * [@OSMbot](https://telegram.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
   * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
