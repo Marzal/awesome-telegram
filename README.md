@@ -529,6 +529,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
 * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
+* [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
 * Hispalinustálgicos _(Con invitación)_
 
 ### Aplicaciones
@@ -565,6 +566,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Ciencia
   * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
   * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
+* [Maratonpod](https://t.me/maratonpodchat) - Este es un grupo para que los oyentes estén al tanto de las novedades del MaratonPOD y puedan interactuar con los podcasters
 
 ### Bash / Shell
 
