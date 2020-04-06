@@ -193,7 +193,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [GDF Estudio](https://t.me/gdfestudio) - Entérate de en qué se está trabajando en GDF Estudio antes que nadie. Magia y Tecnología. Podcast Rebasando el Horizonte
 * [Killall Radio Podcast Telegram](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
 * Programación
-  * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
   * [El podcast de JustDevZero](https://t.me/podcastjustdevzero) - Canal dedicado a la distribución de mi [podcast](https://podcast.justdevzero.me/) homónimo.
 
 #### Blogs
@@ -355,21 +354,33 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Ciencia
   * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
   * [Cienciamania](https://t.me/cienciamania) - Canal que recopila los post de los mejores blogs y páginas de ciencia de la web en español
-  * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.
+  * [Ciencia Popular](https://t.me/laquimeradegupta) - Canal del blog La Quimera de Gupta. Divulgamos ciencia
+  * [Investiga, que algo queda](https://t.me/investigamos) - Recursos, información, recomendaciones y más relacionados con la investigación.
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
-* Conservacion ambiental
-  * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
-  * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
-  * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
+  * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
+  * Conservacion ambiental
+    * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
+    * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
+    * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
+    * [Restauracion de Ecosistemas](https://t.me/restauraciondeecosistemas) - Canal para conocer que es la Restauración Ecológica de Ecosistemas, así como las noticias relacionadas.
+  * Astronomía
+    * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.
+    * [CAF](https://t.me/CAFtv) - Este canal envía curiosidades, frases y fotos relacionadas con la Astronomía y la Ciencia en general
+    * [Sistema Solar](https://t.me/SistemaSolar)
 * Educación
   * [EduCanales](https://t.me/Educanalgrupos) - Para recopilar canales y grupos  relacionados con el mundo educativo
-  * [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
+  * [Educación Especial - Material](https://t.me/EducacionEspecial) - Recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
   * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
   * [EDUCACIÓN 3.0](https://t.me/EDUCACION3_0) - EDUCACIÓN 3.0 es el medio de comunicación líder en innovación educativa, nuevas tecnologías y metodologías, innovación docente, formación y recursos para profesores.
+  * [AprendeINTEF](https://t.me/aprendeintef) - Canal de comunicación #AprendeINTEF. https://aprende.intef.es
+  * [Docente 5.1.](https://t.me/docente_innovador) - Todo sobre Materiales, Herramientas y Recursos para aplicar en el ámbito Educativo.
+  * [GEOGRAFÍA](https://t.me/GEOGRAFIA) - Todo sobre geografía: Imágenes del mundo, mapas, curiosidades de países y mucho más.
 * Salud
   * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
   * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
+  * [Enfermeria Uci HGCR](https://t.me/enfermeriaucihgcr) - documentos interesantes para la practica diaria en nuestro trabajo como enfermeros.  Chuletas, esquemas, posters..
+  * [TCAE: Auxiliares de Enfermeria](https://t.me/AuxiliaresTCAE) - Por y para Técnicos en Cuidados Auxiliares de Enfermeria (Cursos, Jornadas, Oposiciones, Test, Ofertas de empleo, etc...)
   * [Informe COVID-19 (España)](https://t.me/covid19_spa) - Cada 2 horas, informe del estado de la infección de SARS-CoV-2 (COVID-19) en España
 * Alimentación
    * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
@@ -380,12 +391,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
  * Huertos
    * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
    * [Huerto ecológico](https://t.me/Huerto_ecologico) - Producir para autoconsumir. Aprende a cultivar tu propio huerto ecológico.
-* Televisión
-  * [Órbita Laika](https://t.me/orbitalaika) - Programa  de divulgación científica y humor  emitido por televisión española.
-  * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
-  * [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
-  * [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
-  * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Carrusel por la Historia](https://t.me/HistoriayArqueologia) - Novedades históricas y artículos histórico-paleontológicos
@@ -402,16 +407,26 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
+* Televisión
+  * [Órbita Laika](https://t.me/orbitalaika) - Programa  de divulgación científica y humor  emitido por televisión española.
+  * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
+  * [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
+  * [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
+  * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
+* Datos curiosos / trivials
+  * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
+  * [📌📝Secretos de ortografía📚](https://t.me/secretosdeortografia) - Normas que regulan la escritura de la lengua española.
+  * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
+* Feminismo
+  * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
+  * [Vaginocracia Parlamentaria](https://t.me/barbijaputa)
 * [Legales Sin Fronteras](https://t.me/legalessinfronteras) - Cooperativa Jurídica sin ánimo de Lucro Social y Solidaria que pretende dar información gratuita a todas las personas.
-* [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
-* [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
 
 ### Otros Podcasts
 
 * Tecnología
   * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
     * Tiene [grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad.
-  * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
   * [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
   * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
     * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
@@ -420,6 +435,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Tiene [grupo](https://t.me/cosasdemodernos)
   * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
   * [Secure Podcast - Channel](https://t.me/securepodcast) - Un intento de Podcast sobre InfoSec, hecho por y para la Comunidad. - _Retweets de su cuenta de Twitter_
+  * [RadiogeekPodcast](https://t.me/radiogeekpodcast) - Canal del Podcast diario #Radiogeek
+* Programación
+  * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
+  * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
+* [Audio Momentos](https://t.me/audiomomentos) - Diario Pesonal en Audio de un loco por contar cosas - _Yoyo Fernandez_
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
 * [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono) - noticias, eventos, herramientas, curiosidades y recomendaciones relacionadas con el podcasting.
@@ -443,7 +463,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Política
 
-* [1906 news](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
+* Encuestas
+  * [1906 news](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
+  * [Electomania](https://t.me/electomania) - Web especializada en política nacional y encuestas.
 * Partidos
   * [PODEMOS](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
     * [En el Exterior Podemos](https://t.me/podemosexterior) - círculos en el exterior
@@ -459,6 +481,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Congreso de los Diputados (Madrid)
   * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Canal para estar al tanto de la actualidad del Congreso
     * [BOE diario](https://t.me/BOEdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
+    * [La Moncloa](https://t.me/LaMoncloa_ES) - Últimos titulares desde La Moncloa a medida que se vayan produciendo y publicando oficialmente.
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
   * [Podemos Congreso](phttps://t.me/podemoscongreso) - Toda la actualidad de PODEMOS en el Congreso - `[Parado desde 2018]`
 * Sindicatos
@@ -488,37 +511,73 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
 * [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
+* [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
 * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
+
+#### Andalucía
+* [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - Sigue todas las Novedades de Educación de Andalucía
+* [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - 
+* [Emergencias Sevilla](https://t.me/EmergenciasSevilla) - 
+* [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
+* [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
+* Granada
+  * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
+  * [Movilidad Granada](https://t.me/MovilidadGranada) - Canal de información del Área de Movilidad del Ayuntamiento de Granada
+
+#### Aragón
+* [Gobierno de Aragón Comunicacion](https://t.me/gobiernoaragon) - Información diaria Gobierno de Aragón
+* [Ecologistas Huesca](https://t.me/EcologistasHuesca) - Información y actividades de las asambleas locales de Ecologistas en Acción en la provincia de Huesca
+
+#### Canarias
+* [WiFi Canarias 📡](https://t.me/wificanarias) - WISP, Telecomunicaciones, Wireless, WiFi, \#WiFiConsejos y por supuesto: nuestros \#WiFiCanariasNews...
+
+#### Cantabria
+* [CartelesCantabria](https://t.me/cartelescantabria) - Agitación y memorabilia.
+
+#### Castilla-La Mancha
+* [Extinction Rebellion Toledo](https://t.me/XRToledo)
+
+#### Castilla y León
+* [Ecologistas en Accion Salamanca](https://t.me/EeA_Salamanca) - Información del grupo de Ecologistas en Accion de Salamanca
+
+#### Cataluña
+* [gencat](https://t.me/gencat) - _Generalitat of Catalonia_
+  * [Salut](https://t.me/salutcat) - Informació oficial de Salut de la Generalitat de Catalunya
+* [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
+* [XR Girona](https://t.me/XRGirona) - Davant la crisi climàtica i ecològica global i la inacció de les elits polítiques i econòmiques ens rebel·lem!
+* [AlertesUdG](https://t.me/alertesudg) - Avisos relacionats amb incidències que requereixin un avís immediat per a la comunitat universitària - _Universidad de Girona_
+
+#### Islas Baleares
+* [Agenda Balear 2030](https://t.me/Govern) - Canal de comunicació del Govern de les Illes Balears. Informació, vídeos, animacions...al teu abast ;)
+
+#### Galicia 
+* [Actividades feministas Galicia](https://t.me/ActividadesFemGalicia) - Nesta canle iremos engadindo tódalas actividades feministas que vaiamos atopando.
+
+#### Madrid
+* [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
+  * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
+* Sostenibilidad
+  * [XR Madrid](https://t.me/XRMadrid) - Canal de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
+  * [Fridays For Future Madrid](https://t.me/fffmadrid) - Bienvenida al canal oficial de Fridays For Future Madrid!! 💚🌍🌿
+  * [Convocatorias Clima Madrid](https://t.me/climaMadrid) - Todas las convocatorias y noticias relacionadas con el cambio climático en Madrid
+  * [Greenpeace Madrid](https://t.me/GPMadrid) - Canal de informacion del Grupo Local de Madrid
+* Universidad Rey Juan Carlos
+  * [URJC](https://t.me/urjc_uni) - Canal oficial. Mantente al tanto de toda la actualidad universitaria:📰❗️ Noticias❗️📰 ⚽️🏀 Deportes 🏈⚾️...
+  * [URJConline](https://t.me/URJConline) - Canal de URJC online (oficial). Información sobre la Universidad Rey Juan Carlos online.
+
+#### Navara
+* [Canal Navarra](https://t.me/ComunidadNavarra) - Todo sobre la actualidad de la comunidad foral de Navarra. Noticias, imagenes , videos etc
+
+#### País Vasco
+* [VOSTEUSKADI](https://t.me/vosteuskadi_avisos_preferentes) - Avisos e informaciones prioritarias de emergencias y seguridad.
 
 #### Comunidad Valenciana
 * [Feria Vegana Valencia](https://t.me/feriaveganavalencia) - http://feriaveganavalencia.org
 * [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
 * [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
-
-#### Canarias
-* [WiFi Canarias 📡](https://t.me/wificanarias) - WISP, Telecomunicaciones, Wireless, WiFi, \#WiFiConsejos y por supuesto: nuestros \#WiFiCanariasNews...
-
-#### Madrid
-* [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
-  * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
-* [XR Madrid](https://t.me/XRMadrid) - Canal de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
-* Universidad Rey Juan Carlos
-  * [URJC](https://t.me/urjc_uni) - Canal oficial. Mantente al tanto de toda la actualidad universitaria:📰❗️ Noticias❗️📰 ⚽️🏀 Deportes 🏈⚾️...
-  * [URJConline](https://t.me/URJConline) - Canal de URJC online (oficial). Información sobre la Universidad Rey Juan Carlos online.
-
-#### Andalucía
-* [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
-
-#### Cataluña
-* [gencat](https://t.me/gencat) - _Generalitat of Catalonia_
-* [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
-* [XR Girona](https://t.me/XRGirona) - Davant la crisi climàtica i ecològica global i la inacció de les elits polítiques i econòmiques ens rebel·lem!
-* [AlertesUdG](https://t.me/alertesudg) - Avisos relacionats amb incidències que requereixin un avís immediat per a la comunitat universitària - _Universidad de Girona_
-
-#### Castilla-La Mancha
-* [Extinction Rebellion Toledo](https://t.me/XRToledo)
-
+* [Assemblea feminista de València](https://t.me/AssembleafeministaVlc) - Nascuda a partir de l'organització de la Vaga Feminista de 2018 a nivell València. 
+* [Policía Local de Elche](https://t.me/policiaelche) - Canal oficial www.policiaelche.es
 
 ## GRUPOS
 
@@ -716,6 +775,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * XR (Extinción/Rebelión)
   * [Rebel Beyond borders:COP25-MADRID](https://t.me/joinchat/AAAAAFaCd4MgsbSV_bg_bQ) - Grupo de Telegram XR durante COP25
   * [Mobilissation Station](https://t.me/joinchat/NZUJVRQ3l6joyfXekMf-ig) - XR Mass Mobilisation group
+* [Ad Sidera Vultus. Astronomía para todos](https://t.me/adsideravultus) - "Mira a las estrellas",  sitio para hablar sobre el cosmos, plantear dudas, divulgar sobre exploración espacial e investigación en astronomía. 
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
