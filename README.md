@@ -195,6 +195,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Programación
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
   * [El podcast de JustDevZero](https://t.me/podcastjustdevzero) - Canal dedicado a la distribución de mi [podcast](https://podcast.justdevzero.me/) homónimo.
+  * [NeoSiteLinux Podcast](https://t.me/neositelinuxpodcast) - Canal de audios de NeoSiteLinux Podcast
 
 #### Blogs
 
@@ -207,6 +208,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux Adictos](https://t.me/linuxadictos) - Linux para auténticos adictos y fans. Noticias cada día y los tutoriales más completos que podrás encontrar.
 * [masLinuXBlog](https://t.me/canalmaslinuxblog) - Canal sólo artículos del blog - Tiene [Grupo](https://t.me/MasGNULinuXBlog)
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
+* [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre.
 
 #### Eventos
 
@@ -538,6 +540,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
 * Hispalinustálgicos _(Con invitación)_
+* [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
 
 ### Aplicaciones
 
