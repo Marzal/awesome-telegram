@@ -69,7 +69,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Futuro Renovable](https://t.me/Futuro_Renovable) - La energía del futuro. Ecología y Energías Renovables. Energía solar, eólica, hidroeléctrica, biomasa, hidrogeno. All information about green energy.
   * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
-* [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
+  * [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 * [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
 
@@ -355,7 +355,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Ciencia
   * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
   * [Cienciamania](https://t.me/cienciamania) - Canal que recopila los post de los mejores blogs y páginas de ciencia de la web en español
-  * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.  
+  * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.
+  * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
+  * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
+* Conservacion ambiental
+  * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
+  * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
+  * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
 * Educación
   * [EduCanales](https://t.me/Educanalgrupos) - Para recopilar canales y grupos  relacionados con el mundo educativo
   * [Educación Especial - Material](https://t.me/EducacionEspecial) - Canal donde se comparte recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
@@ -387,6 +393,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
   * [World Architecture](https://t.me/Architecture_World) - Architectural structures from around the world
+  * [Nature 🌄](https://t.me/naturus) - Best photos of nature all over the world!
 * Música
   * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
   * [Ana Guerra](https://t.me/anaguerrawarmusic) - _Canal personal?_
