@@ -184,9 +184,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
 * [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado compartido con Tomando un Cafe_
   * [ARM(alternativas a Raspberry)](https://t.me/AlternativasRaspberry) - Grupo sobre alternativas a Raspberry, donde hablaremos de marcas como Pine64,OrangePi,NanoPI, BananaPi,LibreComputer y otras marcas.
-* [NeoSiteLinux - Software Libre y más...](https://t.me/neositelinux) - Canal de Telegram de www.neositelinux.com
-  * [NeoSiteLinux Podcast (Audios)](https://t.me/neositelinuxpodcast) - Los Audios de NeoSiteLinux.com alojados en Telegram
-  * Grupo asociado [NeoSiteLinux (grupo)](https://t.me/neositelinuxgrupo)
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
   * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
