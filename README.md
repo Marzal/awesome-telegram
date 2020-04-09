@@ -397,7 +397,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
   * [World Architecture](https://t.me/Architecture_World) - Architectural structures from around the world
-  * [Nature 🌄](https://t.me/naturus) - Best photos of nature all over the world!
 * Música
   * [Trascendencia iRadio Show](https://t.me/TrascendenciaVe) - Podcast y Noticias del Rock & Metal Mundial
   * [Ana Guerra](https://t.me/anaguerrawarmusic) - _Canal personal?_
