@@ -572,8 +572,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Comunidad Valenciana
 * [Feria Vegana Valencia](https://t.me/feriaveganavalencia) - http://feriaveganavalencia.org
-* [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
-* [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
+* Educación
+  * [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
+  * [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
+  * [Canal EduTicTac](https://t.me/canaledutictac) - [Comunitat](https://t.me/edutictac) de docents que ens hem trobat a la xarxa per tal de compartir coneixements i aprendre junts
 * [Assemblea feminista de València](https://t.me/AssembleafeministaVlc) - Nascuda a partir de l'organització de la Vaga Feminista de 2018 a nivell València. 
 * [Policía Local de Elche](https://t.me/policiaelche) - Canal oficial www.policiaelche.es
 
@@ -753,6 +755,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Comunidad Valenciana
   * [GNU/Linux Valencia](https://t.me/gnulinuxvalencia) - [Difusión de GNU/Linux.](https://gnulinuxvalencia.org) Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc... - _(español y valenciano)_
   * [Bitup Alicante Oficial](https://t.me/bitupalicante) - Comunidad y evento de ciberseguridad en Alicante (España)
+  * [Edutictac](https://t.me/edutictac) - Comunitat de docents que ens hem trobat a la xarxa per tal de compartir coneixements i aprendre junts.
 * Andalucía
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
   * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada.
