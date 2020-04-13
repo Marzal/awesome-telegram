@@ -413,7 +413,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
 * Datos curiosos / trivials
   * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
-  * [📌📝Secretos de ortografía📚](https://t.me/secretosdeortografia) - Normas que regulan la escritura de la lengua española.
   * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
 * Feminismo
   * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
