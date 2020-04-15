@@ -82,20 +82,24 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [esXRebellion](https://t.me/EsXrebellion) - ESXrebellion: Extinción/Rebelión es una movimiento que a través  de la desobediencia civil, masiva, pacífica y sostenida en el tiempo  presiona a la clase política y busca activar a la sociedad ante el colapso climático y la crisis existencial q viene.
 * [Juventud por el Clima - Fridays for Future España](https://t.me/jxclima) - Bienvenidx al canal oficial de Juventud por el Clima!! Por aquí publicaremos nuestras campañas, sentadas, acciones, asambleas...  - _Tiene canal asociado_
   * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
+* [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
 
 ### Noticias
 
-* [MALDITA.ES](https://t.me/maldita_es) - Periodismo para que no te la cuelen
-* [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
-* [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
-* [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
-* [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
-* [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
-* [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
-* [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
-* [Público](https://t.me/publico_es) - Canal oficial de Público
-* [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
-* [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
+* Fact-Checks
+  * [MALDITA.ES](https://t.me/maldita_es) - Periodismo para que no te la cuelen
+    * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
+  * [Newtral.es](https://t.me/newtral_telegram) - Periodismo, tecnología y datos. Contamos historias que importan, desmentimos noticias falsas y hacemos fact-checking.
+* Periódicos
+  * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
+  * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
+  * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
+  * [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
+  * [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
+  * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
+  * [Público](https://t.me/publico_es) - Canal oficial de Público
+  * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
+  * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
@@ -130,8 +134,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
-  * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre
   * [feminismo 💜 soft.libre 🗝 tecnología 👩‍💻](https://t.me/feminismo_y_tecnologia) - Un canal (por fin) para mujeres y disidentes de género sobre tecnología y software libre
+  * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre - _Copy/Paste de articulos de diferentes medios_
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
