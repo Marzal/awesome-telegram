@@ -296,7 +296,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
-* [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 * GINSEG
   * [Cyber Threat Intel News](https://t.me/ThreatIntelligence) - Canal de noticias de la comunidad [GINSEG](https://t.me/ginseg)
     * [Grupo Analisis de inteligencia español](https://t.me/Analisisdeinteligencia) - Aportar material y sucesos interesantes encuadrado en Análisis de Inteligencia y para Analistas. Temática en Español.
@@ -319,6 +318,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
   * [Interferencias Canal](https://t.me/inter_ferencias_ruido) - Asociación ciberactivista para compartir actividades, información y opinión sobre #DerechosDigitales, #SeguridadInformatica y similares.
     * Tiene [grupo](https://t.me/inter_ferencias) - Sin software libre no hay privacidad posible. _Granada_
+  * [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
 * En inglés
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
@@ -624,6 +624,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Yo Virtualizador](https://t.me/grupovirtualizador)
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
   * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
+* [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
 * [La cocina está abierta](https://t.me/lacocinaestaabierta)
 * [Esto No Es Politica](https://t.me/ETEPolitica)
 * [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
