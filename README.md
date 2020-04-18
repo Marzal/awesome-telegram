@@ -72,6 +72,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 * [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
+* [Gestores de Residuos](https://t.me/deresiduos) - Información relevante del sector, además de ebooks, guías u otros recursos de interés.
 
 ### ONGs / Asociaciones
 
