@@ -96,6 +96,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
   * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
   * [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
+  * [infoLibre](https://t.me/infoLibre_es) - Canal oficial de infoLibre
   * [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
   * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
   * [Público](https://t.me/publico_es) - Canal oficial de Público
@@ -232,6 +233,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
 * Entornos de escritorio
   * [Kdeblog](https://t.me/kdeblog) - blog sobre el Software Libre centrado en la Comunidad KDE - _Retweets de su cuenta de Twitter_
+  * [Planet KDE](https://t.me/planetkde) - 
+  * [KDE Announcements](https://t.me/kdenews) - `[Parado desde 2016]`
+  * [KDE Sysadmin news](https://t.me/kdesysadmin)- Downtime notices and other news about KDE infrastructure. - `[Parado desde 2018]`
 
 #### Empresas
 
@@ -589,19 +593,21 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Software Libre
 
-* [La Aldea de Tux 🐧 ](https://t.me/tuxaldea)
+* [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
+  * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
+* [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
+* [La Aldea de Tux 🐧](https://t.me/tuxaldea)
 * [LinuxerOS](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
 * [Novato en Linux](https://t.me/novato_en_linux) - Dedicado a ayudar a aquellos que se inician en GNU/Linux
 * [Hacking en Español](https://t.me/hackers_es)
 * [Notxor tiene un blog](https://t.me/notxorblog) - _Emacs, org-mode..._
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
-* [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
-  * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
-* [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
 * Hispalinustálgicos _(Con invitación)_
-* [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
+* FLOSS
+  * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
+  * [WikiToLearn](https://telegram.me/WikiToLearn) - Knowledge only grows if shared
 
 ### Aplicaciones
 
@@ -656,7 +662,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Ubuntu en Español](https://t.me/ubuntu_es) - Grupo dedicado a Ubuntu y sus derivadas
     * [Lubuntu Oficial en Español](https://t.me/lubuntues) - Lubuntu
     * [Ubuntizados](https://t.me/ubuntizados) - #Grupo colaborativos de ubuntizados. Usuari@s, seguidor@s, admirador@s y todos aquell@s que tenga interés por la distribución Ubuntu en sus diferentes sabores, Ubuntu, Kubuntu, Xubuntu, Lubuntu,
-    * [KDE neon ES](https://t.me/kdeneones) - Grupo de habla hispana para entusiastas de KDE neon (no oficial)
+    * [KDE neon ES](https://t.me/kdeneones) - Grupo de habla hispana para entusiastas de KDE neon (no oficial) - _[Internacional](https://telegram.me/kdeneon)_
     * [Kubuntu en Español](https://t.me/Kubuntues) - Grupo NO oficial de Kubuntu en Español
     * [Kubuntu Support](https://t.me/kubuntu_support) - Official Kubuntu support - _Oficial_
     * [Ubuntu Studio en Español](https://t.me/UbuntuStudio) - Un grupo creado para ayudarnos a usar este lindo sistema para humanos creativos, tambien compartir nuestros conocimientos y creaciones.
@@ -690,9 +696,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Entornos de Escritorio
 
 * KDE Plasma
-  * [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro.
-  * [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre
-  * [KDE Web](https://t.me/KDEWeb) - Managing KDE websites
+  * [Oficiales](https://community.kde.org/Telegram#Telegram_Groups)
+    * [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre
+    * [KDE Web](https://t.me/KDEWeb) - Managing KDE websites
+    * [kde promo](https://t.me/joinchat/AEyx-0O8HKlHV7Cg7ZoSyA) - Official Telegram group for KDE Promo. 
+    * [KDE Plasma](http://t.me/kdeplasma) - _International users group_
+  * No oficiales
+    * [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro. - _No oficial_
 * [Gnomeros](https://t.me/gnomeros) - Grupo dedicado al entorno de Escritorio por excelencia en GNU/Linux
 * [Grupo XFCE](https://t.me/grupoxfce)
 
