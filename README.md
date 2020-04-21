@@ -251,9 +251,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
   * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
-  * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
+  * [Telegram APKs for Android](https://t.me/TAndroidAPK) - Official channel for Telegram Android APKs.
+  * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
   * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
@@ -611,6 +612,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Aplicaciones
 
+
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Kdenlive en Español](https://t.me/kdenlive_es) - Comunidad en habla hispana de Kdenlive
 * [Inkscape En Español](https://t.me/InkscapeES) - Grupo enfocado al diseño de ilustraciones y logos con el editor de gráficos vectoriales de código abierto.
@@ -618,8 +620,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [FreeCAD en Español](https://t.me/FreeCAD_Es) - Grupo de FreeCAD en Español. Todas tus ideas o proyectos son bienvenidos. Puedes vender tu servicio de diseño o consultar un problema e intentaremos ayudarte.
 * [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
 * [Node-red Spain](https://t.me/nodered)
-* [Nextcloud](https://t.me/Nextcloud) - _English_
-* [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
+* Comunidades por tematicas de aplicaciones
+  * [Gráfica Libre](https://t.me/graficalibre) - Diseño gráfico, digital, Web, interiores, ilustración, edición de video, D entre otros cientos de tipos de diseño y programas.
+* En inglés
+  * [Nextcloud](https://t.me/Nextcloud) - _English_
+  * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 
 ### Podcasts sin canal
 
