@@ -255,6 +255,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
   * [Telegram APKs for Android](https://t.me/TAndroidAPK) - Official channel for Telegram Android APKs.
   * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
+  * Temas
+    * [Android Themes Channel](https://t.me/AndroidThemes) - Android Themes for all!
+    * [Desktop Themes Channel](https://t.me/themes) - Desktop Themes for all!
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
   * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
@@ -324,7 +327,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [🐾AutoDefensaDigital🐾](https://t.me/AutoDefensaDigitalenLucha) - Decir que no te preocupa la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que opinar
   * [Interferencias Canal](https://t.me/inter_ferencias_ruido) - Asociación ciberactivista para compartir actividades, información y opinión sobre #DerechosDigitales, #SeguridadInformatica y similares.
     * Tiene [grupo](https://t.me/inter_ferencias) - Sin software libre no hay privacidad posible. _Granada_
-  * [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho más. Todo con un toque jurista...
+  * [Derecho de la Red](https://t.me/DerechodelaRed) - Ciberseguridad, Privacidad, Redes Sociales, Derecho de las TIC y mucho +. Todo con un toque jurista...
 * En inglés
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
@@ -374,12 +377,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
     * [Restauracion de Ecosistemas](https://t.me/restauraciondeecosistemas) - Canal para conocer que es la Restauración Ecológica de Ecosistemas, así como las noticias relacionadas.
   * Astronomía
-    * [Astrocurioso](https://t.me/Astrocurioso) - Un canal donde encontrarás curiosidades, noticias y todo los relacionado con está hermosa rama de la ciencia.
     * [CAF](https://t.me/CAFtv) - Este canal envía curiosidades, frases y fotos relacionadas con la Astronomía y la Ciencia en general
     * [Sistema Solar](https://t.me/SistemaSolar)
+    * [Destino Vía Láctea](https://t.me/Destino_VL) - Canal para aprender sobre todo lo relacionado con la astronomía y la ciencia 🌍✨
 * Educación
   * [EduCanales](https://t.me/Educanalgrupos) - Para recopilar canales y grupos  relacionados con el mundo educativo
   * [Educación Especial - Material](https://t.me/EducacionEspecial) - Recursos que facilitan el proceso de enseñanza y aprendizaje en Educación Especial
+    * [Lengua de Señas](https://t.me/Lengua_De_Senas_y_Sordera) - Todo lo que te interese sobre Lengua de Señas, cultura y costumbres de la comunidad sorda.
   * [EDUCACIÓN](https://t.me/educacion) - Educación Digital con lo último.
   * [EDUCACIÓN 3.0](https://t.me/EDUCACION3_0) - EDUCACIÓN 3.0 es el medio de comunicación líder en innovación educativa, nuevas tecnologías y metodologías, innovación docente, formación y recursos para profesores.
   * [AprendeINTEF](https://t.me/aprendeintef) - Canal de comunicación #AprendeINTEF. https://aprende.intef.es
@@ -420,10 +424,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
   * [Frikimalismo FM 2.0](https://t.me/frikimalismoFM) - ¿Eres un friki? ¿No lo eres? Frikimalismo FM es tu podcast. Cine, series, ciencia, entrevistas y lo que surja… Con @lalachus3, @monsuarez, @acevedismos, @domingo_montoya y @colesterio
   * [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
+  * [Noticias en Serie](https://t.me/noticiasenserieoficial) _Noticias sobre estrenos, infografías..._
   * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
 * Datos curiosos / trivials
   * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
   * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
+  * [SOBRESALIENTE](https://t.me/SOBRESALIENTE) - Lecturas reflexivas, frases, retos de inteligencia, curiosidades, encuestas entretenidas y mucho más.
 * Feminismo
   * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
   * [Vaginocracia Parlamentaria](https://t.me/barbijaputa)
@@ -596,6 +602,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
   * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
+* [Wikidata en español](https://t.me/wikidataes) - Grupo público sobre Wikidata un proyecto de Wikimedia
 * [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
 * [La Aldea de Tux 🐧](https://t.me/tuxaldea)
 * [LinuxerOS](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
