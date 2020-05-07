@@ -136,6 +136,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
+  * [Victorhck](https://t.me/victorhck) - GNU/Linux - openSUSE - software libre
   * [feminismo 💜 soft.libre 🗝 tecnología 👩‍💻](https://t.me/feminismo_y_tecnologia) - Un canal (por fin) para mujeres y disidentes de género sobre tecnología y software libre
   * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre - _Copy/Paste de articulos de diferentes medios_
 * Cultura Libre
@@ -618,7 +619,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [WikiToLearn](https://telegram.me/WikiToLearn) - Knowledge only grows if shared
 
 ### Aplicaciones
-
 
 * [LibreOffice-ES](https://t.me/libreoffice_es)
 * [Kdenlive en Español](https://t.me/kdenlive_es) - Comunidad en habla hispana de Kdenlive
