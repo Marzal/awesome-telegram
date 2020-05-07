@@ -218,7 +218,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
-  * Tiene [grupo](https://t.me/linuxytapas)
+  * Tiene [grupo](https://t.me/linuxytapas) - Grupo de participación e información
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 
 #### Distros
@@ -687,7 +687,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [CentOS en Español](https://t.me/centos_es) - Grupo oficial de CentOS en Español
   * [Red Hat Linux en Español](https://t.me/redhat_es) - Grupo oficial de Red Hat en Español
 * Rolling Release
-  * [openSUSE Soporte](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
+  * [openSUSE Español](https://t.me/openSUSE_ES) - Grupo oficial de openSUSE en español.
+    * [openSUSE Soporte](https://t.me/opensusesp) - Soporte para usuarios de [opensuse](https://en.opensuse.org/openSUSE:Telegram) Linux en Español
     * [OpenSUSE en Español](https://t.me/opensuselinux) - Grupo “~~oficial~~” de OpenSUSE en Español - _(Poco movimiento)_
   * Arch based
     * [Arch Linux y Derivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
