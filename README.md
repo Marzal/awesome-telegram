@@ -325,7 +325,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
-  * Conservacion ambiental
+  * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
     * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
@@ -373,6 +373,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
+* Tiempo libre
+  * [Diario Senderista](https://t.me/diariosenderista) - Canal del blog diariosenderista.es con información útil para el senderismo y donde explicaremos nuestras andanzas por la provincia de Salamanca y más allá.
 * Televisión
   * [Órbita Laika](https://t.me/orbitalaika) - Programa  de divulgación científica y humor  emitido por televisión española.
   * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
@@ -862,7 +864,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
 * [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down.
-* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caidas_
+* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
 * Inline
   * [@OSMbot](https://telegram.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
@@ -872,6 +874,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
   * [@raebot](https://t.me/raebot) - Bot no oficial para consultar definiciones de palabras según el diccionario de la Real Academia Española.
     * [@drae_bot](https://t.me/drae_bot) - Diccionario RAE (No Oficial)
+  * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
 * Buscadores de letras de canciones
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_
