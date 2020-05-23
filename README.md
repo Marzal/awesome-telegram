@@ -9,7 +9,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [ZeroWaste / Residuo Cero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
   * Tiene [grupo asociado](https://t.me/ZeroWaste_ResiduoCero) - Grupo para comentar las noticias del canal @ResiduoCero administrado por @ResiduoCeroRM
-* [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente. [Castellano](ecointeligencia.com) & english
+* [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente.
 * [BlogSOSTENIBLE - Ecología y más](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
 * [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
 * [Reducir](https://t.me/reducir) - Reducir tu basura, reducir las compras de productos que no necesitas, reducir el consumo, reduce tu huella... reducir es sostenibilidad, reducir es ayudar al planeta.
@@ -789,6 +789,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [@join_captcha_bot](https://t.me/join_captcha_bot) - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - To verify if a new user in a group is human - _AntiSpam/bots en el login para grupos_
 * [Shieldy](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam/bots en el login para grupos_
+* [@banofbot](https://telegram.me/banofbot) - [Open Source](https://github.com/backmeupplz/banofbot) - allows you to vote for kicking users from groups
 * [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
 * [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
 * [@combot](https://t.me/combot) - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
@@ -847,7 +848,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
 * [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
 * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
-* [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text) - _Sin probar_
+* [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@randymbot](https://t.me/randymbot) - [Open Source](https://github.com/backmeupplz/randymbot) - Randy can randomly select a raffle participant in a chat or a channel
 * [GiveawaysBot 🎰](https://t.me/Giveaways_Bot) - [Open Source](https://github.com/DanySpin97/GiveawaysBot)`2017` - handles giveaways creation and management, allowing users to easily create, join and share giveaways.
