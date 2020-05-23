@@ -187,7 +187,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
 * Entornos de escritorio
   * [Kdeblog](https://t.me/kdeblog) - blog sobre el Software Libre centrado en la Comunidad KDE - _Retweets de su cuenta de Twitter_
-  * [Planet KDE](https://t.me/planetkde) - 
+  * [Planet KDE](https://t.me/planetkde) -
   * [KDE Announcements](https://t.me/kdenews) - `[Parado desde 2016]`
   * [KDE Sysadmin news](https://t.me/kdesysadmin)- Downtime notices and other news about KDE infrastructure. - `[Parado desde 2018]`
 
@@ -325,7 +325,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
-  * Conservacion ambiental
+  * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
     * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
@@ -373,6 +373,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
+* Tiempo libre
+  * [Diario Senderista](https://t.me/diariosenderista) - Canal del blog diariosenderista.es con información útil para el senderismo y donde explicaremos nuestras andanzas por la provincia de Salamanca y más allá.
 * Televisión
   * [Órbita Laika](https://t.me/orbitalaika) - Programa  de divulgación científica y humor  emitido por televisión española.
   * [El Cazador de Cerebros](https://t.me/elcazadordecerebros) - Programa de TVE, donde Pere Estupinyà buscará las mentes más brillantes de la actualidad para que nos contagien su sabiduría.
@@ -485,8 +487,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Andalucía
 * [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - Sigue todas las Novedades de Educación de Andalucía
-* [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - 
-* [Emergencias Sevilla](https://t.me/EmergenciasSevilla) - 
+* [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) -
+* [Emergencias Sevilla](https://t.me/EmergenciasSevilla) -
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
 * [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
 * Granada
@@ -519,7 +521,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Islas Baleares
 * [Agenda Balear 2030](https://t.me/Govern) - Canal de comunicació del Govern de les Illes Balears. Informació, vídeos, animacions...al teu abast ;)
 
-#### Galicia 
+#### Galicia
 * [Actividades feministas Galicia](https://t.me/ActividadesFemGalicia) - Nesta canle iremos engadindo tódalas actividades feministas que vaiamos atopando.
 
 #### Madrid
@@ -546,7 +548,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [GVA Educació](https://t.me/gvaEducacio) - Nou canal de comunicació per a la comunitat educativa valenciana
   * [#CvTIC](https://t.me/cv_tic) - CvTIC. difusió de l'equip de coordinació TIC del Servei d'Informàtica per als Centres Educatius
   * [Canal EduTicTac](https://t.me/canaledutictac) - [Comunitat](https://t.me/edutictac) de docents que ens hem trobat a la xarxa per tal de compartir coneixements i aprendre junts
-* [Assemblea feminista de València](https://t.me/AssembleafeministaVlc) - Nascuda a partir de l'organització de la Vaga Feminista de 2018 a nivell València. 
+* [Assemblea feminista de València](https://t.me/AssembleafeministaVlc) - Nascuda a partir de l'organització de la Vaga Feminista de 2018 a nivell València.
 * [Policía Local de Elche](https://t.me/policiaelche) - Canal oficial www.policiaelche.es
 
 ## GRUPOS
@@ -666,7 +668,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Oficiales](https://community.kde.org/Telegram#Telegram_Groups)
     * [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre
     * [KDE Web](https://t.me/KDEWeb) - Managing KDE websites
-    * [kde promo](https://t.me/joinchat/AEyx-0O8HKlHV7Cg7ZoSyA) - Official Telegram group for KDE Promo. 
+    * [kde promo](https://t.me/joinchat/AEyx-0O8HKlHV7Cg7ZoSyA) - Official Telegram group for KDE Promo.
     * [KDE Plasma](http://t.me/kdeplasma) - _International users group_
   * No oficiales
     * [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro. - _No oficial_
@@ -759,7 +761,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * XR (Extinción/Rebelión)
   * [Rebel Beyond borders:COP25-MADRID](https://t.me/joinchat/AAAAAFaCd4MgsbSV_bg_bQ) - Grupo de Telegram XR durante COP25
   * [Mobilissation Station](https://t.me/joinchat/NZUJVRQ3l6joyfXekMf-ig) - XR Mass Mobilisation group
-* [Ad Sidera Vultus. Astronomía para todos](https://t.me/adsideravultus) - "Mira a las estrellas",  sitio para hablar sobre el cosmos, plantear dudas, divulgar sobre exploración espacial e investigación en astronomía. 
+* [Ad Sidera Vultus. Astronomía para todos](https://t.me/adsideravultus) - "Mira a las estrellas",  sitio para hablar sobre el cosmos, plantear dudas, divulgar sobre exploración espacial e investigación en astronomía.
 
 ## BOTs
 `Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
@@ -846,6 +848,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
+* [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
 * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
 * [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
@@ -861,8 +864,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
 * [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
-* [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down. 
-* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caidas_
+* [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down.
+* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
 * Inline
   * [@OSMbot](https://telegram.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
@@ -872,6 +875,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
   * [@raebot](https://t.me/raebot) - Bot no oficial para consultar definiciones de palabras según el diccionario de la Real Academia Española.
     * [@drae_bot](https://t.me/drae_bot) - Diccionario RAE (No Oficial)
+  * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
 * Buscadores de letras de canciones
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_

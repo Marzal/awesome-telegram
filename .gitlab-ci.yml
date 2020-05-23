@@ -1,0 +1,4 @@
+trigger_build:
+  stage: deploy
+  script:
+    - "curl -X POST -F token=$MRCTOKEN -F ref=master https://gitlab.com/api/v4/projects/18785384/trigger/pipeline"
