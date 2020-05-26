@@ -59,7 +59,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
-
+  * En otro idioma
+    * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 ### Informática / Tecnología
 
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
@@ -72,6 +73,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
 * [uLinks](https://t.me/ulinks) - Descubrimos tesoros en Internet y los compartimos. Un tentáculo más de https://superpatanegra.com
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
+* [Mundo Tecnológico](https://t.me/MundoTecnologico) - Canal con las mejores Noticias de Tecnología en sólo 2 NOTIFICACIONES DIARIAS.
 * [MovistarNoticias](https://t.me/MovistarNoticias) - Noticias del blog oficial de Movistar
 * [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
