@@ -6,7 +6,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ## CANALES
 
 ### Medioambiente / Sostenibilidad
-
 * [ZeroWaste / Residuo Cero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
   * Tiene [grupo asociado](https://t.me/ZeroWaste_ResiduoCero) - Grupo para comentar las noticias del canal @ResiduoCero administrado por @ResiduoCeroRM
 * [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente.
@@ -27,7 +26,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Gestores de Residuos](https://t.me/deresiduos) - Información relevante del sector, además de ebooks, guías u otros recursos de interés.
 
 ### ONGs / Asociaciones
-
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
 * [UNICEF_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
@@ -38,7 +36,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
 
 ### Noticias
-
 * Fact-Checks
   * [MALDITA.ES](https://t.me/maldita_es) - Periodismo para que no te la cuelen
     * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
@@ -63,7 +60,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 
 ### Informática y Tecnología
-
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
 * [Xataka](https://t.me/xataka) - Apasionados por la tecnología
 * [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
@@ -88,7 +84,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Software Libre / FLOSS
-
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
   * [Victorhck](https://t.me/victorhck) - GNU/Linux - openSUSE - software libre
@@ -114,7 +109,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Libreware](https://t.me/libreware) - English - _Todo tipo de aplicaciones libres_
 
 #### GNU/Linux
-
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
 * [Phoronix News](https://t.me/Phoronix) - Phoronix News. - _Benchmarks y reviews en inglés_
 * [Linuxgram 🐧](https://t.me/linuxgram) - News and info from the Linux world 🐧
@@ -128,7 +122,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux Administration](https://t.me/LinuxAdministration) - `[Parado desde 2019-06]`
 
 #### Podcasts
-
 * [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
@@ -158,7 +151,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [NeoSiteLinux Podcast](https://t.me/neositelinuxpodcast) - Canal de audios de NeoSiteLinux Podcast
 
 #### Blogs
-
 * [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
 * [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
@@ -171,7 +163,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre.
 
 #### Eventos
-
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
@@ -179,7 +170,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 
 #### Distros
-
 * [openSUSE News](https://t.me/opensusenews) - News from https://news.opensuse.org/ - _Oficial_
 * [Fedora Project News](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
 * [EndeavourOS-news](https://t.me/endeavour_news) - community driven Antergos fork
@@ -196,14 +186,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [KDE Sysadmin news](https://t.me/kdesysadmin)- Downtime notices and other news about KDE infrastructure. - `[Parado desde 2018]`
 
 #### Empresas
-
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 * [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
 * [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
 
 ### Telegram
-
 * Oficiales
   * [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
     * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
@@ -241,7 +229,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado 2017]`
 
 #### Info sobre Bots
-
 * [BotNews](https://t.me/BotNews) - The ***official*** source for news about the Telegram Bot API.
 * [Bot Updates](https://t.me/BotUpdates) - The team that makes life better with using bots.
 * [Controller Updates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
@@ -250,7 +237,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Bots Channel](https://t.me/BotsChannel) - `[Parado 2018-06]`
 
 #### Directorios / Guías
-
 * [DIRECTORIO TELEGRAM](https://t.me/DirectorioTelegram) - AMPLIA LISTA DE CANALES, GRUPOS, BOTS DE FORMA ORDENADA Y POR CATEGORÍAS.
 * [Telegrias (Guia en Telegram)](https://t.me/Telegrias) - similar a una TV Guia donde encontrara grupos, canales y paginas, referentes a un cierto contenido y acomodados por categorias y etiquetas,
 * [Tus canales telegram](https://t.me/tuscanalestelegram) -
@@ -259,7 +245,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [GameeApp](https://t.me/gameeapp) - Unofficial Complete list of games by @gamee. Requires Telegram v 3.13
 
 ### Seguridad
-
 * [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
@@ -293,7 +278,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * ~~[Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING~~
 
 ### Programación / Developers
-
 * [Programmer Jokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
 * [The Devs](https://t.me/thedevs) - Developers Community on Telegram.
 * [Opensource Findings](https://t.me/opensource_findings) - Links and concise reviews on open-source tools, news, and talks about language-design, trends and fundamentals.
@@ -306,7 +290,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [SEO Blogging y Marketing digital](https://t.me/seo30) - Canal sobre SEO y marketing online.
 
 ### Móviles / Android
-
 * [El Androide Libre](https://t.me/AndroideLibre) - Noticias Android
 * [Andro4all](https://t.me/andro4all) - Android, noticias de tecnología, análisis, comparativas, ofertas... ¡Toda la actualidad móvil al alcance de tu mano!
 * [MovilZona](https://t.me/MovilZonaES) - Reviews, tutoriales, curiosidades, noticias y opinión en tu canal de tecnología.
@@ -319,7 +302,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [/e/ announcements](https://t.me/mydataismydata) - Latest news from /e/ - my data is MY data https://e.foundation
 
 ### Cultura/Ocio/Otros
-
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
 * Ciencia
   * [Círculo Escéptico](https://t.me/circuloesceptico) - Canal público con noticias del mundo del pensamiento crítico y el escepticismo.
@@ -396,7 +378,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Legales Sin Fronteras](https://t.me/legalessinfronteras) - Cooperativa Jurídica sin ánimo de Lucro Social y Solidaria que pretende dar información gratuita a todas las personas.
 
 ### Otros Podcasts
-
 * Tecnología
   * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
     * [Grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad. Y [grupo para novatos](https://t.me/NASzeros)
@@ -435,7 +416,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
 ### Política
-
 * Encuestas
   * [1906 news](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
   * [Electomania](https://t.me/electomania) - Web especializada en política nacional y encuestas.
@@ -476,7 +456,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
 
 ### Regionales
-
 #### Región de Murcia
 * [Residuo Cero Region de Murcia](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
@@ -540,7 +519,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [URJC](https://t.me/urjc_uni) - Canal oficial. Mantente al tanto de toda la actualidad universitaria:📰❗️ Noticias❗️📰 ⚽️🏀 Deportes 🏈⚾️...
   * [URJConline](https://t.me/URJConline) - Canal de URJC online (oficial). Información sobre la Universidad Rey Juan Carlos online.
 
-#### Navara
+#### Navarra
 * [Canal Navarra](https://t.me/ComunidadNavarra) - Todo sobre la actualidad de la comunidad foral de Navarra. Noticias, imagenes , videos etc
 
 #### País Vasco
