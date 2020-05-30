@@ -62,7 +62,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * En otro idioma
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 
-### Informática / Tecnología
+### Informática y Tecnología
 
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
 * [Xataka](https://t.me/xataka) - Apasionados por la tecnología
