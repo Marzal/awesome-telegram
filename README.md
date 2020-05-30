@@ -61,6 +61,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
   * En otro idioma
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
+
 ### Informática / Tecnología
 
 * [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
@@ -93,6 +94,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Victorhck](https://t.me/victorhck) - GNU/Linux - openSUSE - software libre
   * [feminismo 💜 soft.libre 🗝 tecnología 👩‍💻](https://t.me/feminismo_y_tecnologia) - Un canal (por fin) para mujeres y disidentes de género sobre tecnología y software libre
   * [Soberanía Tecnológica](https://t.me/soberania_tecnologica) - Selección de artículos, noticias y tutoriales relacionados con el software libre y la soberanía tecnológica
+  * [Geekland](https://t.me/geek_land) - Canal del blog Geekland.eu
   * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre - _Copy/Paste de articulos de diferentes medios_
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
@@ -571,6 +573,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
+* [GUTL Oficial](https://t.me/GUTLOficial) - Grupo de Usuarios de Tecnologías Libres.
 * Hispalinustálgicos _(Con invitación)_
 * FLOSS
   * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
