@@ -255,6 +255,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Inteligencia más Liderazgo](https://t.me/inteligenciayliderazgo) - Formación y consultoría en inteligencia
 * [Ciberpatrulla - Técnicas OSINT](https://t.me/ciberpatrullacom) - Ciberpatrulla - Técnicas OSINT
 * [🔒Seguridad Informática](https://t.me/seguridadinformatic4) - Compartimos conocimientos en seguridad informática, aunque el término más indicado debería ser autodefensa digital.
+* [MuySeguridad](https://t.me/muyseguridad) - Toda la actualidad del mundo de la seguridad informática, para el profesional y el usuario, en MuySeguridad.net.
 * [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
 * [Security News for Everyone](https://t.me/SeguridadInformatica) - Canal dedicado a noticias de Seguridad Informática en todos sus ámbitos, gratuito y sin publicidad 24h x 365 días al año
