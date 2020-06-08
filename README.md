@@ -247,7 +247,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Seguridad
 * [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
-* [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
+* [CCN-CERT](https://t.me/CCNCERT) -Capacidad de Repuesta a Incidentes del Centro Criptológico Nacional que, como CERT Gubernamental Nacional, contribuye a reforzar la ciberseguridad en España.
 * GINSEG
   * [Cyber Threat Intel News](https://t.me/ThreatIntelligence) - Canal de noticias de la comunidad [GINSEG](https://t.me/ginseg)
     * [Grupo Analisis de inteligencia español](https://t.me/Analisisdeinteligencia) - Aportar material y sucesos interesantes encuadrado en Análisis de Inteligencia y para Analistas. Temática en Español.
@@ -255,15 +255,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Inteligencia más Liderazgo](https://t.me/inteligenciayliderazgo) - Formación y consultoría en inteligencia
 * [Ciberpatrulla - Técnicas OSINT](https://t.me/ciberpatrullacom) - Ciberpatrulla - Técnicas OSINT
 * [🔒Seguridad Informática](https://t.me/seguridadinformatic4) - Compartimos conocimientos en seguridad informática, aunque el término más indicado debería ser autodefensa digital.
+* [MuySeguridad](https://t.me/muyseguridad) - Toda la actualidad del mundo de la seguridad informática, para el profesional y el usuario, en MuySeguridad.net.
 * [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
   * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
 * [Security News for Everyone](https://t.me/SeguridadInformatica) - Canal dedicado a noticias de Seguridad Informática en todos sus ámbitos, gratuito y sin publicidad 24h x 365 días al año
 * [Pléyades IT - Ciberseguridad](https://t.me/pleyades_it) - Canal de 📰 actualidad y 🚨 alertas de Ciberseguridad.
   * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general. Objetivo: compartir conocimientos, opiniones y resolver dudas.
 * [Segu-Info Channel](https://t.me/SeguInfoChannel) - Canal de Seguridad de la Información de Segu-Info. Más info: https://blog.segu-info.com.ar
+* [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
+* [Elladodelmal](https://t.me/Elladodelmal) - Posts de "Un informático en el lado del mal" a través de Telegram
 * [Flu Project](https://t.me/fluproject) - Canal oficial de la comunidad de habla hispana Flu Project. royecto nacido en 2010 con el objetivo de divulgar la ciberseguridad.
 * [Team Whoami](https://t.me/teamwhoami) - Canal dedicado a la seguridad informatica
-* [Hacking tools y tal](https://t.me/hackingtools) - Recopilación de enlaces interesantes sobre temas de ciberseguridad
 * Derechos Digitales
   * [internautas](https://t.me/asociacion) - Asociación de Internautas
   * [Xnet - Info al momento de nuestras acciones](https://t.me/XnetInfo) - Democracia en la era digital. Tecnopolítica. Lucha contra la corrupción. Información y cultura libres. - _Miembro de EDRi (European Digital Rights)_
