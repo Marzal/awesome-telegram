@@ -542,6 +542,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
   * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
+* [Wikipedia en español](https://t.me/es_wiki) - Grupo público sobre Wikipedia un proyecto de Wikimedia
 * [Wikidata en español](https://t.me/wikidataes) - Grupo público sobre Wikidata un proyecto de Wikimedia
 * [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
 * [La Aldea de Tux 🐧](https://t.me/tuxaldea)
