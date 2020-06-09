@@ -384,6 +384,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
     * [Grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad. Y [grupo para novatos](https://t.me/NASzeros)
   * [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
+  * [sobre la marcha](http://t.me/sobre_la_marcha) - Grupo para oyentes del podcast “sobre la marcha” - _Tecnología, curiosidades y el día a día desde Australia._
   * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
     * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
   * [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
