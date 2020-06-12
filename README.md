@@ -393,6 +393,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Tiempo escaso](https://t.me/tiempoescaso) - El canal sobre Pebble y otros wearables
   * [Secure Podcast - Channel](https://t.me/securepodcast) - Un intento de Podcast sobre InfoSec, hecho por y para la Comunidad. - _Retweets de su cuenta de Twitter_
   * [RadiogeekPodcast](https://t.me/radiogeekpodcast) - Canal del Podcast diario #Radiogeek
+  * [mixx.io](https://t.me/mixx_io) - Actualidad, información y opiniones sobre tecnología - Tiene [Grupo](https://t.me/mixxiocomunidad)
 * Programación
   * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
@@ -583,7 +584,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Tecnología
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
-  * [Mixx.io y otros podcast](https://t.me/mixxiocomunidad)
   * [Yo Virtualizador](https://t.me/grupovirtualizador)
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
   * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
