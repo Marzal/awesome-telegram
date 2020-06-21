@@ -34,6 +34,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Juventud por el Clima - Fridays for Future España](https://t.me/jxclima) - Bienvenidx al canal oficial de Juventud por el Clima!! Por aquí publicaremos nuestras campañas, sentadas, acciones, asambleas...  - _Tiene canal asociado_
   * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
 * [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
+* [Madres por el clima](https://t.me/Madresxelclima) - `[Parado desde 2019-12]` - Pero tienen [grupo activo](https://t.me/madresporelclima)
 
 ### Noticias
 * Fact-Checks
@@ -397,6 +398,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Programación
   * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
+* [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
 * [Audio Momentos](https://t.me/audiomomentos) - Diario Pesonal en Audio de un loco por contar cosas - _Yoyo Fernandez_
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
@@ -584,7 +586,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Tecnología
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
-  * [Yo Virtualizador](https://t.me/grupovirtualizador)
+  * [Yo Virtualizador](https://t.me/grupovirtualizador) - Un proyecto para democratizar conocimientos, compartir y disfrutar
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
   * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
 * [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
