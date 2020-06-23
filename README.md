@@ -410,9 +410,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Carne Cruda](https://t.me/carnecruda) - Recibe nuestros mensajes de texto y voz con las últimas noticias y contenidos. - _Programa de radio_
 * [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
   * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
+* [Colectivo Burbuja](https://t.me/colectivoburbuja) - Medio de comunicación independiente y sin ánimo de lucro que busca proporcionar información veraz sobre el estado real de la economía y la política española.
+* [Historacing](https://t.me/historacing)
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
-* [Historacing](https://t.me/historacing)
 * [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
 * Ciencia
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
