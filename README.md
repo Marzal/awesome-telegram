@@ -501,6 +501,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Castilla y León
 * [Ecologistas en Accion Salamanca](https://t.me/EeA_Salamanca) - Información del grupo de Ecologistas en Accion de Salamanca
+* [miabuelavende.com](https://t.me/miabuelavende) - Venta de antigüedades y objetos de segunda mano en Salamanca
 
 #### Cataluña
 * [gencat](https://t.me/gencat) - _Generalitat of Catalonia_
