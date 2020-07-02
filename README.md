@@ -53,6 +53,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Público](https://t.me/publico_es) - Canal oficial de Público
   * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
+  * [Ecotechers](https://t.me/ecotechers) - Boletín semanal sobre economía digital, startups e innovación. Por el periodista Jesús Martínez (@jesusmargon).
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
@@ -201,6 +202,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
   * [Telegram Contests](https://t.me/contest) - Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests
+  * [Telegram Stable Releases](https://t.me/tgstable) - Every (official) stable release, of every (official) Telegram client app, in every store, for every OS.
   * [Telegram APKs for Android](https://t.me/TAndroidAPK) - Official channel for Telegram Android APKs.
   * [Telegram X](https://t.me/tgx_android) - Developer's channel - Telegram X
   * Temas
@@ -455,6 +457,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Asociación República Pastafari de MonEsVol](https://t.me/asociacionpastafari) -
 * Instituciones
   * [Ministerio de Sanidad](https://t.me/sanidadgob) - Canal oficial del Ministerio de Sanidad en Telegram - _Mayormete un clon de la cuenta de Twitter_
+  * [Vicepresidencia Cuarta y Ministerio para la Transición Ecológica y el Reto Demográfico](https://t.me/Mitecogob) - Canal oficial de Comunicación
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
