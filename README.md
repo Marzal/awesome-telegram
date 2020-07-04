@@ -422,6 +422,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
   * [GeoCastAway](https://t.me/geocastaway) - _Geología_
     * Tiene [grupo](https://t.me/geocastawaypodcast)
+* [Podium Podcast](https://t.me/s/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
 * En inglés
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
@@ -601,7 +602,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Esto No Es Politica](https://t.me/ETEPolitica)
 * [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
   * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
-* [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano
+* [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano - Tiene [Grupo](https://t.me/UnionPod)
 * [De Rodillas Grupo](https://t.me/derodillas) - Ni aunque me lo pidas de rodillas
 * [El Peor Consultorio](https://t.me/elpeorconsultorio)
 * [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
