@@ -52,8 +52,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
   * [Público](https://t.me/publico_es) - Canal oficial de Público
   * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
+* Recopilaciones
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
   * [Ecotechers](https://t.me/ecotechers) - Boletín semanal sobre economía digital, startups e innovación. Por el periodista Jesús Martínez (@jesusmargon).
+  * [FemiNews ♀#NiUnaMenos](https://t.me/feminismos) - Lo que publicamos no es necesariamente nuestra opinión 💜 Piratas feministas 🏴‍☠️
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
@@ -481,8 +483,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Andalucía
-* [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - Sigue todas las Novedades de Educación de Andalucía
-* [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) -
+* [](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía.
+* [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - 
+* [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - Sigue todas las Novedades de Educación de Andalucía
 * [Emergencias Sevilla](https://t.me/EmergenciasSevilla) -
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
 * [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
