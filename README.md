@@ -44,10 +44,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Periódicos
   * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
   * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
-  * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
   * [Cuartopoder.es](https://t.me/CuartoPoder) - Cuartopoder.es. Periodismo para el 99%
   * [infoLibre](https://t.me/infoLibre_es) - Canal oficial de infoLibre
   * [crisisobservatorio](https://t.me/crisisobservatorio) - Periodismo de observatorioDDHH, derechos y libertades civiles, igualdad y equidad. _Interactivo con encuenstas_
+  * [ELPAÍS](https://t.me/elpaiscom) - Última hora y alertas de noticias
   * [El Confidencial](https://t.me/El_Confidencial) - El diario de los lectores influyentes - _No oficial_
   * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
   * [Público](https://t.me/publico_es) - Canal oficial de Público
@@ -61,6 +61,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
+  * [CTXT](https://t.me/ctxtes) - Revista Contexto desde el que iremos informando puntualmente de las publicaciones más destacadas.
   * En otro idioma
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 
