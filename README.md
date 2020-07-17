@@ -24,6 +24,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 * [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
 * [Gestores de Residuos](https://t.me/deresiduos) - Información relevante del sector, además de ebooks, guías u otros recursos de interés.
+* [Sumidero Ciudadano](https://t.me/sumiderociudadano) - Tu blog sobre cambio climático y sostenibilidad
 
 ### ONGs / Asociaciones
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
