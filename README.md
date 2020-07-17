@@ -500,6 +500,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Canarias
 * [WiFi Canarias 📡](https://t.me/wificanarias) - WISP, Telecomunicaciones, Wireless, WiFi, \#WiFiConsejos y por supuesto: nuestros \#WiFiCanariasNews...
+* [Noticias de Canarias](https://t.me/noticiasdecanarias24h) - En NoticiasDeCanarias.Com podrás estar informado sobre la última hora de las Islas Canarias.
+* [Alquila KasiTodo Canarias](https://t.me/kasitodo) - El alquiler de objetos entre particulares
 
 #### Cantabria
 * [CartelesCantabria](https://t.me/cartelescantabria) - Agitación y memorabilia.
