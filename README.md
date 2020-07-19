@@ -219,11 +219,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
-* [Red Telegram ✅ Canales, Grupos y Bots](https://t.me/RedTelegram) - Guía de Canales, Grupos y Bots recomendados en Telegram.
-  * [Noticias Telegram](https://t.me/NoticiasTelegram) - Avisos y novedades de Telegram en Español
-  * [Guia de Canales Telegram](https://t.me/GuiaDeCanales) - Los Canales mas recomendados de cada tematica.
-  * [Guia de Grupos Telegram](https://t.me/GuiaDeGrupos) - Los Grupos mas recomendados de cada tematica.
-  * [BOTLIST](https://t.me/botlist) - •Los mejores bots de Telegram en una lista•
 * [Telegram Info En](https://t.me/tginfoen) - English mirror of @tginfo
 * Aplicaciones
   * [Telegram Android ID Channel](https://t.me/tgaidchannel) - All about related #Telegram #collections & #apps #android [ #official, #unofficial, #mod, #review, #news, etc ]
@@ -244,8 +239,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Directorios / Guías
 * [DIRECTORIO TELEGRAM](https://t.me/DirectorioTelegram) - AMPLIA LISTA DE CANALES, GRUPOS, BOTS DE FORMA ORDENADA Y POR CATEGORÍAS.
 * [Tus canales telegram](https://t.me/tuscanalestelegram) -
-* [Índice Telegram](https://t.me/indicetelegram) - Este canal es un índice no oficial de Telegram
-* [Telegram Channels](https://t.me/tchannels) - Get to know the most interesting new Telegram channels\! tchannels.me (Parado desde 2017-12)
 * [GameeApp](https://t.me/gameeapp) - Unofficial Complete list of games by @gamee. Requires Telegram v 3.13
 
 ### Seguridad
@@ -279,7 +272,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [SysAdmin 24x7](https://t.me/sysadmin24x7) - Noticias y alertas de seguridad informática.
   * [Cyber Security News](https://t.me/Cyber_Security_Channel) - Cyber Security Breaking News.
   * [ALL ABOUT HACKER](https://t.me/ALLABOUTHACK) - https://www.allabouthack.com - Tiene [grupo](https://t.me/AllAboutHack2)
-* ~~[Seguridad Informática - Redbyte & CeroHacking](https://t.me/REALHACKERS) - APRENDE TODO SOBRE SEGURIDAD INFORMÁTICA Y HACKING~~
 
 ### Programación / Developers
 * [Programmer Jokes](https://t.me/programmerjokes) - This channel will serve you daily programmer jokes. Feel free to laugh :)
@@ -317,7 +309,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
   * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
-    * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS).
+    * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS)
     * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
     * [Restauracion de Ecosistemas](https://t.me/restauraciondeecosistemas) - Canal para conocer que es la Restauración Ecológica de Ecosistemas, así como las noticias relacionadas.
   * Astronomía
