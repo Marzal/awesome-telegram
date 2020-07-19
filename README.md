@@ -140,14 +140,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * [Grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
-  * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
-    * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
+* [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
+  * Asociado [Grupo del Podcast uGeek](https://t.me/uGeekPodcast)
 * [Canal Salmorejo Geek](https://t.me/salmorejogeek) - Batiburrillo Digital
-* [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [TomandoUnCafe](https://t.me/TomandoUnCafe) - Podcast sobre aplicaciones de Linux que han aparecido en el canal @UnDiaUnaAplicacion y reflexiones u opiniones sobre diversos temas relacionados con la informática. - _Tiene grupo privado_
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
 * [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado compartido con Tomando un Cafe_
   * [ARM(alternativas a Raspberry)](https://t.me/AlternativasRaspberry) - Grupo sobre alternativas a Raspberry, donde hablaremos de marcas como Pine64,OrangePi,NanoPI, BananaPi,LibreComputer y otras marcas.
+* [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
   * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
@@ -232,9 +232,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [tgfiles](https://t.me/tgfiles) - _Todos los ficheros de las aplicaciones moviles y de escritorio_
   * [Plus Messenger oficial](https://t.me/PlusMsgrES) - Canal oficial de Plus Messenger en español
     * Tiene [grupo](https://t.me/TodoSobrePlusMessenger) oficial
-* Parados
-  * [Telegram Channels](https://t.me/TlgrmChannels) - `[Parado 2019-02]`
-  * [Variedades Telegram](https://t.me/VariedadTelegram) - Variedades Telegram - `[Parado 2017]`
 
 #### Info sobre Bots
 * [BotNews](https://t.me/BotNews) - The ***official*** source for news about the Telegram Bot API.
@@ -246,7 +243,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Directorios / Guías
 * [DIRECTORIO TELEGRAM](https://t.me/DirectorioTelegram) - AMPLIA LISTA DE CANALES, GRUPOS, BOTS DE FORMA ORDENADA Y POR CATEGORÍAS.
-* [Telegrias (Guia en Telegram)](https://t.me/Telegrias) - similar a una TV Guia donde encontrara grupos, canales y paginas, referentes a un cierto contenido y acomodados por categorias y etiquetas,
 * [Tus canales telegram](https://t.me/tuscanalestelegram) -
 * [Índice Telegram](https://t.me/indicetelegram) - Este canal es un índice no oficial de Telegram
 * [Telegram Channels](https://t.me/tchannels) - Get to know the most interesting new Telegram channels\! tchannels.me (Parado desde 2017-12)
@@ -264,8 +260,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ciberpatrulla - Técnicas OSINT](https://t.me/ciberpatrullacom) - Ciberpatrulla - Técnicas OSINT
 * [🔒Seguridad Informática](https://t.me/seguridadinformatic4) - Compartimos conocimientos en seguridad informática, aunque el término más indicado debería ser autodefensa digital.
 * [MuySeguridad](https://t.me/muyseguridad) - Toda la actualidad del mundo de la seguridad informática, para el profesional y el usuario, en MuySeguridad.net.
-* [Securizando](https://t.me/Securizando) - Canal con información de seguridad informática
-  * Tiene [grupo](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg)
 * [Security News for Everyone](https://t.me/SeguridadInformatica) - Canal dedicado a noticias de Seguridad Informática en todos sus ámbitos, gratuito y sin publicidad 24h x 365 días al año
 * [Pléyades IT - Ciberseguridad](https://t.me/pleyades_it) - Canal de 📰 actualidad y 🚨 alertas de Ciberseguridad.
   * Tiene [grupo](https://t.me/pleyades_it_grupo) - Grupo de ciberseguridad, informática y tecnología en general. Objetivo: compartir conocimientos, opiniones y resolver dudas.
@@ -604,6 +598,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Yo Virtualizador](https://t.me/grupovirtualizador) - Un proyecto para democratizar conocimientos, compartir y disfrutar
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
   * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
+  * [Securizando](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg) - Podcast con información de seguridad informática
 * [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
 * [La cocina está abierta](https://t.me/lacocinaestaabierta)
 * [Esto No Es Politica](https://t.me/ETEPolitica)
