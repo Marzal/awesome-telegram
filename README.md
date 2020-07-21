@@ -156,7 +156,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Programación
   * [El podcast de JustDevZero](https://t.me/podcastjustdevzero) - Canal dedicado a la distribución de mi [podcast](https://podcast.justdevzero.me/) homónimo.
   * [NeoSiteLinux Podcast](https://t.me/neositelinuxpodcast) - Canal de audios de NeoSiteLinux Podcast
-
+  * [La semana PHP](https://t.me/lasemanaphp) - Ofertas de trabajo diarias de PHP y su ecosistema: Symfony, Laravel, WordPress, Drupal,...
 #### Blogs
 * [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
