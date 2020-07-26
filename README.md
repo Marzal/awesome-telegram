@@ -718,7 +718,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
   * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
   * [Teclados Mecánicos](https://t.me/tecladosmecanicos) - Todo sobre teclados mecánicos en Español
-  
+
 ### Por Regiones
 
 * Comunidad de Murcia
@@ -779,8 +779,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Gestión canales / RRSS
 
 * @ControllerBot - Awesome bot for channel owners that helps you to create rich posts, view stats and more. _(Permite programar, añadir botones (texto/emojis, comentarios..), estadísticas...)_
-* @discussbot - Make this bot an admin in your channel to add comment buttons to all posts. _(Oficial)_
-* @CommentsBot - I can help you to create posts with comments, share them to your channels or groups.
+* [@discussbot](https://t.me/discussbot) - Make this bot an admin in your channel to add comment buttons to all posts. _(Oficial)_
+* [@CommentsBot](https://t.me/CommentsBot) - I can help you to create posts with comments, share them to your channels or groups. _(NO oficial)_
 * @IFTTT - Link your Telegram groups or channels to more than 360 other services. - _(Oficial de IFFT)_
 * @GramToolBot - Instagram helper bot on Telegram!. I can assist you with all sorts of things such as downloading posts, getting account stats, reseaching hashtags, finding viral content and much more!
 
