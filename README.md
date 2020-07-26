@@ -391,7 +391,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Programación
   * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
-* [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
+* Familia
+  * [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
+  * [Un papá como Vader](https://t.me/unpapacomovader) - Blog, podcasts y libros. ¿Te apuntas? 😋
+  * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
+  * [Educa en Positivo Conéctate a Tu Hijo](https://t.me/educaenpositivoconectateatuhijo) - Para inspirar, motivar, apoyar a madres y padres en la aventura de educar en el siglo XXI
+* [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
+  * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
 * [Audio Momentos](https://t.me/audiomomentos) - Diario Pesonal en Audio de un loco por contar cosas - _Yoyo Fernandez_
 * [La filosofía no sirve para nada](https://t.me/filosofianada) - es un podcast sin pretensiones en el que reflexionaremos sobre el presente.
   * Tiene [grupo](https://t.me/opinafilosofianada)
@@ -401,8 +407,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Red de podcast Nación Podcaster](https://t.me/nacionpodcast)
   * Tiene [grupo](https://t.me/nacionpodcaster)
 * [Carne Cruda](https://t.me/carnecruda) - Recibe nuestros mensajes de texto y voz con las últimas noticias y contenidos. - _Programa de radio_
-* [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
-  * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
 * [Colectivo Burbuja](https://t.me/colectivoburbuja) - Medio de comunicación independiente y sin ánimo de lucro que busca proporcionar información veraz sobre el estado real de la economía y la política española.
 * [Historacing](https://t.me/historacing)
 * [Viajo en Moto](https://t.me/viajoenmoto)
@@ -605,7 +609,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
   * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
 * [Maratonpod](https://t.me/maratonpodchat) - Este es un grupo para que los oyentes estén al tanto de las novedades del MaratonPOD y puedan interactuar con los podcasters
-
+* [Mundo Suzuki](https://t.me/mundosuzuki) - _Metodo de enseñanza para peques_
 ### Bash / Shell
 
 * [ShellDevs - Español](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
@@ -713,7 +717,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Varios
   * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
   * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
-
+  * [Teclados Mecánicos](https://t.me/tecladosmecanicos) - Todo sobre teclados mecánicos en Español
+  
 ### Por Regiones
 
 * Comunidad de Murcia
