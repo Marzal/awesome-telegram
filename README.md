@@ -843,7 +843,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Utilidades
 
-* @MiTrackingBot - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
+* [@MiTrackingBot](https://t.me/MiTrackingBot) - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
@@ -864,15 +864,17 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down.
 * [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
 * Inline
-  * [@OSMbot](https://telegram.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
-  * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
-  * [@relevantxkcdbot](https://telegram.me/relevantxkcdbot) – Search XKCD comics.
-  * [@asciifacesbot](https://telegram.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
-  * [@archwikibot](https://t.me/archwikibot) - [Open Source](https://github.com/TheWeirdDev/arch-wiki-bot) - Inline search through ArchWiki pages in telegram!
-  * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
+  * [@OSMbot](https://t.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
   * [@raebot](https://t.me/raebot) - Bot no oficial para consultar definiciones de palabras según el diccionario de la Real Academia Española.
     * [@drae_bot](https://t.me/drae_bot) - Diccionario RAE (No Oficial)
+  * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
+  * [@smokey_bot](https://t.me/smokey_bot) - Real-time worldwide air pollution data at your fingertips
+  * [@relevantxkcdbot](https://t.me/relevantxkcdbot) – Search XKCD comics.
+  * [@asciifacesbot](https://t.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
+  * [@archwikibot](https://t.me/archwikibot) - [Open Source](https://github.com/TheWeirdDev/arch-wiki-bot) - Inline search through ArchWiki pages in telegram!
+  * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
   * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
+  * @gamebot - _Una buena colección de minijuegos_
 * Buscadores de letras de canciones
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_
