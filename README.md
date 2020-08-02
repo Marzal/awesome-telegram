@@ -481,6 +481,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Emergencias Sevilla](https://t.me/EmergenciasSevilla) -
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
 * [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
+* [P.N. SIERRAS DE TEJEDA, ALMIJARA Y ALHAMA](https://t.me/tejedayalmijara) - Canal extraoficial del PARQUE NATURAL DE LAS SIERRAS TEJEDA, ALMIJARA Y ALHAMA
 * Granada
   * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
   * [Movilidad Granada](https://t.me/MovilidadGranada) - Canal de información del Área de Movilidad del Ayuntamiento de Granada
@@ -676,6 +677,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ENLinuxJugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
 * [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la [página](http://www.jugandoenlinux.com)
 * [Todo Sobre Juegos Telegram](https://t.me/JuegosTg) - Grupo para jugar a los juegos de Telegram.
+* [Linux & Gaming Discussion](https://t.me/linux_gaming) - _(English) Gaming on Linux_
 
 ### Android / Moviles
 
