@@ -700,6 +700,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Python para docentes](https://t.me/Pythonparadocentes) - Grupo de discusión sobre Python en la educación (España)
   * [Python España](https://t.me/pythonesp) - Grupo de discusión sobre el lenguaje Python de la comunidad española
   * [CodeIgniter en Español](https://t.me/CodeIgniterEnEspanol) - Grupo de profesionales para compartir conocimientos sobre CodeIgniter y todo lo relacionado en programación y brindar asesorías entre todos.
+  * [Programador Web Valencia Blog](https://t.me/programadorwebvalencia) - Programación, Tutoriales, scripts y ovejas zombies
 * Sistemas
   * [Dockerlogy](https://t.me/dockerlogy) - Grupo para aprender a instalar y gestionar aplicaciones mediante docker
   * [Sysadmin - ES](https://t.me/Sysadmin_esp) - charla entre Sysadmins, para aprender los unos de los otros - _Mucho tráfico/mensajes_
