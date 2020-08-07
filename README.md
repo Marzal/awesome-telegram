@@ -939,6 +939,7 @@ send it to Telegram
   * [telegrun](https://gitlab.com/iMil/telegrun) - Execute local commands via Telegram messages
 
 ### Funcionamiento
+* https://limits.tginfo.me/en/ - Info y limites de Telegram
 * Tutoriales
   * [Así es TELEGRAM, la mejor alternativa a WHATSAPP | ChicaGeek](https://www.youtube.com/watch?v=l19qpCDvQb8) - Video con funcionamiento básico - 20 minutos
   * [Telegram Desktop. Atajos de teclado](https://ugeek.github.io/blog/post/2020-02-28-telegram-desktop-atajos-de-teclado.html) - Por uGeek
