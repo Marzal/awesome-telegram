@@ -556,6 +556,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Wikipedia en español](https://t.me/es_wiki) - Grupo público sobre Wikipedia un proyecto de Wikimedia
 * [Wikidata en español](https://t.me/wikidataes) - Grupo público sobre Wikidata un proyecto de Wikimedia
 * [Voro MV](https://t.me/Voro_MV) - Si te gustan las motos, Linux y la tecnología en general, este es tu sitio.
+* [FLOSS_publico](https://t.me/FLOSS_Publico) - Software Libre en el Sector Público
 * [NeoSiteLinux Grupo](https://t.me/neositelinuxgrupo) - Comunidad de usuarios de NeoSitelinux.com
 * [La Aldea de Tux 🐧](https://t.me/tuxaldea)
 * [LinuxerOS](https://t.me/Linuxeros_es) - Ayuda sobre GNU/Linux, Consultas sobre Android en general, Deepweb, Hacking
@@ -585,36 +586,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * En inglés
   * [Nextcloud](https://t.me/Nextcloud) - _English_
   * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
-
-### Podcasts sin canal
-
-* [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
-* Tecnología
-  * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
-  * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
-  * [Yo Virtualizador](https://t.me/grupovirtualizador) - Un proyecto para democratizar conocimientos, compartir y disfrutar
-  * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
-  * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
-  * [Securizando](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg) - Podcast con información de seguridad informática
-* [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
-* [La cocina está abierta](https://t.me/lacocinaestaabierta)
-* [Esto No Es Politica](https://t.me/ETEPolitica)
-* [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
-  * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
-* [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano - Tiene [Grupo](https://t.me/UnionPod)
-* [De Rodillas Grupo](https://t.me/derodillas) - Ni aunque me lo pidas de rodillas
-* [El Peor Consultorio](https://t.me/elpeorconsultorio)
-* [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
-* [Series Reality Podcast](https://t.me/joinchat/AYDUWk73myOxZ7140NsJGg)
-* Ciencia
-  * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
-  * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
-* [Maratonpod](https://t.me/maratonpodchat) - Este es un grupo para que los oyentes estén al tanto de las novedades del MaratonPOD y puedan interactuar con los podcasters
-* [Mundo Suzuki](https://t.me/mundosuzuki) - _Metodo de enseñanza para peques_
-### Bash / Shell
-
-* [ShellDevs - Español](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
-* [Bash / Zsh / CLI](https://t.me/BashZshCLI) - Grupo para tratar temas relacionados con BASH/Zsh y aplicaciones CLI
 
 ### Distribuciones GNU/Linux
 
@@ -672,6 +643,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Gnomeros](https://t.me/gnomeros) - Grupo dedicado al entorno de Escritorio por excelencia en GNU/Linux
 * [Grupo XFCE](https://t.me/grupoxfce)
 
+### Bash / Shell
+
+* [ShellDevs - Español](https://t.me/shelldevs_es) - Grupo en español para scripting developers. su consulta no molesta. Natanael
+* [Bash / Zsh / CLI](https://t.me/BashZshCLI) - Grupo para tratar temas relacionados con BASH/Zsh y aplicaciones CLI
+
 ### Juegos
 
 * [ENLinuxJugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
@@ -721,6 +697,32 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [deDrones](https://t.me/dedrones) - charla y soporte sobre todo tipo de drones 😁
   * [Geeetech 🇪🇸 Esp A10 /A10M /20 /30](https://t.me/GeeetechSpain) - Grupo de impresión 3d de habla hispana
   * [Teclados Mecánicos](https://t.me/tecladosmecanicos) - Todo sobre teclados mecánicos en Español
+
+### Podcasts sin canal
+
+* [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
+* Tecnología
+  * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
+  * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
+  * [Yo Virtualizador](https://t.me/grupovirtualizador) - Un proyecto para democratizar conocimientos, compartir y disfrutar
+  * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
+  * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
+  * [Securizando](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg) - Podcast con información de seguridad informática
+* [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
+* [La cocina está abierta](https://t.me/lacocinaestaabierta)
+* [Esto No Es Politica](https://t.me/ETEPolitica)
+* [Vacía tu bandeja, Podcast](https://t.me/Vaciatubandeja) - ...Sobre organización personal y creación de hábitos
+  * Recomienda el grupo [Mi Bullet Journal](https://t.me/miBulletJournal)
+* [Unión Podcastera](https://t.me/unionpod) - "Fraternidad de Podcasting” unionpodcastera.com / Conectamos el podcasting hispanoamericano - Tiene [Grupo](https://t.me/UnionPod)
+* [De Rodillas Grupo](https://t.me/derodillas) - Ni aunque me lo pidas de rodillas
+* [El Peor Consultorio](https://t.me/elpeorconsultorio)
+* [Pienso luego ya tu sabeh](https://t.me/piensoluegoya)
+* [Series Reality Podcast](https://t.me/joinchat/AYDUWk73myOxZ7140NsJGg)
+* Ciencia
+  * [Bacteriófagos](https://t.me/Bacteriofagos) - Podcast quincenal de curiosidades biológicas y actualidad científica para todos los públicos. Presentado por Carmela García.
+  * [Asociación Cultural Buhardillista](https://t.me/buhardillapodcast)- La Buhardilla 2.0 es un podcast sobre ciencia, tratada desde un punto de vista distinto a lo que estamos acostumbrados, pero cuyo fin es hacer que el oyente aprenda algo nuevo cada vez que acabe de escuchar un episodio.
+* [Maratonpod](https://t.me/maratonpodchat) - Este es un grupo para que los oyentes estén al tanto de las novedades del MaratonPOD y puedan interactuar con los podcasters
+* [Mundo Suzuki](https://t.me/mundosuzuki) - _Metodo de enseñanza para peques_
 
 ### Por Regiones
 
