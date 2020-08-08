@@ -467,6 +467,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
 * [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
+* [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_
 * [CÍRCULOS DE CONSUMO LOCAL](https://t.me/unidadyaccion_federacion) - Trata de contribuir desde nuestra acción como consumidores y usuarios a través de la compra, a REACTIVAR NUESTRA ECONOMÍA REGIONAL
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
