@@ -797,6 +797,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@banofbot](https://telegram.me/banofbot) - [Open Source](https://github.com/backmeupplz/banofbot) - allows you to vote for kicking users from groups
 * [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
 * [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
+  * [@GroupButlerEsp_bot](https://t.me/GroupButlerEsp_bot) - Bot multiproposito para grupos
 * [@combot](https://t.me/combot) - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
 * [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
 * @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
@@ -809,11 +810,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Develop
 
-* @HttpResponseBot - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
+* [@HttpResponseBot](https://t.me/HttpResponseBot) - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 * @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
+* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
 * [@GitHubBot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
 * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
-* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
+* [@jsondumpprotobot](https://t.me/jsondumpprotobot) - [Open Source](https://github.com/udf/uniborg/blob/kate/stdplugins/info.py) - Returns Telegram MtProto meta-data for all sent messages
 
 ### Aprobados por Telegram
 
@@ -838,7 +840,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @bing - _Imagenes de bing_
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
-  * @GDPRbot - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
+  * [@GDPRbot](https://t.me/GDPRbot) - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
   * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
   * [@VerifyBot](https://t.me/VerifyBot) - This bot can help you verify a Telegram channel, public group or bot. - _Bot para verificar cuentas_
   * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
@@ -851,41 +853,49 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * [@MiTrackingBot](https://t.me/MiTrackingBot) - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
-* [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
-* [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
-* [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
-* [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
 * [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@randymbot](https://t.me/randymbot) - [Open Source](https://github.com/backmeupplz/randymbot) - Randy can randomly select a raffle participant in a chat or a channel
 * [GiveawaysBot 🎰](https://t.me/Giveaways_Bot) - [Open Source](https://github.com/DanySpin97/GiveawaysBot)`2017` - handles giveaways creation and management, allowing users to easily create, join and share giveaways.
+* [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
+* [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
+* [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down.
+* [@AnyDLBot](https://t.me/AnyDLBot) - [Open Source](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source ALL-In-One Telegram RoBot, that can do lot of things
+* [@do2bot](https://t.me/do2bot) - [Open Source](https://github.com/Lunaresk/python_telegram_do2bot) - Create and share todo lists for own or clollaborative purposes 
+* [@dwgrambot](https://t.me/dwgrambot) - [Open Source](https://github.com/ShiSHcat/dwgram-lib-php) - Easy open source link generator
+* [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
+* [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
-* [@pronunciationbot](https://t.me/pronunciationbot) - This is a bot that allows you to convert text into speech in 84 languages. - _Texto a voz_
-* [@VisionTest1Bot](https://t.me/visiontest1bot) - Text description of photos - _Le mandas una foto y te intenta decir lo que hay en ella._
-* [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
-* [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
-* [@covid19_spa_bot](https://t.me/covid19_spa_bot) - [Open Source](https://github.com/JuanjoSalvador/covid19-reporter-bot) - COVID-19 Spain Reporter - Manager for @covid19_spa
-* [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
-* [@Is_it_UPBot](https://t.me/Is_it_UPBot) - [Open Source](https://github.com/WBerredo/IsItUP) - Bot to verify if a website is up or track an URL to be notified when it gets down.
-* [@watch_bot](https://t.me/@watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
+* [@watch_bot](https://t.me/watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
+* Texto a voz y viceversa
+  * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
+  * [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
+  * [@BetterTTSBot](https://t.me/BetterTTSBot) - [Open Source](https://gitlab.com/spechide/TTSRoBot) - send text and get voice in any one of 78 languages
+  * [@pronunciationbot](https://t.me/pronunciationbot) - This is a bot that allows you to convert text into speech in 84 languages. - _Texto a voz_
+* Imagen a texto
+  * [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
+  * [@qr_scanner_bot](https://t.me/qr_scanner_bot) - [Open Source](https://github.com/Helias/QR-Scanner-Bot) - This bot decode a qrcode.
+  * [@VisionTest1Bot](https://t.me/visiontest1bot) - Text description of photos - _Le mandas una foto y te intenta decir lo que hay en ella._
+  * [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
+  * [@bacakubot](https://t.me/bacakubot) - OCR Bot to extract text from image or photo into text output format
 * Inline
   * [@OSMbot](https://t.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
+  * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
   * [@raebot](https://t.me/raebot) - Bot no oficial para consultar definiciones de palabras según el diccionario de la Real Academia Española.
     * [@drae_bot](https://t.me/drae_bot) - Diccionario RAE (No Oficial)
   * @SpoilerzBot - _(Permite enviar texto o imagen como spoiler y no es legible en el grupo o privado sin interacción = inline)_
   * [@smokey_bot](https://t.me/smokey_bot) - Real-time worldwide air pollution data at your fingertips
+  * [@archwikibot](https://t.me/archwikibot) - [Open Source](https://github.com/TheWeirdDev/arch-wiki-bot) - Inline search through ArchWiki pages in telegram!
   * [@relevantxkcdbot](https://t.me/relevantxkcdbot) – Search XKCD comics.
   * [@asciifacesbot](https://t.me/asciifacesbot) – Bot that allows you to append ascii faces ¯\_(ツ)\_/¯ to your messages
-  * [@archwikibot](https://t.me/archwikibot) - [Open Source](https://github.com/TheWeirdDev/arch-wiki-bot) - Inline search through ArchWiki pages in telegram!
-  * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
-  * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
+    * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
   * @gamebot - _Una buena colección de minijuegos_
 * Buscadores de letras de canciones
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_
   * @BingMusicBot - _También vídeos_
-  * @LyricsGramBot
+  * @LyricsGramBot - Fetch lyrics from any song
 
 
 ## RECURSOS
