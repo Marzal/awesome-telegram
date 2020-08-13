@@ -355,6 +355,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Carmen Ibarlucea](https://t.me/Ibarlucea) - Información sobre actividades de la narradora oral y escritora ecofeminista antiespecista
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
+  * [Ingeniería, Ciencia y Tecnología](https://t.me/ingenieriaengeneral) - Quieres saber de ingeniería? Este lugar te brindará información y dará respuesta a situaciones relacionadas a esta área
 * Tiempo libre
   * [Diario Senderista](https://t.me/diariosenderista) - Canal del blog diariosenderista.es con información útil para el senderismo y donde explicaremos nuestras andanzas por la provincia de Salamanca y más allá.
 * Televisión
@@ -368,6 +369,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
   * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
   * [SOBRESALIENTE](https://t.me/SOBRESALIENTE) - Lecturas reflexivas, frases, retos de inteligencia, curiosidades, encuestas entretenidas y mucho más.
+  * [Encuestados🤔](https://t.me/encuestados_tlg) - Desafía tu conocimiento y aprende con nosotros respondiendo divertidas preguntas sobre cultura general
 * Feminismo
   * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
   * [Vaginocracia Parlamentaria](https://t.me/barbijaputa)
@@ -808,15 +810,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@StoreBot](https://t.me/StoreBot) - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
 * [Telegram Bot Store (StoreOfBot)](https://t.me/StoreOfBot) - Search, Explore & Discover the best bots or channel
 
-### Develop
-
-* [@HttpResponseBot](https://t.me/HttpResponseBot) - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
-* @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
-* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
-* [@GitHubBot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
-* [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
-* [@jsondumpprotobot](https://t.me/jsondumpprotobot) - [Open Source](https://github.com/udf/uniborg/blob/kate/stdplugins/info.py) - Returns Telegram MtProto meta-data for all sent messages
-
 ### Aprobados por Telegram
 
 * [@telegraph](https://t.me/telegraph) - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
@@ -896,6 +889,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * @iLyricsBot - _También inline_
   * @BingMusicBot - _También vídeos_
   * @LyricsGramBot - Fetch lyrics from any song
+
+### Develop
+
+* [@HttpResponseBot](https://t.me/HttpResponseBot) - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
+* @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
+* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
+* [@GitHubBot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
+* [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
+* [@jsondumpprotobot](https://t.me/jsondumpprotobot) - [Open Source](https://github.com/udf/uniborg/blob/kate/stdplugins/info.py) - Returns Telegram MtProto meta-data for all sent messages
+* [@PyroJsonDumpBot](@PyroJsonDumpBot) - [Open Source](https://github.com/SpEcHiDe/PyroJsonDumpBot) - Returns Telegram MtProto meta-data for all sent messages
 
 
 ## RECURSOS
