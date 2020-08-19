@@ -369,7 +369,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
   * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
   * [SOBRESALIENTE](https://t.me/SOBRESALIENTE) - Lecturas reflexivas, frases, retos de inteligencia, curiosidades, encuestas entretenidas y mucho más.
-  * [Encuestados🤔](https://t.me/encuestados_tlg) - Desafía tu conocimiento y aprende con nosotros respondiendo divertidas preguntas sobre cultura general
 * Feminismo
   * [🚺💜🚴La bicicleta morada](https://t.me/labicicletamorada) - "la bicicleta ha hecho más por la mujer que ninguna otra cosa". women empowerment, traveling, sustainable mobility, urbanism, news, events.
   * [Vaginocracia Parlamentaria](https://t.me/barbijaputa)
@@ -711,6 +710,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [ANDROYTECNO](https://t.me/PodcastAndroytecno) - Aquí se intentará hablar de Tecnología y sobre todo de dispositivos móviles.
   * [SystemInside](https://t.me/systeminsidegroup) - Nuestro idioma es La Tecnología. Aquí tiene cabida cualquier Sistema Operativo, Software y Hardware. Si, incluso hasta si es una tostadora.
   * [Securizando](https://t.me/joinchat/Df1auEQjwVQPsir1hMMqqg) - Podcast con información de seguridad informática
+  * [RETROMATICA Podcast](https://t.me/retromatica) - Grupo oficial de RETROMATICA Podcast
 * [La Escalera Podcast](https://t.me/laescalerapro) - Comunidad de Vecinos de profesionales del amplísimo extrarradio del marketing digital (sí, hasta el cultivo de tomates ecológicos se engloba en nuestra comunidad de vecinos)
 * [La cocina está abierta](https://t.me/lacocinaestaabierta)
 * [Esto No Es Politica](https://t.me/ETEPolitica)
@@ -807,7 +807,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Para encontrar en Telegram
 
 * [@tchannelsbot](https://t.me/tchannelsbot) - Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates\! TChannels.me
-* [@StoreBot](https://t.me/StoreBot) - Helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates\! StoreBot.me
 * [Telegram Bot Store (StoreOfBot)](https://t.me/StoreOfBot) - Search, Explore & Discover the best bots or channel
 
 ### Aprobados por Telegram
@@ -861,6 +860,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
 * [@watch_bot](https://t.me/watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
+* [@TGfilestolinkbot](https://t.me/TGfilestolinkbot) - A simple telegram public link generating bot by @cwprojects
+* [@tlgurbot][https://t.me/tlgurbot]- Get a public link for a photo/video/file with Telegram.
 * Texto a voz y viceversa
   * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
   * [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
