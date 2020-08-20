@@ -196,7 +196,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 * [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
-* [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
 
 ### Telegram
 * Oficiales
@@ -425,6 +424,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Encuestas
   * [1906 news](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
   * [Electomania](https://t.me/electomania) - Web especializada en política nacional y encuestas.
+* Comunicación/AAPP
+  * [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
+  * [Comunicación política #COMPOL](https://t.me/comunicacionypolitica) - Canal creado por Verónica Crespo (@vcrespo03) para compartir contenidos y recursos sobre comunicación y política 
 * Partidos
   * [PODEMOS](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
     * [En el Exterior Podemos](https://t.me/podemosexterior) - círculos en el exterior
