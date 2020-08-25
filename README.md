@@ -479,7 +479,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Andalucía
-* [](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía.
+* [Andalucía Informa](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía..
 * [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - 
 * [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - Sigue todas las Novedades de Educación de Andalucía
 * [Emergencias Sevilla](https://t.me/EmergenciasSevilla) -
@@ -751,6 +751,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Almería Trending](https://t.me/AlmeriaTrending) - Rincones, gastronomía, cultura, ocio, tendencias y sobre todo gente de Almería.
   * [LibreLabGRX](https://t.me/LibreLabGRX) - Grupo para la difusión y el apoyo al software/hardware libre y la cultura abierta desde Granada.
   * [Aula de Software Libre UCO](https://t.me/aulasoftwarelibreuco) - Grupo del Aula de Software Libre _de la Universidad de Córdoba_
+  * [HackLabAlmería_charla](https://t.me/HackLab_Almeria_charla) - Charla informal del HackLab Almería. Las cosas importantes las contamos en el foro
 * Galicia
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
 * Cataluña
@@ -759,15 +760,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [XR Ibiza Global Collaborators](https://t.me/joinchat/C5cQDxPVIPB_3rhhqEgUig) - For English speaking people that like to collaborate with XR Ibiza
 
 ### Grupos varios
-
-* [PADELZOOM 🎾 Grupo Oficial](https://t.me/Padelzoom) - Grupo para hablar de una de nuestras mayores pasiones: las palas de pádel.
-* [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
+* Sostenibilidad
+  * [TeachersForFutureSpain](https://t.me/TeachersForFutureSpain) - Profesores por el Clima España
+  * XR (Extinción/Rebelión)
+    * [Rebel Beyond borders:COP25-MADRID](https://t.me/joinchat/AAAAAFaCd4MgsbSV_bg_bQ) - Grupo de Telegram XR durante COP25
+    * [Mobilissation Station](https://t.me/joinchat/NZUJVRQ3l6joyfXekMf-ig) - XR Mass Mobilisation group
 * [Komun.org (Castellano)](https://t.me/komun_es) - Herramientas para seres socialmente iguales, humanamente diferentes y totalmente libres.
   * Tiene también [canal](https://t.me/komun)
+* [PADELZOOM 🎾 Grupo Oficial](https://t.me/Padelzoom) - Grupo para hablar de una de nuestras mayores pasiones: las palas de pádel.
+* [Todo Sobre AIRSOFT](https://t.me/TodoSobreAIRSOFT) - Grupo de jugadores de AIRSOFT para jugadores de AIRSOFT.
 * [El futuro del periodismo](https://t.me/joinchat/CbJCaU1ZtNvHhIpxsmD-ag) - _Debate de noticias sobre periodismo y redes sociales_
-* XR (Extinción/Rebelión)
-  * [Rebel Beyond borders:COP25-MADRID](https://t.me/joinchat/AAAAAFaCd4MgsbSV_bg_bQ) - Grupo de Telegram XR durante COP25
-  * [Mobilissation Station](https://t.me/joinchat/NZUJVRQ3l6joyfXekMf-ig) - XR Mass Mobilisation group
 * [Ad Sidera Vultus. Astronomía para todos](https://t.me/adsideravultus) - "Mira a las estrellas",  sitio para hablar sobre el cosmos, plantear dudas, divulgar sobre exploración espacial e investigación en astronomía.
 
 ## BOTs
