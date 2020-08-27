@@ -396,6 +396,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Un papá como Vader](https://t.me/unpapacomovader) - Blog, podcasts y libros. ¿Te apuntas? 😋
   * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
   * [Educa en Positivo Conéctate a Tu Hijo](https://t.me/educaenpositivoconectateatuhijo) - Para inspirar, motivar, apoyar a madres y padres en la aventura de educar en el siglo XXI
+* Ciencia
+  * [Podcastidae](https://t.me/podcastidae) - Canal de difusión de los podcast de a Red Podcastidae.  Red de Podcast de Ciencia, Medio Ambiente y Naturaleza
+  * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
+  * [GeoCastAway](https://t.me/geocastaway) - _Geología_
+    * Tiene [grupo](https://t.me/geocastawaypodcast)
 * [Va Por Nosotras](https://t.me/vapornosotraspodcast) - Salud, sexualidad, entretenimiento, deporte, relaciones, familia, emprendimiento o moda y belleza.Fomentar la igualdad es la base de nuestros contenidos.
   * Tiene [grupo](https://t.me/vapornosotras) - Entrevistamos a mujeres que tienen una historia que contar, mujeres que quieren comunicar sus logros, inquietudes y compartir sus experiencias.
 * [Audio Momentos](https://t.me/audiomomentos) - Diario Pesonal en Audio de un loco por contar cosas - _Yoyo Fernandez_
@@ -412,10 +417,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
-* Ciencia
-  * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
-  * [GeoCastAway](https://t.me/geocastaway) - _Geología_
-    * Tiene [grupo](https://t.me/geocastawaypodcast)
 * [Podium Podcast](https://t.me/s/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
 * En inglés
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
