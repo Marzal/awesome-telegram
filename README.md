@@ -183,6 +183,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Arch Linux
   * [Planet Arch Linux & News](https://t.me/planetarch) - Planet Arch Linux is a window into the world, work and lives of Arch Linux hackers and developers. Also we have the latest news from the Arch Linux development staff.
   * [Arch Linux: Recent package updates](https://t.me/archlinux_updates) - Channel with recent package updates in Arch Linux repositories.
+  * [Arch Linux Tips](https://t.me/archlinuxtips) - Tips para ArchLinux
   * [Arch Linux News](https://t.me/archlinuxnews) - Latest news from Arch web site. - `[Parado desde 2018-02]`
   * [Planet Arch](https://t.me/archplanet) - Planet Arch Linux latest posts. - `[Parado desde 2018-02]`
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
@@ -475,9 +476,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [CÍRCULOS DE CONSUMO LOCAL](https://t.me/unidadyaccion_federacion) - Trata de contribuir desde nuestra acción como consumidores y usuarios a través de la compra, a REACTIVAR NUESTRA ECONOMÍA REGIONAL
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
-* [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
-* [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
-* [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
+* [Empleo Público Región de Murcia](https://t.me/EmpleopublicoRM) - Información sobre los procesos selectivos (oposiciones) de la Administración Pública Regional
+* Cartagena
+  * [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
+  * [Yayoflautas Cartagena](https://t.me/YayosCt) - 
+* Parados
+  * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
+  * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
 
 #### Andalucía
 * [Andalucía Informa](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía..
