@@ -129,6 +129,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux Administration](https://t.me/LinuxAdministration) - `[Parado desde 2019-06]`
 
 #### Podcasts
+* [24H24L](https://t.me/evento24h24l) - evento en línea, de 24 horas de duración, consta de 24 audios con formato de podcast, acerca del uso de GNU / Linux, las experiencias profesionales y personales de varios participantes y moderadores, contadas en seis categorías
 * [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
 * [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
@@ -157,6 +158,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El podcast de JustDevZero](https://t.me/podcastjustdevzero) - Canal dedicado a la distribución de mi [podcast](https://podcast.justdevzero.me/) homónimo.
   * [NeoSiteLinux Podcast](https://t.me/neositelinuxpodcast) - Canal de audios de NeoSiteLinux Podcast
   * [La semana PHP](https://t.me/lasemanaphp) - Ofertas de trabajo diarias de PHP y su ecosistema: Symfony, Laravel, WordPress, Drupal,...
+
 #### Blogs
 * [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
@@ -172,7 +174,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Eventos
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
-* [lyt19](https://t.me/lyt16) - Linux y Tapas en **León** capital.
+* [lyt20](https://t.me/lyt16) - Linux y Tapas en **León** capital.
   * Tiene [grupo](https://t.me/linuxytapas) - Grupo de participación e información
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 
