@@ -559,8 +559,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ## GRUPOS
 
-* [Coronavirus makers](https://t.me/coronavirus_makers) - _Grupo para colaborar en la creación de materiales para ayudar en la emergencia sanitaria_
-
 ### Software Libre
 
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
@@ -579,6 +577,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
 * [GUTL Oficial](https://t.me/GUTLOficial) - Grupo de Usuarios de Tecnologías Libres.
+* [FOSDEM en español](https://t.me/fosdem_ES) - hispanoparlantes en el FOSDEM
 * Hispalinustálgicos _(Con invitación)_
 * FLOSS
   * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
@@ -702,6 +701,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Segunda Mano Informática| ForoSegundaMano.com](https://t.me/forosegundamano) - Las ofertas y detalles se preguntan a los vendedores por Privado. País: España 🇪🇸.
   * [RetroMercadillo](https://t.me/retromercadillo) - Grupo RetroMercadillo de compra-venta de electrónica y software retro de segunda mano
 * Makers
+  * [Coronavirus makers](https://t.me/coronavirus_makers) - _Grupo para colaborar en la creación de materiales para ayudar en la emergencia sanitaria_
   * [Making Cosillas ❤️](https://t.me/makingcosillas) - "Activity log" de Makerio: Poned acá cualquier actividad, evento o tarea de proyecto que estéis haciendo. _Tiene listado de grupos regionales_
   * [Spainlabs: CNC's](https://t.me/SpainLabsCNC) - Tu comunidad maker sobre CNC's, Impresión 3D, Arduino, Electrónica y mucho más.
   * [Comunicaciones LoRa / LoRaWAN](https://t.me/LoRa_LoRaWAN) - Comunicaciones LoRa / LoRaWAN
