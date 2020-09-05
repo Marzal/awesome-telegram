@@ -833,14 +833,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Busquedas inline
   * [@gif](https://t.me/gif) - Type @gif with a search query in your channel and gif suggestions will show up
   * [@pic](https://t.me/pic) - _(imagenes sacadas de Yandex)_
-  * @youtube - _(Busca videos)_
+  * [@youtube](https://t.me/youtube) - _(Busca videos)_
     * [@vid](https://t.me/vid) - Official YouTube videos.
   * @sticker - enter and emoji
   * [@imdb](https://t.me/imdb) - Official Movies from IMDB.
   * [@bold](https://t.me/Bold) - Markdown bot / Highlight your message with bold, italic or fixed width.
   * [@gamee](https://t.me/gamee) - Official telegram bot for HTML5 gaming of [Gamee](https://www.gamee.com/) platform. - _Juegos dentro de Telegram_
   * [@music](https://t.me/music) - Official Classic music search. - _Música Clásica_
-  * @wiki - _Wikipedia_
+  * [@wiki](https://t.me/wiki) - _Consultar la wikipedia dentro de cualquier chat, incluido el del bot_ 
   * @bing - _Imagenes de bing_
 * Soporte
   * @NoToScam - Reports about scammers are welcome here.
@@ -874,6 +874,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@watch_bot](https://t.me/watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
 * [@TGfilestolinkbot](https://t.me/TGfilestolinkbot) - A simple telegram public link generating bot by @cwprojects
 * [@tlgurbot][https://t.me/tlgurbot]- Get a public link for a photo/video/file with Telegram.
+* [@F1InfoBot](https://t.me/F1InfoBot) - I can help you get easy and fast Formula 1 insights!🏎💨
+* [@TwitterScreenshotBot](https://t.me/TwitterScreenshotBot) - Send a link to a tweet, get a screenshot
+* [@YTranslateBot][https://t.me/YTranslateBot] - I can translate your messeges to any language.
+* [@DrWebBot](https://t.me/DrWebBot) - This bot can ensure safety of files and links transferred via Telegram by checking them on-the-fly.
 * Texto a voz y viceversa
   * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
   * [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
