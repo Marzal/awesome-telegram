@@ -57,6 +57,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
   * [Ecotechers](https://t.me/ecotechers) - Boletín semanal sobre economía digital, startups e innovación. Por el periodista Jesús Martínez (@jesusmargon).
   * [FemiNews ♀#NiUnaMenos](https://t.me/feminismos) - Lo que publicamos no es necesariamente nuestra opinión 💜 Piratas feministas 🏴‍☠️
+  * [InfoIgualdad](https://t.me/InfoIgualdad) - rastreador automático de noticias sobre temas relacionados con la igualdad desarrollado expresamente para este fin. No hay personas seleccionando las noticias
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
@@ -309,6 +310,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
+  * [NanoFrames (divulgación científica) ](https://t.me/NanoFrames) - Nos gusta narrar, dibujar y escribir acerca de ciencia, tecnología e ingeniería 
   * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS)
@@ -367,6 +369,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [FormulaTV - Television Noticias](https://t.me/FormulaTV) - Noticias Television📺
   * [Noticias en Serie](https://t.me/noticiasenserieoficial) _Noticias sobre estrenos, infografías..._
   * [Noticias Movistar+ - Television Pago](https://t.me/MovistarPlusNovedades) - Novedades del servicio Movistar+ y canales de 📺television de pago💶
+  * [Renovada o cancelada](https://t.me/renovadaocancelada) - Entérate de las renovaciones y cancelaciones de tus series favoritas
 * Datos curiosos / trivials
   * [Mapas del Mundo](https://t.me/mapasdelmundo) - Aquí coleccionamos distintas mapas del mundo!
   * [𝗗𝗔𝗟𝗘 𝗔𝗟 𝗖𝗢𝗖𝗢! 😵](https://t.me/Dalealcoco) - Intenta resolver los problemas, casi nada es lo que parece
