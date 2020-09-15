@@ -60,6 +60,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [InfoIgualdad](https://t.me/InfoIgualdad) - rastreador automático de noticias sobre temas relacionados con la igualdad desarrollado expresamente para este fin. No hay personas seleccionando las noticias
 * Revistas
   * [Climática](https://t.me/lmclimatica) - Revista especializada en #CrisisClimática de @RevistaLaMarea.  Reportajes, cultura y #NoticiasClimáticas diarias.
+  * [Carro de Combate](https://t.me/carrodecombate) - Somos un colectivo dedicado al periodismo independiente, que investiga el origen de los productos que consumimos.
   * [Contra el diluvio](https://t.me/contraeldiluvio) - Canal para mantenerte al día de las últimas entradas y proyectos de Contra el diluvio
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
