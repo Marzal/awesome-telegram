@@ -36,6 +36,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
 * [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
 * [Madres por el clima](https://t.me/Madresxelclima) - `[Parado desde 2019-12]` - Pero tienen [grupo activo](https://t.me/madresporelclima)
+* [Goteo.org](https://t.me/goteofunding) - La plataforma de crowfunding de proyectos con alto impacto social, impulso procomún y desarrollo cívico
 
 ### Noticias
 * Fact-Checks
@@ -330,6 +331,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [AprendeINTEF](https://t.me/aprendeintef) - Canal de comunicación #AprendeINTEF. https://aprende.intef.es
   * [Docente 5.1.](https://t.me/docente_innovador) - Todo sobre Materiales, Herramientas y Recursos para aplicar en el ámbito Educativo.
   * [GEOGRAFÍA](https://t.me/GEOGRAFIA) - Todo sobre geografía: Imágenes del mundo, mapas, curiosidades de países y mucho más.
+  * [English Tips💡📝](https://t.me/LearnEnglishTipss) - Deseas desarrollar tus habilidades en cuanto al INGLÉS⁉️
 * Salud
   * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
   * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
@@ -596,6 +598,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [FreeCAD en Español](https://t.me/FreeCAD_Es) - Grupo de FreeCAD en Español. Todas tus ideas o proyectos son bienvenidos. Puedes vender tu servicio de diseño o consultar un problema e intentaremos ayudarte.
 * [Comunidad Octoprint Esp](https://t.me/octoprint) - Comunidad Octoprint Español, donde intentaremos ayudarte en todo. Y solucionar tus problemas. + Método ESP8266
 * [Node-red Spain](https://t.me/nodered)
+* [MozillaHubsES](https://t.me/MozillaHubsES) - _(Grupo creado a raiz del evendo esLibre)_
 * Comunidades por tematicas de aplicaciones
   * [Gráfica Libre](https://t.me/graficalibre) - Diseño gráfico, digital, Web, interiores, ilustración, edición de video, D entre otros cientos de tipos de diseño y programas.
 * En inglés
@@ -766,6 +769,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [HackLabAlmería_charla](https://t.me/HackLab_Almeria_charla) - Charla informal del HackLab Almería. Las cosas importantes las contamos en el foro
 * Galicia
   * [Galpon](https://t.me/galpon) - Grupo de Amigos de Linux de Pontevedra
+* Canarias
+  * [GULiC](https://t.me/GrupoDeUsuariosDeLinuxDeCanarias) - Gente de Canarias, simpatizantes del Software Libre
 * Cataluña
   * [Col.lectiu Ronda](https://t.me/collectiuronda) - Cooperativa d'assessorament jurídic, laboral i social
 * Islas Baleares
