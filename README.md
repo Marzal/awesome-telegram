@@ -43,6 +43,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [MALDITA.ES](https://t.me/maldita_es) - Periodismo para que no te la cuelen
     * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
   * [Newtral.es](https://t.me/newtral_telegram) - Periodismo, tecnología y datos. Contamos historias que importan, desmentimos noticias falsas y hacemos fact-checking.
+    * [Pronóstika](https://t.me/pronostika_es) - El juego de actualidad política de Newtral
 * Periódicos
   * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
   * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
@@ -331,7 +332,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [AprendeINTEF](https://t.me/aprendeintef) - Canal de comunicación #AprendeINTEF. https://aprende.intef.es
   * [Docente 5.1.](https://t.me/docente_innovador) - Todo sobre Materiales, Herramientas y Recursos para aplicar en el ámbito Educativo.
   * [GEOGRAFÍA](https://t.me/GEOGRAFIA) - Todo sobre geografía: Imágenes del mundo, mapas, curiosidades de países y mucho más.
-  * [English Tips💡📝](https://t.me/LearnEnglishTipss) - Deseas desarrollar tus habilidades en cuanto al INGLÉS⁉️
 * Salud
   * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
   * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
@@ -621,6 +621,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Kubuntu Support](https://t.me/kubuntu_support) - Official Kubuntu support - _Oficial_
     * [Ubuntu Studio en Español](https://t.me/UbuntuStudio) - Un grupo creado para ayudarnos a usar este lindo sistema para humanos creativos, tambien compartir nuestros conocimientos y creaciones.
     * [Linux Mint en Español](https://t.me/linuxmint_es) - Grupo oficial de Linux Mint en Español
+    * [Lliurex](https://t.me/comunitat_lliurex) - Versión de la Comunidad Valenciana para sus equipos públicos en educación
   * [DeepinOS](https://t.me/deepin_es) - Grupo Oficial de DeepinOS en Español!
     * [Deepin en Español](https://t.me/deepinenespanol) - Somos un grupo en español sobre Deepin
   * [Huayra GNU/Linux](https://t.me/huayra_comunidad) - Grupo Oficial de la Comunidad [Huayra Linux](https://huayra.conectarigualdad.gob.ar/) - _desarrollado por Educ.ar SE para los Programas Conectar Igualdad y Primaria Digital._
@@ -675,6 +676,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Android / Moviles
 
+* [PinePhoneES (no oficial)](https://t.me/pinephone_es) - Grupo no oficial de PinePhone (solo español)
 * Android
   * [Club de Android y Gnu/Linux](https://t.me/ClubdeAndroidyGnuLinux) - Dos espacios reunidos en un mismo lugar, para usuarios de Android y Gnu/Linux. Además de  asesorias y ayuda en: gadgets, hardware, software, y demás S.O.
   * [andOTP](https://t.me/andOTP) - Official Telegram group for the open-source two-factor authentication app andOTP
