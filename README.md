@@ -21,6 +21,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Energía Solar ☀️](https://t.me/solar_energia) - Toda la actualidad de la energía solar en la red.
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
   * [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
+  * [Som Energia - Castellano](https://t.me/somenergia_es) - _(Compañia comercializadora de electricidad renovable)_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 * [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
 * [Gestores de Residuos](https://t.me/deresiduos) - Información relevante del sector, además de ebooks, guías u otros recursos de interés.
@@ -470,8 +471,11 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
   * [Ayuntamientos](https://amalialopezacera.com/listado-de-71-canales-de-telegram-de-ayuntamientos-activos) - Listado de 71 canales de Telegram de ayuntamientos (activos) por "El Blog de Amalia López Acera"
+  * [BORME diario](https://t.me/BORMEdiario) - Titulares diarios (de lunes a viernes, excepto fines de semana y festivos nacionales), del Boletín Oficial del Registro Mercantil.
+  * [Agencia Tributaria](https://t.me/AEAT_ESP) - Todas las novedades referentes a aduanas, empleo público, interrupciones del servicio en la Sede Electrónica, interés, novedades en impuestos
 * Internacional
   * [DOUE diario](https://t.me/DOUEdiario) - El Diario Oficial de la Unión Europea (DO)
+  * [Euribor diario](https://t.me/Euribordiario) - Cotización diaria, análisis semanales y mensuales del Euribor.
   * [ISIS Watch](https://t.me/ISISwatch) - This channel publishes daily updates on banned terrorist content. Report content via the in-app button or by emailing abuse@telegram.org - _(Oficial)_
 
 ### Regionales
@@ -488,6 +492,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Cartagena
   * [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
   * [Yayoflautas Cartagena](https://t.me/YayosCt) - 
+  * [#ElDigitalCT](https://t.me/eldigitalct) - Canal Oficial del Diario El Digital Cartagena
 * Parados
   * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
   * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
