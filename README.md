@@ -315,6 +315,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
   * [NanoFrames (divulgación científica) ](https://t.me/NanoFrames) - Nos gusta narrar, dibujar y escribir acerca de ciencia, tecnología e ingeniería 
+  * [El Museo de la Ciencia](https://t.me/cienciaparatodos) - donde encontraras todos los artículos, enlaces, documentales, etc. sobre ciencia.
   * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS)
@@ -484,6 +485,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
 * [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
+  * [Ayuntamiento de Lorca](https://t.me/AytoLorca) - Canal oficial del Ayuntamiento de Lorca
 * [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_
 * [CÍRCULOS DE CONSUMO LOCAL](https://t.me/unidadyaccion_federacion) - Trata de contribuir desde nuestra acción como consumidores y usuarios a través de la compra, a REACTIVAR NUESTRA ECONOMÍA REGIONAL
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
@@ -756,6 +758,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Comunidad de Murcia
   * [Cultura y Software Libre de la Region de Murcia](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
   * [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
+  * [Grupo Residuo Cero Región de Murcia](https://t.me/RegionMurciaResiduoCero) - Grupo para comentar las noticias y experiencias relacionadas con la sostenibilidad en toda la Región de Murcia
   * Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
   * Por localización
     * Cartagena
