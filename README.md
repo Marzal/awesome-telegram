@@ -321,6 +321,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS)
     * [Rewilding Wild–Europe](https://t.me/rewilding) - Canal de comunicación impulsado por B.Varillas para los interesados en seguir la información de las reservas de Rewilding en Iberia.
     * [Restauracion de Ecosistemas](https://t.me/restauraciondeecosistemas) - Canal para conocer que es la Restauración Ecológica de Ecosistemas, así como las noticias relacionadas.
+    * [BOMBEROSFORESTALES](https://t.me/BOMBEROS_FORESTALES) - #BBFF #IIFF Difusión de información en torno a los incendios forestales.
   * Astronomía
     * [CAF](https://t.me/CAFtv) - Este canal envía curiosidades, frases y fotos relacionadas con la Astronomía y la Ciencia en general
     * [Sistema Solar](https://t.me/SistemaSolar)
@@ -516,6 +517,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ecologistas Huesca](https://t.me/EcologistasHuesca) - Información y actividades de las asambleas locales de Ecologistas en Acción en la provincia de Huesca
 
 #### Canarias
+* [Convocatorias Canarias](https://t.me/convocatoriascanarias) - Todas las próximas convocatorias de Movimentos sociales en Canarias
 * [WiFi Canarias 📡](https://t.me/wificanarias) - WISP, Telecomunicaciones, Wireless, WiFi, \#WiFiConsejos y por supuesto: nuestros \#WiFiCanariasNews...
 * [Noticias de Canarias](https://t.me/noticiasdecanarias24h) - En NoticiasDeCanarias.Com podrás estar informado sobre la última hora de las Islas Canarias.
 * [Alquila KasiTodo Canarias](https://t.me/kasitodo) - El alquiler de objetos entre particulares
@@ -759,6 +761,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Cultura y Software Libre de la Region de Murcia](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
   * [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
   * [Grupo Residuo Cero Región de Murcia](https://t.me/RegionMurciaResiduoCero) - Grupo para comentar las noticias y experiencias relacionadas con la sostenibilidad en toda la Región de Murcia
+  * [Senderismo Cartagena-Murcia🌄](https://t.me/senderismocartagenamurcia) - 
   * Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
   * Por localización
     * Cartagena
