@@ -693,6 +693,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [UBports \[ESPAÑOL\]](https://t.me/UBPorts_ES) - Grupo oficial de la comunidad de UBPorts en Español
   * [UBports \[ENGLISH\]](https://t.me/ubports) - UBports [ENGLISH]
     * [UB Welcome & Install](https://t.me/WelcomePlus) - Ubports newcomers room - _(Para novatos)_
+* Firefox OS
+  * [Icefox OS [Chat]](https://t.me/IceFoxOS_Chat) - _Grupo con la intención de intentar revivir Firefox OS_
 
 ### Tecnológicos
 
