@@ -761,6 +761,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 * Comunidad de Murcia
   * [Cultura y Software Libre de la Region de Murcia](https://t.me/MurciaRegionLibre) - Grupo de usuarios de software y cultura libre en la Región de Murcia
+  * [MurciaMankers](https://t.me/murciamakers) - Grupo de makers de la Región de Murcia para ayudas y compartir cervezas
   * [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
   * [Grupo Residuo Cero Región de Murcia](https://t.me/RegionMurciaResiduoCero) - Grupo para comentar las noticias y experiencias relacionadas con la sostenibilidad en toda la Región de Murcia
   * [Senderismo Cartagena-Murcia🌄](https://t.me/senderismocartagenamurcia) - 
