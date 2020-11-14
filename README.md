@@ -23,6 +23,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Vehículos y coches eléctricos](https://t.me/vehiculos_electricos) - All information about electric cars. Información y ventas relacionadas con los vehículos y coches eléctricos.
   * [Avatarenergia](https://t.me/avatarenergia) - _Web sobre energías renovables, sostenibilidad... Tienen podcast con episodios de 3 minutos_
   * [Som Energia - Castellano](https://t.me/somenergia_es) - _(Compañia comercializadora de electricidad renovable)_
+  * [GrupoFuturE](https://t.me/GFuturE) - FuturEnergy y FuturEnviro - _Revista online de energía y eficiencia energética_
 * [Curiositix - Curiosidades](https://t.me/curiositix) - De todo un poco, curiosos de nacimiento. - _Mayormente medioambiente_
 * [Cumbre Social por el Clima // Climate Social Summit](https://t.me/cumbresocialclima) - Info channel – COP25 Madrid
 * [Gestores de Residuos](https://t.me/deresiduos) - Información relevante del sector, además de ebooks, guías u otros recursos de interés.
