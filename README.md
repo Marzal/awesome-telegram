@@ -71,6 +71,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
   * [CTXT](https://t.me/ctxtes) - Revista Contexto desde el que iremos informando puntualmente de las publicaciones más destacadas.
   * En otro idioma
+    * [Medios internacionales](https://t.me/mediosinternacionales) - Noticias más comentadas y/o compartidas en redes sociales de una selección de medios internacionales
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 
 ### Informática y Tecnología
