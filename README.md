@@ -202,6 +202,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Planet KDE](https://t.me/planetkde) -
   * [KDE Announcements](https://t.me/kdenews) - `[Parado desde 2016]`
   * [KDE Sysadmin news](https://t.me/kdesysadmin)- Downtime notices and other news about KDE infrastructure. - `[Parado desde 2018]`
+* [#ViernesDeEscritorio [Canal] 👩🏻‍💻](https://t.me/fridaydesktop) - Capturas de escritorio de usuarios de Linux
 
 #### Empresas
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
@@ -594,6 +595,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [DriveMeca](https://t.me/drivemeca_opensource) - Grupo publico para discutir y compartir temas sobre opensource
 * [Clubdesoftwarelibre](https://t.me/CSLibre) - Un lugar donde vivimos la experiencia del Software Libre no sólo como código, sino como estilo de vida.
 * [Karla's Project](https://t.me/KarlasProject) - Experiencias, opiniones y comentarios sobre todo aquello relacionado con la temática del canal: Windows, GNU/Linux, Informática
+* [Género y SL](https://t.me/generoysl) - Mapeando un Software Libre feminista
 * [GUTL Oficial](https://t.me/GUTLOficial) - Grupo de Usuarios de Tecnologías Libres.
 * [FOSDEM en español](https://t.me/fosdem_ES) - hispanoparlantes en el FOSDEM
 * Hispalinustálgicos _(Con invitación)_
@@ -917,6 +919,9 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [@VisionTest1Bot](https://t.me/visiontest1bot) - Text description of photos - _Le mandas una foto y te intenta decir lo que hay en ella._
   * [@codescanbot](https://t.me/codescanbot) - 🕵️‍ Scan a QR or Barcode (multiple formats)  / ⚙️ Generate a QR Code image
   * [@bacakubot](https://t.me/bacakubot) - OCR Bot to extract text from image or photo into text output format
+* URL a fichero
+  * [@MVY_downloader_bot](https://t.me/MVY_downloader_bot) - This bot is able to download audio and video from many sites including YouTube.
+  * [Facebook Downloader](https://t.me/facedlldownloaderbot) - _Te descarga videos de Facebook dandole la URL_
 * Inline
   * [@OSMbot](https://t.me/OSMbot) - Search in OpenStreetMap database: addresses, maps, etc. Also in inline mode
   * [@calcubot](https://t.me/calcubot) - [Open Source](https://github.com/format37/CalcuBot) - Math expression calculator. Inline mode supported.
