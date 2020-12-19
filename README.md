@@ -40,6 +40,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
 * [Madres por el clima](https://t.me/Madresxelclima) - `[Parado desde 2019-12]` - Pero tienen [grupo activo](https://t.me/madresporelclima)
 * [Goteo.org](https://t.me/goteofunding) - La plataforma de crowfunding de proyectos con alto impacto social, impulso procomún y desarrollo cívico
+* [ANASMA](https://t.me/anasma) - Por un mundo rural sin barreras, en la mitad sur de la Península Ibérica - _Asociación Naturalista Aullidos de Sierra Madrona_
 
 ### Noticias
 * Fact-Checks
@@ -122,6 +123,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [It's FOSS](https://t.me/itsfoss_official) - Official telegram channel of It's FOSS. Join to get the latest from Linux and Open Source world. itsfoss.com
   * [Mastodon Project](https://t.me/mastodonnews) - Read all news from the official joinmastodon.org blog and much more.
   * [Libreware](https://t.me/libreware) - English - _Todo tipo de aplicaciones libres_
+  * [Red Hat Jobs (non official)](https://t.me/rhjobs) - Jobs based on RSS feed from RH Jobs portal 
 
 #### GNU/Linux
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
@@ -539,6 +541,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 #### Cataluña
 * [gencat](https://t.me/gencat) - _Generalitat of Catalonia_
   * [Salut](https://t.me/salutcat) - Informació oficial de Salut de la Generalitat de Catalunya
+* [Ecologistes en Acció de Catalunya](https://t.me/ecologistes) - Ecologisme Social, Ecofeminisme, Agroecologia, Decreixement. Confederats amb @ecologistas
 * [XR Barcelona](https://t.me/XRBarcelona) - Canal informatiu de Rebel·lió o Extinció Barcelona. Extinction Rebellion (XR) és un moviment internacional d'acció directa no violenta contra la inacció davant l'emergència climàtica
 * [XR Girona](https://t.me/XRGirona) - Davant la crisi climàtica i ecològica global i la inacció de les elits polítiques i econòmiques ens rebel·lem!
 * [AlertesUdG](https://t.me/alertesudg) - Avisos relacionats amb incidències que requereixin un avís immediat per a la comunitat universitària - _Universidad de Girona_
