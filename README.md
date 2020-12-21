@@ -372,6 +372,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Electrónica y Mecánica
   * [Mecatrónica AE ⚙️](https://t.me/electronicamecanica) - Canal dedicado a la información breve y clara sobre el maravilloso mundo de la mecatrónica
   * [Ingeniería, Ciencia y Tecnología](https://t.me/ingenieriaengeneral) - Quieres saber de ingeniería? Este lugar te brindará información y dará respuesta a situaciones relacionadas a esta área
+  * [Drones España](https://t.me/noticiasdrones) - El lugar donde puedes encontrar la Información mas actual del mundo de los Drones.
+  * [Telecomunicaciones](https://t.me/sistemastelecomunicaciones) - Publicaciones sobre Telecomunicaciones.
 * Tiempo libre
   * [Diario Senderista](https://t.me/diariosenderista) - Canal del blog diariosenderista.es con información útil para el senderismo y donde explicaremos nuestras andanzas por la provincia de Salamanca y más allá.
 * Televisión
