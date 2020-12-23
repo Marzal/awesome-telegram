@@ -12,6 +12,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [BlogSOSTENIBLE - Ecología y más](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
 * [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
 * [Trabaja en Medio Ambiente](https://t.me/trabajaenmedioambiente) - Canal asociado a la web de busqueda de empleo ambiental - _Dos mesanjes diarios con las ofertas de trabajo_
+* [Bioemprender](https://t.me/bioemprender) - becas, ofertas de trabajo, prácticas remuneradas
 * [Ecología y medio ambiente](https://t.me/ecologia_medioambiente) - Noticias en relación a la ecología y el medio ambiente.
 * [Reducir](https://t.me/reducir) - Reducir tu basura, reducir las compras de productos que no necesitas, reducir el consumo, reduce tu huella... reducir es sostenibilidad, reducir es ayudar al planeta.
 * [Arquitectura sostenible](https://t.me/arquitecturasostenible) - se define como un modo de concebir el diseño arquitectónico, optimizando el uso de los recursos naturales y los sistemas constructivos de manera que se minimice el impacto de los edificios sobre el medio ambiente.
@@ -438,6 +439,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
 * [Podium Podcast](https://t.me/s/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
+* [MetaCast 📢](https://t.me/meta_cast) - Reseñas diarias de podcast, principalmente de desarrollo y tecnología, pero hay espacio para otras temáticas.
 * En inglés
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
