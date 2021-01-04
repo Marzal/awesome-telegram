@@ -180,6 +180,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux Adictos](https://t.me/linuxadictos) - Linux para auténticos adictos y fans. Noticias cada día y los tutoriales más completos que podrás encontrar.
 * [masLinuXBlog](https://t.me/canalmaslinuxblog) - Canal sólo artículos del blog - Tiene [Grupo](https://t.me/MasGNULinuXBlog)
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
+* [Ubunlog (Ubuntu y Linux)](https://t.me/ubunlog) - Noticias de Ubuntu y Linux, con los tutoriales más completos.
 * [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre.
 
 #### Eventos
@@ -905,7 +906,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [@dwgrambot](https://t.me/dwgrambot) - [Open Source](https://github.com/ShiSHcat/dwgram-lib-php) - Easy open source link generator
 * [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
-* [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available.
+* [@rss2tg_bot](@rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
+* [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available. - _Algunas opciones son de pago (5 feeds gratis), funciona en canales y grupos_
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
 * [@watch_bot](https://t.me/watch_bot) - _Un sencillo bot para monitorizar servicios web y estar alerta de posibles caídas_
