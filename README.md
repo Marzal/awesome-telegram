@@ -217,6 +217,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Oficiales
   * [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
     * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
+    * [Telegram Tips](https://t.me/TelegramTips) - Videos con uso de funcionalidades
   * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
