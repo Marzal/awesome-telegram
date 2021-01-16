@@ -217,7 +217,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Oficiales
   * [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
     * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
-    * [Telegram Tips](https://t.me/TelegramTips) - Videos con uso de funcionalidades
+  * [Telegram Tips](https://t.me/TelegramTips) - Videos con uso de funcionalidades
+    * [Tips de Telegram](http://t.me/TelegramTipsES) - Traducción al español oficial de Telegram Tips
   * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
@@ -518,7 +519,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Andalucía Informa](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía..
 * [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - 
 * [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - Sigue todas las Novedades de Educación de Andalucía
-* [Emergencias Sevilla](https://t.me/EmergenciasSevilla) -
+* [Andalucía Justa y Resiliente](https://t.me/andaluciajustayresiliente) - Campaña de sensibilización social y movilización ciudadana
+* [Emergencias Sevilla](https://t.me/EmergenciasSevilla) - 
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
 * [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
 * [P.N. SIERRAS DE TEJEDA, ALMIJARA Y ALHAMA](https://t.me/tejedayalmijara) - Canal extraoficial del PARQUE NATURAL DE LAS SIERRAS TEJEDA, ALMIJARA Y ALHAMA
