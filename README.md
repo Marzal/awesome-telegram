@@ -203,7 +203,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MiniNo](https://t.me/galponminino) - Para ejecutarse en equipos con pocos recursos hardware - `[Abandonado?]`
 * Entornos de escritorio
   * [Kdeblog](https://t.me/kdeblog) - blog sobre el Software Libre centrado en la Comunidad KDE - _Retweets de su cuenta de Twitter_
-  * [Planet KDE](https://t.me/planetkde) -
+  * [KDE Planet](https://t.me/kdeplanet) - This is a Telegram channel of the feed aggregator that collects what KDE contributors write in their blogs
+    * [Planet KDE](https://t.me/planetkde) - _Igual pero puede colar algo +_
   * [KDE Announcements](https://t.me/kdenews) - `[Parado desde 2016]`
   * [KDE Sysadmin news](https://t.me/kdesysadmin)- Downtime notices and other news about KDE infrastructure. - `[Parado desde 2018]`
 * [#ViernesDeEscritorio [Canal] 👩🏻‍💻](https://t.me/fridaydesktop) - Capturas de escritorio de usuarios de Linux
@@ -524,6 +525,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
 * [EmpleOnubA Huelva y provincia](https://t.me/EmpleOnubA) - Ofertas de trabajo en la provincia de Huelva y negocios a traspasar www.empleonuba.es
 * [P.N. SIERRAS DE TEJEDA, ALMIJARA Y ALHAMA](https://t.me/tejedayalmijara) - Canal extraoficial del PARQUE NATURAL DE LAS SIERRAS TEJEDA, ALMIJARA Y ALHAMA
+* [XR Cádiz](https://t.me/XR_Cadiz) - Canal de información pública de Extinción Rebelión [XR] en la provincia de Cádiz
 * Granada
   * [#FridaysForFutureGRANADA](https://t.me/fridaysforfuturegranada) - Canal de información/difusión del movimiento juvenil y estudiantil #FridaysForFuture (Juventud por el Clima) en Granada.
   * [Movilidad Granada](https://t.me/MovilidadGranada) - Canal de información del Área de Movilidad del Ayuntamiento de Granada
