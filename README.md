@@ -89,7 +89,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
 * [Mundo Tecnológico](https://t.me/MundoTecnologico) - Canal con las mejores Noticias de Tecnología en sólo 2 NOTIFICACIONES DIARIAS.
 * [MovistarNoticias](https://t.me/MovistarNoticias) - Noticias del blog oficial de Movistar
-* [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
+* [Azul Web](https://t.me/AzulWebPost) - Azul Web, medio digital de Tecnología, Ciencia y Educación. -> www.azulweb.net
 * [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
 * [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
 * Domótica
@@ -108,6 +108,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Soberanía Tecnológica](https://t.me/soberania_tecnologica) - Selección de artículos, noticias y tutoriales relacionados con el software libre y la soberanía tecnológica
   * [Geekland](https://t.me/geek_land) - Canal del blog Geekland.eu
   * [SoftwareLibre](https://t.me/software_libre) - Contenido en español sobre software libre - _Copy/Paste de articulos de diferentes medios_
+  * [Yes We Tech](https://t.me/geekandtechgirls) - Comunidad que a través del Software Libre acerca la tecnología a mujeres, a la vez que lucha por una sociedad inclusiva.
 * Cultura Libre
   * [Wikimedia España](https://t.me/wikimedia_es) - Avisos de eventos y noticias de Wikimedia España - www.wikimedia.es
   * [Liberaturadio info](https://t.me/liberaturadio_canal) - Las últimas novedades de la Red de Radios Comunitarias y Software Libre
@@ -314,6 +315,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Tiene [grupo asociado](https://t.me/LineageOS_group)
     * Para [offtopic](https://t.me/lineageos_offtopic)
   * [/e/ announcements](https://t.me/mydataismydata) - Latest news from /e/ - my data is MY data https://e.foundation
+  * [PINE64 News](https://t.me/PINE64_News) - Get notified of PINE64 announcements, news and community updates.
 
 ### Cultura/Ocio/Otros
 * [Planeta DIY - Hazlo tu mismo](https://t.me/DIY_Hazlotumismo)
@@ -520,6 +522,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Andalucía Informa](https://t.me/AndaluciaJunta) - ℹ️ Canal oficial de información ciudadana de la Junta de Andalucía..
 * [INCENDIOS FORESTALES ANDALUCÍA](https://t.me/INFORAND) - 
 * [👩‍🏫 Novedades Junta de Andalucía Educación 👨‍🏫](https://t.me/NoveJuntaEdu) - Sigue todas las Novedades de Educación de Andalucía
+* [El Salto Andalucía](https://t.me/elsalto_and) - Un medio de la gente para una Andalucía con voz propia. Periodismo #ATuVera
 * [Andalucía Justa y Resiliente](https://t.me/andaluciajustayresiliente) - Campaña de sensibilización social y movilización ciudadana
 * [Emergencias Sevilla](https://t.me/EmergenciasSevilla) - 
 * [Almería - Noticias](https://t.me/AlmeriaNoticias) - Almería - Noticias. Noticias de Almería y su provincia.
