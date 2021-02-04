@@ -855,13 +855,13 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Administración de Grupos
 
 * [@join_captcha_bot](https://t.me/join_captcha_bot) - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - To verify if a new user in a group is human - _AntiSpam/bots en el login para grupos_
-* [Shieldy](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam/bots en el login para grupos_
+* [@shieldy_bot](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam/bots en el login para grupos_
 * [@banofbot](https://telegram.me/banofbot) - [Open Source](https://github.com/backmeupplz/banofbot) - allows you to vote for kicking users from groups
 * [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
 * [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
   * [@GroupButlerEsp_bot](https://t.me/GroupButlerEsp_bot) - Bot multiproposito para grupos
-* [@combot](https://t.me/combot) - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
-* [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
+* @combot - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
+* @InviteMemberBot - membership bot platform for paid Telegram channels and groups
 * @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
 
 ### Para encontrar en Telegram
