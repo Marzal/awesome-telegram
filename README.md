@@ -976,11 +976,44 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Código fuente](https://telegram.org/apps#source-code) - For the moment we are focusing on open sourcing the things that allow developers to quickly build something using our API.
 * [Palabra a emoji](https://translations.telegram.org/es/emoji) - _Traducción de Telegram, en la que pones una palabra o simbolo y sugiere un emoji_
 * [Authorization](https://my.telegram.org/auth) - Delete Account or Manage Apps
+* <https://telesco.pe/> - _Muestra una web solo con los videos circulares de un canal_
 
 ### Utilidades
-* https://telesco.pe/ - ***Oficial*** - _Muestra una web solo con los videos circulares de un canal_
-* https://т.website/ - _Generador de previews insertables_
+* <https://т.website/> - _Generador de previews insertables_
+### Funcionamiento
+* https://limits.tginfo.me/en/ - Info y limites de Telegram
+* Tutoriales
+  * [99 funciones de Telegram que no están en WhatsApp](https://www.ardilu.com/apps/telegram-funciones) - Conoce las mejores funciones y trucos de Telegram
+  * [Así es TELEGRAM, la mejor alternativa a WHATSAPP | ChicaGeek](https://www.youtube.com/watch?v=l19qpCDvQb8) - Video con funcionamiento básico - 20 minutos
+  * [Telegram Desktop. Atajos de teclado](https://ugeek.github.io/blog/post/2020-02-28-telegram-desktop-atajos-de-teclado.html) - Por uGeek
 
+### Para bots
+* Info sobre crearlos
+  * [Awesome Telegram Bots](https://github.com/DenisIzmaylov/awesome-telegram-bots#readme) -  Open Source Examples, Libraries and Starter Kits for Telegram Bots to speed up your learning process.
+  * [Awesome Bots](https://github.com/abdelhai/awesome-bots#readme) - A curated list of links and resources about bots. - _Bots en general no especifico de Telegram_
+* Buscadores:
+  * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
+  * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_
+* Listados
+  * https://telegra.ph/Recomendaci%C3%B3n-de-BOTS-de-Androidsis-07-30-2 - Recomendación-de-BOTS-de-Androidsis-07-30-2
+* Utilidades
+  * [telegrun](https://gitlab.com/iMil/telegrun) - Execute local commands via Telegram messages
+
+### Para encontrar canales, grupos o bots
+* Otros listados
+  * [awesome-telegram-lists](https://github.com/lorien/awesome-telegram-lists) - _Listado de listas con recursos de Telegram_
+  * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En inglés y ruso_
+  * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
+  * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
+* Buscadores
+  * https://telegramchannels.me/ - Discover The Best Telegram Channels - _Channels, Groups, and Bots_
+  * https://telegramic.org - Social Telegram Directory - _Channels, Groups, Bots and Stickers_
+  * https://tdirectory.me/ - Discover Popular Telegram Channels, Groups, Bots and Games
+  * https://tgram.io/ - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
+  * Solo Canales
+    * https://canalgram.com/directorio-canales/
+  * Solo Grupos
+    * http://www.grupostelegram.net/
 ### IFTTT
 * Tiempo / Meteorología
   * [WU a TG_Chat](https://ifttt.com/applets/ah7SPBUe-send-a-message-to-a-telegram-chat-if-there-will-be-rain-in-your-area-tomorrow) - Send a message to a Telegram chat if there will be rain in your area tomorrow - _Weather Underground_
@@ -1010,40 +1043,6 @@ send it to Telegram
     * [Foto con # a TG_Chat](https://ifttt.com/applets/xj4WGzXn-post-instagram-photos-with-a-specific-hashtag-to-a-telegram-chat) - Post Instagram photos with a specific hashtag to a Telegram chat
     * [Foto con # a TG_Canal](https://ifttt.com/applets/KEGdKQyw-post-my-instagram-photos-to-telegram-channel) - Post my Instagram photos to Telegram Channel
     * [Foto a TG](https://ifttt.com/applets/D3kgmict-post-your-instagram-pics-to-your-telegram-chat-or-channel) - Post your Instagram pics to your Telegram chat or channel!
-
-### Para bots
-* Info sobre crearlos
-  * [Awesome Telegram Bots](https://github.com/DenisIzmaylov/awesome-telegram-bots#readme) -  Open Source Examples, Libraries and Starter Kits for Telegram Bots to speed up your learning process.
-  * [Awesome Bots](https://github.com/abdelhai/awesome-bots#readme) - A curated list of links and resources about bots. - _Bots en general no especifico de Telegram_
-* Buscadores:
-  * [BotoStore](https://botostore.com/bots/telegram/) - _Buscador de bots con categorías_  
-  * [Telegram Bot List](https://botlist.net/bots/telegram) - _Buscador de bots con categorías_
-* Listados
-  * https://telegra.ph/Recomendaci%C3%B3n-de-BOTS-de-Androidsis-07-30-2 - Recomendación-de-BOTS-de-Androidsis-07-30-2
-* Utilidades
-  * [telegrun](https://gitlab.com/iMil/telegrun) - Execute local commands via Telegram messages
-
-### Funcionamiento
-* https://limits.tginfo.me/en/ - Info y limites de Telegram
-* Tutoriales
-  * [Así es TELEGRAM, la mejor alternativa a WHATSAPP | ChicaGeek](https://www.youtube.com/watch?v=l19qpCDvQb8) - Video con funcionamiento básico - 20 minutos
-  * [Telegram Desktop. Atajos de teclado](https://ugeek.github.io/blog/post/2020-02-28-telegram-desktop-atajos-de-teclado.html) - Por uGeek
-
-### Para encontrar canales, grupos o bots
-* Otros listados
-  * [awesome-telegram-lists](https://github.com/lorien/awesome-telegram-lists) - _Listado de listas con recursos de Telegram_
-  * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En inglés y ruso_
-  * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
-  * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
-* Buscadores
-  * https://telegramchannels.me/ - Discover The Best Telegram Channels - _Channels, Groups, and Bots_
-  * https://telegramic.org - Social Telegram Directory - _Channels, Groups, Bots and Stickers_
-  * https://tdirectory.me/ - Discover Popular Telegram Channels, Groups, Bots and Games
-  * https://tgram.io/ - Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
-  * Solo Canales
-    * https://canalgram.com/directorio-canales/
-  * Solo Grupos
-    * http://www.grupostelegram.net/
 
 
 ## LEYENDA
