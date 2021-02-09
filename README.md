@@ -238,7 +238,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
 * [Telegram Geeks](https://t.me/geekschannel) - 🚀 Join the Telegram Army\!
-* [Telegram Info En](https://t.me/tginfoen) - English mirror of @tginfo
+* [Telegram Info Spain](https://t.me/tginfoesp) - Copia española de @tginfo
 * Aplicaciones
   * [Telegram Android ID Channel](https://t.me/tgaidchannel) - All about related #Telegram #collections & #apps #android [ #official, #unofficial, #mod, #review, #news, etc ]
   * [Telegram Beta](https://t.me/tgbeta) - _Información sobre actualizaciones en Android e iOS principalmente_
@@ -324,6 +324,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Cienciamania](https://t.me/cienciamania) - Canal que recopila los post de los mejores blogs y páginas de ciencia de la web en español
   * [Ciencia Popular](https://t.me/laquimeradegupta) - Canal del blog La Quimera de Gupta. Divulgamos ciencia
   * [Investiga, que algo queda](https://t.me/investigamos) - Recursos, información, recomendaciones y más relacionados con la investigación.
+  * [Ciencia mundana](https://t.me/cienciamundana) - Este es el canal por donde difundo lo que escribo o me parece fundamental.
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
@@ -633,6 +634,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MozillaHubsES](https://t.me/MozillaHubsES) - _(Grupo creado a raiz del evendo esLibre)_
 * Comunidades por tematicas de aplicaciones
   * [Gráfica Libre](https://t.me/graficalibre) - Diseño gráfico, digital, Web, interiores, ilustración, edición de video, D entre otros cientos de tipos de diseño y programas.
+* [Kubernetes Hispano](https://t.me/kubernetes_es) - 
 * En inglés
   * [Nextcloud](https://t.me/Nextcloud) - _English_
   * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
