@@ -602,6 +602,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [OSM España](https://t.me/OSMes) - Grupo de contribuidores/editores de OpenStreetMap en/de España
   * [OpenStreetMap 🌐](https://t.me/OpenStreetMapOrg) - Global OpenStreetMap group.This is not a channel of official OSM communication, refer to IRC and mailinglist instead
 * [Wikipedia en español](https://t.me/es_wiki) - Grupo público sobre Wikipedia un proyecto de Wikimedia
+  * [Cuarto Propio en Wikipedia](https://t.me/CuartoPropioWikipedia) - Espacio abierto de complicidad feminista en torno a la edición de contenidos en Wikipedia.
 * [Wikidata en español](https://t.me/wikidataes) - Grupo público sobre Wikidata un proyecto de Wikimedia
 * [Voro MV](https://t.me/Voro_MV) - Si te gustan las motos, Linux y la tecnología en general, este es tu sitio.
 * [FLOSS_publico](https://t.me/FLOSS_Publico) - Software Libre en el Sector Público
@@ -857,7 +858,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Administración de Grupos
 
 * [@join_captcha_bot](https://t.me/join_captcha_bot) - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - To verify if a new user in a group is human - _AntiSpam/bots en el login para grupos_
-* [@shieldy_bot](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam/bots en el login para grupos_
+* [@shieldy_bot](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam captcha bot solamente, sin administración de grupo_
 * [@banofbot](https://telegram.me/banofbot) - [Open Source](https://github.com/backmeupplz/banofbot) - allows you to vote for kicking users from groups
 * [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
 * [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
