@@ -193,6 +193,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Distros
 * [openSUSE News](https://t.me/opensusenews) - News from https://news.opensuse.org/ - _Oficial_
+  * [Planet openSUSE](https://t.me/openSUSEPlanet) - This is a feed aggregator that collects what the contributors to the openSUSE Project are writing on their respective blogs.
 * [Fedora Project News](https://t.me/fedoranews) - Official news relating to the Fedora Project (getfedora.org). Managed by Fedora Marketing and CommOps teams.
 * [EndeavourOS-news](https://t.me/endeavour_news) - community driven Antergos fork
 * Arch Linux
