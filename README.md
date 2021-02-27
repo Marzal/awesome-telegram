@@ -350,6 +350,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [AprendeINTEF](https://t.me/aprendeintef) - Canal de comunicación #AprendeINTEF. https://aprende.intef.es
   * [Docente 5.1.](https://t.me/docente_innovador) - Todo sobre Materiales, Herramientas y Recursos para aplicar en el ámbito Educativo.
   * [GEOGRAFÍA](https://t.me/GEOGRAFIA) - Todo sobre geografía: Imágenes del mundo, mapas, curiosidades de países y mucho más.
+  * [Peque Sapiens](https://t.me/pequesapiens) - Una forma divertida de aprender!!. Información complementaria y de valor educativo para la etapa escolar.
 * Salud
   * [Urgencias y emergencias](https://t.me/urgenciasyemergencias) - Información, infografías, guías y más
   * [Salud en gotas💧](https://t.me/saludengotas) - Tips&Facts de salud con rigor científico y en castellano.Tratamos de basar todo lo que decimos en estudios bien realizados y replicados(con alto nivel de evidencia)
@@ -423,8 +424,10 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * Familia
   * [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
   * [Un papá como Vader](https://t.me/unpapacomovader) - Blog, podcasts y libros. ¿Te apuntas? 😋
+  * [Criar con Sentido Común](https://t.me/CriarconSentidoComun) - Los mejores contenidos online sobre Crianza Respetuosa, Educación y Salud Infantil.
   * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
   * [Educa en Positivo Conéctate a Tu Hijo](https://t.me/educaenpositivoconectateatuhijo) - Para inspirar, motivar, apoyar a madres y padres en la aventura de educar en el siglo XXI
+  * [Hablemos de Montessori](https://t.me/hablemosdemontessori) - dedicado a la Educación #Montessori
 * Ciencia
   * [Podcastidae](https://t.me/podcastidae) - Canal de difusión de los podcast de a Red Podcastidae.  Red de Podcast de Ciencia, Medio Ambiente y Naturaleza
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
@@ -437,9 +440,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Tiene [grupo](https://t.me/opinafilosofianada)
 * [Al otro lado del micrófono](https://t.me/alotroladodelmicrofono) - noticias, eventos, herramientas, curiosidades y recomendaciones relacionadas con el podcasting.
 * [Porqué podcast](https://t.me/porquepodcast) - navega cada mes hacia rumbo desconocido para regresar cada día 15 al mismo puerto
-* [Hablemos de Montessori](https://t.me/hablemosdemontessori) - dedicado a la Educación #Montessori
-* [Red de podcast Nación Podcaster](https://t.me/nacionpodcast)
-  * Tiene [grupo](https://t.me/nacionpodcaster)
+* [Red de podcast Nación Podcaster](https://t.me/nacionpodcast) - Tiene [grupo](https://t.me/nacionpodcaster)
+* [Canal Asociación Podcast](https://t.me/Asociacionpodcast) - Canal privado para socios y simpatizantes de noticias de la Asociacion Podcast
 * [Carne Cruda](https://t.me/carnecruda) - Recibe nuestros mensajes de texto y voz con las últimas noticias y contenidos. - _Programa de radio_
 * [Colectivo Burbuja](https://t.me/colectivoburbuja) - Medio de comunicación independiente y sin ánimo de lucro que busca proporcionar información veraz sobre el estado real de la economía y la política española.
 * [Historacing](https://t.me/historacing)
@@ -448,6 +450,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
 * [Podium Podcast](https://t.me/s/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
 * [MetaCast 📢](https://t.me/meta_cast) - Reseñas diarias de podcast, principalmente de desarrollo y tecnología, pero hay espacio para otras temáticas.
+* [Cómeme el Podcast](https://t.me/Comemeelpodcast) - Bienvenidos a cómeme el podcast, un espacio en el que nos sumergiremos en el mundo de la sexualidad sin tabus 😈
+* [Darkxander Radio](https://t.me/DarkxanderRadio) - Análisis de canciones, artistas y letras en el tiempo en su contexto
 * En inglés
   * [The minimalists](https://t.me/theminimalistspodcast)- Live a [meaningful](https://www.theminimalists.com/) life with less🍃🗻🌾 _Como vivir con menos, siendo más sostenible_
 
