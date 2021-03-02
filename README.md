@@ -331,6 +331,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
   * [NanoFrames (divulgación científica) ](https://t.me/NanoFrames) - Nos gusta narrar, dibujar y escribir acerca de ciencia, tecnología e ingeniería 
   * [El Museo de la Ciencia](https://t.me/cienciaparatodos) - donde encontraras todos los artículos, enlaces, documentales, etc. sobre ciencia.
+  * [Calendario Cientifico](https://t.me/CalendarioCientifico) - Un aniversario científico para cada día del año.
+Proyecto FECYT FTC 2019 15288
   * Conservación ambiental
     * [OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO](https://t.me/observatorioloboiberico) - Canal oficial OBSERVATORIO DEL ESTADO DE CONSERVACIÓN DEL LOBO IBÉRICO.
     * [Fapas](https://t.me/fapas_spain) - Canal de alertas de noticias generadas por el Fondo para la Protección de los Animales Salvajes (FAPAS)
@@ -423,6 +425,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
 * Familia
   * [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
+    * [Noticias Saludesfera](https://t.me/saludesfera) - Noticias, eventos y acciones de Saludesfera
   * [Un papá como Vader](https://t.me/unpapacomovader) - Blog, podcasts y libros. ¿Te apuntas? 😋
   * [Criar con Sentido Común](https://t.me/CriarconSentidoComun) - Los mejores contenidos online sobre Crianza Respetuosa, Educación y Salud Infantil.
   * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
