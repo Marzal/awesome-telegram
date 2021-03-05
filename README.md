@@ -902,15 +902,16 @@ Proyecto FECYT FTC 2019 15288
   * [@wiki](https://t.me/wiki) - _Consultar la wikipedia dentro de cualquier chat, incluido el del bot_ 
   * @bing - _Imagenes de bing_
 * Soporte
-  * @NoToScam - Reports about scammers are welcome here.
+  * [@NoToScam](https://t.me/NoToScam) - Reports about scammers are welcome here.
   * [@GDPRbot](https://t.me/GDPRbot) - Telegram's Official GDPR bot. _(Para descargar los datos que tiene Telegram sobre ti. Oficial)_
-  * @Username_bot - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
+  * [@Username_bot](https://t.me/Username_bot) - Claim an occupied username for your Telegram account, public group or channel. - _(Solicitar que liberen un alias)_
   * [@VerifyBot](https://t.me/VerifyBot) - This bot can help you verify a Telegram channel, public group or bot. - _Bot para verificar cuentas_
-  * @TelegramAuditions - _(Para solicitar colaborar con Telegram. Oficial)_
+  * [@TelegramAuditions](https://t.me/TelegramAuditions) - _(Para solicitar colaborar con Telegram. Oficial)_
   * [@BotSupport](https://t.me/botsupport) - _(Para mandarles sugerencias sobre los bots. Oficial)_
   * [@SpamBot](https://t.me/SpamBot) - The official Spam Info Bot by Telegram. Helps users with limited accounts regain the full functionality.
   * [@previews](https://t.me/Previews) - Use this bot to leave feedback about webpage previews generated for Telegram's Instant View feature.
   * [@jobs_bot](https://t.me/jobs_bot) - This bot lists career opportunities at Telegram and accepts candidates' applications. Available at telegram.org/jobs
+  * [@PressBot](https://t.me/PressBot) - This bot can be used to submit press requests to the Telegram team.
 
 ### Utilidades
 
