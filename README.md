@@ -371,6 +371,7 @@ Proyecto FECYT FTC 2019 15288
 * Historia
   * [Historia en cápsulas](https://t.me/capsulahistoria) - Canal de fotografías y anécdotas históricas
   * [Carrusel por la Historia](https://t.me/HistoriayArqueologia) - Novedades históricas y artículos histórico-paleontológicos
+  * [Forgotten Heroes](https://t.me/fheroes) - Forgotten Heroes es un proyecto de contenido audiovisual sobre eventos históricos y mitología. 
 * Arte / Dibujo
   * [Devir ✅ .](https://t.me/jude_devir) - Devir ✅ 💢<ORIGINAL CHANEL>💢 🔰Maya and me have some story every week and share with you ^^ 🔰So we're enjoy to join us. - _(Tira cómica de pareja)_
   * [Art planet](https://t.me/artplanet) - Art planet
