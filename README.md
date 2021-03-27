@@ -521,6 +521,7 @@ Proyecto FECYT FTC 2019 15288
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
 * [Empleo Público Región de Murcia](https://t.me/EmpleopublicoRM) - Información sobre los procesos selectivos (oposiciones) de la Administración Pública Regional
+* [Actividades ANSE](https://t.me/asociacionanse) - Info de próximas actividades
 * Cartagena
   * [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
   * [Yayoflautas Cartagena](https://t.me/YayosCt) - 
