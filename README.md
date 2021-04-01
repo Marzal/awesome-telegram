@@ -512,20 +512,23 @@ Proyecto FECYT FTC 2019 15288
 ### Regionales
 #### Región de Murcia
 * [Residuo Cero Region de Murcia](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
-* [Ruta de la tapa vegana de Murcia 😋🥑 ](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
-* [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
-  * [Ayuntamiento de Lorca](https://t.me/AytoLorca) - Canal oficial del Ayuntamiento de Lorca
 * [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_
+* [Actividades ANSE](https://t.me/asociacionanse) - Info de próximas actividades
 * [CÍRCULOS DE CONSUMO LOCAL](https://t.me/unidadyaccion_federacion) - Trata de contribuir desde nuestra acción como consumidores y usuarios a través de la compra, a REACTIVAR NUESTRA ECONOMÍA REGIONAL
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
 * [MC Hacking familiar](https://t.me/hackingfamiliar) - Trucos para hacer la vida más fácil a las familias. Salud, nutrición, viajes, cumpleaños, hogar, educación, seguridad infantil, gadgets...
 * [Empleo Público Región de Murcia](https://t.me/EmpleopublicoRM) - Información sobre los procesos selectivos (oposiciones) de la Administración Pública Regional
-* [Actividades ANSE](https://t.me/asociacionanse) - Info de próximas actividades
 * Cartagena
   * [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
   * [Yayoflautas Cartagena](https://t.me/YayosCt) - 
   * [#ElDigitalCT](https://t.me/eldigitalct) - Canal Oficial del Diario El Digital Cartagena
+* Murcia y alrededores
+  * [Ruta de la tapa vegana de Murcia 😋🥑](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
+  * [Coordinadora de Barrios de Alcantarilla](https://t.me/CoordiBarriosAlcantarilla) - Colectivo vecinal. Entidad sin animo de lucro para la infancia víctima de injusticias sociales.
+* Lorca
+  * [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
+  * [Ayuntamiento de Lorca](https://t.me/AytoLorca) - Canal oficial del Ayuntamiento de Lorca
 * Parados
   * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
   * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
