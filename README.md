@@ -8,7 +8,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### Medioambiente / Sostenibilidad
 * [ZeroWaste / Residuo Cero](https://t.me/ResiduoCero) - Información referente a la filosofía de vida Zero Waste y medioambiente - _(1 noticia diaria de media)_
   * Tiene [grupo asociado](https://t.me/ZeroWaste_ResiduoCero) - Grupo para comentar las noticias del canal @ResiduoCero administrado por @ResiduoCeroRM
-* [Noticia Veganas](https://t.me/noticiasveganas) - Noticias e información sobre veganismo
+* [Noticias Veganas](https://t.me/noticiasveganas) - Noticias e información sobre veganismo _(Basado en ciencia)_
 * [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente.
 * [BlogSOSTENIBLE - Ecología y más](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
 * [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
@@ -130,6 +130,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### GNU/Linux
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - Cada día se mostrará una aplicación de Linux.
+* [CoDigo Abierto "FOSS"](https://t.me/software_de_codigo_libre_FOSS) - Canal  dedicado a compartir y  distribuir software libre de código abierto.
 * [Phoronix News](https://t.me/Phoronix) - Phoronix News. - _Benchmarks y reviews en inglés_
 * [Linuxgram 🐧](https://t.me/linuxgram) - News and info from the Linux world 🐧
 * [omg! ubuntu!](https://t.me/omgubuntu) - Get notified of the latest posts, what we're planning, and how you can help.
@@ -233,6 +234,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * Temas
     * [Android Themes Channel](https://t.me/AndroidThemes) - Android Themes for all!
     * [Desktop Themes Channel](https://t.me/themes) - Desktop Themes for all!
+  * [Demo Store](https://t.me/TestStore) - This test store features the most exotic imaginary goods no money can buy, so you can test how Telegram Payments 2.0 work without spending a penny.
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
 * [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
   * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
@@ -846,14 +848,14 @@ Proyecto FECYT FTC 2019 15288
 * [Ad Sidera Vultus. Astronomía para todos](https://t.me/adsideravultus) - "Mira a las estrellas",  sitio para hablar sobre el cosmos, plantear dudas, divulgar sobre exploración espacial e investigación en astronomía.
 
 ## BOTs
-`Usar bots tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
+`Usar bots (si no son SL y los despliegas tu mismo) tiene sus consideraciones de privacidad, probarlos teniendo en cuenta el contenido que se les manda`
 
-* @Politi_bot - Piezas informativas e infografías de manera interactiva
 * @bulobot - Para enviar bulos a los de [Maldito Bulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
 * @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 * [@wwwhatsnew](https://t.me/Wwwhatsbot) - Muestra de forma automática las noticias publicadas en WWWhatsnew
+* @Politi_bot - Piezas informativas e infografías de manera interactiva - `[Parado]`
 
 ### Encuestas
 
