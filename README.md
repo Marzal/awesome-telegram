@@ -61,6 +61,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [El Huffpost](https://t.me/elhuffpost) - Última hora, actualidad, opinión y tendencias en El Huffington Post.
   * [Público](https://t.me/publico_es) - Canal oficial de Público
   * [El Periódico política](https://t.me/elperiodico) - Toda la información política de El Periódico
+  * [laSexta](https://t.me/la_sexta) - Canal oficial de laSexta. Noticias e información
 * Recopilaciones
   * [NoticiasCompartidas](https://t.me/noticiascompartidas) - Las noticias más comentadas/compartidas en redes sociales de El País, El Mundo, ABC y eldiario.
   * [Ecotechers](https://t.me/ecotechers) - Boletín semanal sobre economía digital, startups e innovación. Por el periodista Jesús Martínez (@jesusmargon).
@@ -73,6 +74,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Pikara Magazine](https://t.me/pikaramagazine) - Revista que ofrece periodismo y opinión con un enfoque feminista, crítico, transgresor y disfrutón.
   * [El Orden Mundial - EOM](https://t.me/elordenmundialeom) - El Orden Mundial en el Siglo XXI (EOM) es un medio digital de análisis internacional privado e independiente. - `[Parado desde Junio]`
   * [CTXT](https://t.me/ctxtes) - Revista Contexto desde el que iremos informando puntualmente de las publicaciones más destacadas.
+  * Agencias
+    * [Europa Press](https://t.me/europa_press) - La agencia de noticias privada líder en España
   * En otro idioma
     * [Medios internacionales](https://t.me/mediosinternacionales) - Noticias más comentadas y/o compartidas en redes sociales de una selección de medios internacionales
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
@@ -469,6 +472,7 @@ Proyecto FECYT FTC 2019 15288
 * Comunicación/AAPP
   * [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
   * [Comunicación política #COMPOL](https://t.me/comunicacionypolitica) - Canal creado por Verónica Crespo (@vcrespo03) para compartir contenidos y recursos sobre comunicación y política 
+  * [Juanjo Aragón - Administraciones Públicas](https://t.me/juanjoaragon) - Novedades y artículos sobre Administraciones Públicas....
 * Partidos
   * [PODEMOS](https://t.me/ahorapodemos) - Canal de Telegram oficial de PODEMOS.
     * [En el Exterior Podemos](https://t.me/podemosexterior) - círculos en el exterior
@@ -498,6 +502,7 @@ Proyecto FECYT FTC 2019 15288
 * Instituciones
   * [Ministerio de Sanidad](https://t.me/sanidadgob) - Canal oficial del Ministerio de Sanidad en Telegram - _Mayormete un clon de la cuenta de Twitter_
   * [Vicepresidencia Cuarta y Ministerio para la Transición Ecológica y el Reto Demográfico](https://t.me/Mitecogob) - Canal oficial de Comunicación
+  * [DIFUSIÓN MINISTERIO SOCIAL](https://t.me/VSocialGob_Difusion) - Canal de difusión de las publicaciones de la Vicepresidencia de Derechos Sociales y Agenda 2030.
   * [Ministerio de Transportes, Movilidad y Agenda Urbana](https://t.me/mitmagob) - Canal oficial del Ministerio de Transportes, Movilidad y Agenda Urbana.
   * [AEMET España](https://t.me/AEMET_ES) - Titulares de la AEMET con todos los avisos por meteorología adversa, información general, oposiciones, cursos y becas, oposiciones, personal laboral, etc.
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
@@ -506,6 +511,9 @@ Proyecto FECYT FTC 2019 15288
   * [Ayuntamientos](https://amalialopezacera.com/listado-de-71-canales-de-telegram-de-ayuntamientos-activos) - Listado de 71 canales de Telegram de ayuntamientos (activos) por "El Blog de Amalia López Acera"
   * [BORME diario](https://t.me/BORMEdiario) - Titulares diarios (de lunes a viernes, excepto fines de semana y festivos nacionales), del Boletín Oficial del Registro Mercantil.
   * [Agencia Tributaria](https://t.me/AEAT_ESP) - Todas las novedades referentes a aduanas, empleo público, interrupciones del servicio en la Sede Electrónica, interés, novedades en impuestos
+  * [Articulo con recopilaciones](https://amalialopezacera.com/canales-de-telegram-de-personas-que-trabajan-en-las-administraciones-publicas/) - Canales de Telegram de personas que trabajan en las administraciones públicas
+* Legislación
+  * [Economist&Jurist](https://t.me/EconomistJurist) - Noticias y actualidad jurídica - económica
 * Internacional
   * [DOUE diario](https://t.me/DOUEdiario) - El Diario Oficial de la Unión Europea (DO)
   * [Euribor diario](https://t.me/Euribordiario) - Cotización diaria, análisis semanales y mensuales del Euribor.
