@@ -508,7 +508,7 @@ Proyecto FECYT FTC 2019 15288
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
-  * [Ayuntamientos](https://amalialopezacera.com/listado-de-71-canales-de-telegram-de-ayuntamientos-activos) - Listado de 71 canales de Telegram de ayuntamientos (activos) por "El Blog de Amalia López Acera"
+  * [Ayuntamientos](https://amalialopezacera.com/167-canales-de-telegram-de-ayuntamientos-actualizado-2021/) - 167 canales de Telegram de ayuntamientos (actualizado 2021) por "El Blog de Amalia López Acera"
   * [BORME diario](https://t.me/BORMEdiario) - Titulares diarios (de lunes a viernes, excepto fines de semana y festivos nacionales), del Boletín Oficial del Registro Mercantil.
   * [Agencia Tributaria](https://t.me/AEAT_ESP) - Todas las novedades referentes a aduanas, empleo público, interrupciones del servicio en la Sede Electrónica, interés, novedades en impuestos
   * [Articulo con recopilaciones](https://amalialopezacera.com/canales-de-telegram-de-personas-que-trabajan-en-las-administraciones-publicas/) - Canales de Telegram de personas que trabajan en las administraciones públicas
