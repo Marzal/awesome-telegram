@@ -80,30 +80,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Medios internacionales](https://t.me/mediosinternacionales) - Noticias más comentadas y/o compartidas en redes sociales de una selección de medios internacionales
     * [The New York Times World](https://t.me/nytimes_world) - Find breaking news, world news, and multimedia on Africa, Canada, Mexico, South and Central America, Asia, Europe, the Middle East and Iraq.
 
-### Informática y Tecnología
-* [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
-* [Xataka](https://t.me/xataka) - Apasionados por la tecnología
-* [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
-* [Wwwhatsnew](https://t.me/wwwhatsnew) - Las mejores noticias de wwwhatsnew.com
-* [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
-* [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
-* [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
-* [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
-* [uLinks](https://t.me/ulinks) - Descubrimos tesoros en Internet y los compartimos. Un tentáculo más de https://superpatanegra.com
-* [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
-* [Mundo Tecnológico](https://t.me/MundoTecnologico) - Canal con las mejores Noticias de Tecnología en sólo 2 NOTIFICACIONES DIARIAS.
-* [MovistarNoticias](https://t.me/MovistarNoticias) - Noticias del blog oficial de Movistar
-* [Azul Web](https://t.me/AzulWebPost) - Azul Web, medio digital de Tecnología, Ciencia y Educación. -> www.azulweb.net
-* [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
-* [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
-* Domótica
-  * [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
-    * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica.
-  * [Enlaces y Material Domology 2.0](https://t.me/linksdomology) - Enlaces, archivos e info de proyectos sobre Domótica interesantes.
-    * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
-* English
-  * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
-
 ### Software Libre / FLOSS
 * Software Libre
   * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
@@ -220,6 +196,31 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 * [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
+
+### Informática y Tecnología
+* [EntrevistasenDiferido](https://t.me/entrevistaendiferido) - Canal donde se realizan entrevistas a diferentes personas sobre temas relacionados con la informática - _(Tiene grupo asociado)_
+* [Xataka](https://t.me/xataka) - Apasionados por la tecnología
+* [Genbeta](https://t.me/genbeta) - Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.
+* [Wwwhatsnew](https://t.me/wwwhatsnew) - Las mejores noticias de wwwhatsnew.com
+* [Microsiervos](https://t.me/microsiervos) - Ciencia, tecnología, internet y mucho más
+* [MuyComputer](https://t.me/muycomputer) - Toda la actualidad tecnológica y mucho más, en MuyComputer.com.
+* [Tecnoyciencia](https://t.me/tecnoyciencia) - Diario de Información tecnológica y científica
+* [Noticias Tecnologia](https://t.me/NoticiasTecnologia) - Noticias Tecnologia, Ciencia y Curiosidades
+* [uLinks](https://t.me/ulinks) - Descubrimos tesoros en Internet y los compartimos. Un tentáculo más de https://superpatanegra.com
+* [⭕️ Aitor Roma - Canal Oficial](https://t.me/aitorroma) - Entusiasta de la tecnología y la Automatización
+* [ADSLZone](https://t.me/ADSLzoneNet) - Todas las noticias sobre Internet, Fibra Óptica, tecnología, ofertas, tarifas, operadores ¡y más!
+* [Mundo Tecnológico](https://t.me/MundoTecnologico) - Canal con las mejores Noticias de Tecnología en sólo 2 NOTIFICACIONES DIARIAS.
+* [MovistarNoticias](https://t.me/MovistarNoticias) - Noticias del blog oficial de Movistar
+* [Azul Web](https://t.me/AzulWebPost) - Azul Web, medio digital de Tecnología, Ciencia y Educación. -> www.azulweb.net
+* [URE](https://t.me/URE_ES) - Unión de Radioaficionados Españoles
+* [Comunidad A182](https://t.me/ComunidadA182) - Canal de telefonía y multimedia - _Con enlace a muchos grupos sobre compañías telefónicas._
+* Domótica
+  * [Domótica En Casa](https://t.me/domoticaencasa) - Toda la información relacionada con la domótica para nuestros hogares
+    * Tiene [grupo](https://t.me/GizChinaHomeAssistant) - Grupo público para poder ayudar y ser ayudado a la hora de implementar cualquier sistema de domótica.
+  * [Enlaces y Material Domology 2.0](https://t.me/linksdomology) - Enlaces, archivos e info de proyectos sobre Domótica interesantes.
+    * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
+* English
+  * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - Hacker News stories as soon as they reach 600 points.
 
 ### Telegram
 * Oficiales
@@ -660,6 +661,7 @@ Proyecto FECYT FTC 2019 15288
 * Comunidades por tematicas de aplicaciones
   * [Gráfica Libre](https://t.me/graficalibre) - Diseño gráfico, digital, Web, interiores, ilustración, edición de video, D entre otros cientos de tipos de diseño y programas.
 * [Kubernetes Hispano](https://t.me/kubernetes_es) - 
+* [Comunidad N8N en Español](https://t.me/comunidadn8n) - Comunidad de usuarios de N8N  de Habla Hispana! https://comunidad-n8n.com
 * En inglés
   * [Nextcloud](https://t.me/Nextcloud) - _English_
   * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
