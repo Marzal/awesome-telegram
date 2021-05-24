@@ -591,6 +591,7 @@ Proyecto FECYT FTC 2019 15288
 * [Agenda Balear 2030](https://t.me/Govern) - Canal de comunicació del Govern de les Illes Balears. Informació, vídeos, animacions...al teu abast ;)
 
 #### Galicia
+* [Caderno de bitácora sonoro do banco de reciclaxe electrónica de ESF e Ecos do Sur](https://t.me/bitacora_sonora_banco_reciclaxe) - Caderno de bitácora sonoro do banco de reciclaxe electrónica de ESF e Ecos do Sur
 * [Actividades feministas Galicia](https://t.me/ActividadesFemGalicia) - Nesta canle iremos engadindo tódalas actividades feministas que vaiamos atopando.
 
 #### Madrid
@@ -945,6 +946,7 @@ Proyecto FECYT FTC 2019 15288
 * [@do2bot](https://t.me/do2bot) - [Open Source](https://github.com/Lunaresk/python_telegram_do2bot) - Create and share todo lists for own or clollaborative purposes 
 * [@dwgrambot](https://t.me/dwgrambot) - [Open Source](https://github.com/ShiSHcat/dwgram-lib-php) - Easy open source link generator
 * [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
+* [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot) - [Open Source](https://github.com/Helias/EPUB-to-PDF) - _transforma rápidamente un libro o documento en formato epub a pdf_
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@rss2tg_bot](@rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
 * [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available. - _Algunas opciones son de pago (5 feeds gratis), funciona en canales y grupos_
