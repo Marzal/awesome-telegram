@@ -591,7 +591,7 @@ Proyecto FECYT FTC 2019 15288
 * [Agenda Balear 2030](https://t.me/Govern) - Canal de comunicació del Govern de les Illes Balears. Informació, vídeos, animacions...al teu abast ;)
 
 #### Galicia
-* [Caderno de bitácora sonoro do banco de reciclaxe electrónica de ESF e Ecos do Sur](https://t.me/bitacora_sonora_banco_reciclaxe) - Caderno de bitácora sonoro do banco de reciclaxe electrónica de ESF e Ecos do Sur
+* [Caderno de bitácora sonoro do banco de reciclaxe electrónica de ESF e Ecos do Sur](https://t.me/bitacora_sonora_banco_reciclaxe) - Caderno de bitácora multimedia do banco de reciclaxe electrónica de ESF e Ecos do Sur
 * [Actividades feministas Galicia](https://t.me/ActividadesFemGalicia) - Nesta canle iremos engadindo tódalas actividades feministas que vaiamos atopando.
 
 #### Madrid
@@ -786,6 +786,7 @@ Proyecto FECYT FTC 2019 15288
 ### Podcasts sin canal
 
 * [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
+* [Veganismo](https://t.me/podcastveganismo) - Directos del podcast veganismo.org
 * Tecnología
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
