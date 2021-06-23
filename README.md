@@ -562,6 +562,7 @@ Proyecto FECYT FTC 2019 15288
 #### Aragón
 * [Gobierno de Aragón Comunicacion](https://t.me/gobiernoaragon) - Información diaria Gobierno de Aragón
 * [Ecologistas Huesca](https://t.me/EcologistasHuesca) - Información y actividades de las asambleas locales de Ecologistas en Acción en la provincia de Huesca
+* [Periodistas de Aragón](https://t.me/periodistasaragon) - Toda la información y novedades del periodismo y la comunicación en Aragón 💻 periodistasdearagon.org
 
 #### Canarias
 * [Convocatorias Canarias](https://t.me/convocatoriascanarias) - Todas las próximas convocatorias de Movimentos sociales en Canarias
@@ -786,7 +787,7 @@ Proyecto FECYT FTC 2019 15288
 ### Podcasts sin canal
 
 * [Podcast "Actualidad y Empleo Ambiental"](https://t.me/podcastActualidadEmpleoAmbiental) - para comentar, debatir, proponer y todo lo que se nos ocurra\!
-* [Veganismo](https://t.me/podcastveganismo) - Directos del podcast veganismo.org
+* [Veganismo](https://t.me/podcastveganismo) - Directos del podcast veganismo.org - _Grupo para comentar cuando están grabando_
 * Tecnología
   * [Entre Dev y Ops 🎙](https://t.me/entredevyops) - Comunidad del [podcast](https://www.entredevyops.es)
   * [Home Studio Libre](https://t.me/HomeStudioLibre) - Producción y postproducción de audio y vídeo con herramientas libres.
@@ -864,6 +865,7 @@ Proyecto FECYT FTC 2019 15288
 
 * @bulobot - Para enviar bulos a los de [Maldito Bulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
+* [@INCIBE017](https://t.me/INCIBE017) - INCIBE - Línea de Ayuda en Ciberseguridad. Disponible de 9 a 21 h. - _USUARIO para solicitar ayuda_
 * @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 * [@wwwhatsnew](https://t.me/Wwwhatsbot) - Muestra de forma automática las noticias publicadas en WWWhatsnew
@@ -949,6 +951,7 @@ Proyecto FECYT FTC 2019 15288
 * [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
 * [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot) - [Open Source](https://github.com/Helias/EPUB-to-PDF) - _transforma rápidamente un libro o documento en formato epub a pdf_
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
+* [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts by search or recommendation system, deliver notification on new episods.
 * [@rss2tg_bot](@rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
 * [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available. - _Algunas opciones son de pago (5 feeds gratis), funciona en canales y grupos_
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
@@ -987,6 +990,7 @@ Proyecto FECYT FTC 2019 15288
     * [@lmddgtfybot](https://t.me/lmddgtfybot) - Let Me DuckDuckGo That For You / Send an inline query to @lmddgtfybot and I will provide you the best sites to troll your lazy friend. - _(Tambien Wikipedia, Google y Bing)_
   * @gamebot - _Una buena colección de minijuegos_
 * Buscadores de letras de canciones
+  * [@LetraMusicalRobot](https://t.me/LetraMusicalRobot) - You can get the lyrics of your favorite songs.
   * @song_lyrics_bot
   * @iLyricsBot - _También inline_
   * @BingMusicBot - _También vídeos_
