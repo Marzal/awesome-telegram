@@ -503,8 +503,13 @@ Proyecto FECYT FTC 2019 15288
 * Instituciones
   * [Ministerio de Sanidad](https://t.me/sanidadgob) - Canal oficial del Ministerio de Sanidad en Telegram - _Mayormete un clon de la cuenta de Twitter_
   * [Vicepresidencia Cuarta y Ministerio para la Transición Ecológica y el Reto Demográfico](https://t.me/Mitecogob) - Canal oficial de Comunicación
+  * [Ministerio de Consumo](https://t.me/consumogob) - Bienvenidos al canal oficial de Telegram del Ministerio de Consumo.
+  * [Ministerio de Asuntos Económicos y Transformación Digital](https://t.me/minecogob) - Canal oficial del Ministerio de Asuntos Económicos y Transformación Digital
+  * [Ministerio de Educación y FP](https://t.me/MEFPtelegram) - Bienvenidos al canal oficial de Telegram del MEFP.
   * [DIFUSIÓN MINISTERIO SOCIAL](https://t.me/VSocialGob_Difusion) - Canal de difusión de las publicaciones de la Vicepresidencia de Derechos Sociales y Agenda 2030.
   * [Ministerio de Transportes, Movilidad y Agenda Urbana](https://t.me/mitmagob) - Canal oficial del Ministerio de Transportes, Movilidad y Agenda Urbana.
+  * [663 290 227](https://www.mjusticia.gob.es/es/atencion-ciudadano) - servicio de información general al ciudadano.
+  * [Ministerio de Defensa](https://t.me/defensagob) - Canal oficial del Ministerio de Defensa en Telegram - `[Parado]`
   * [AEMET España](https://t.me/AEMET_ES) - Titulares de la AEMET con todos los avisos por meteorología adversa, información general, oposiciones, cursos y becas, oposiciones, personal laboral, etc.
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
