@@ -511,6 +511,8 @@ Proyecto FECYT FTC 2019 15288
   * [663 290 227](https://www.mjusticia.gob.es/es/atencion-ciudadano) - servicio de información general al ciudadano.
   * [Ministerio de Defensa](https://t.me/defensagob) - Canal oficial del Ministerio de Defensa en Telegram - `[Parado]`
   * [AEMET España](https://t.me/AEMET_ES) - Titulares de la AEMET con todos los avisos por meteorología adversa, información general, oposiciones, cursos y becas, oposiciones, personal laboral, etc.
+  * [INCIBE - Instituto Nacional de Ciberseguridad](https://t.me/INCIBE017Informacion) - Instituto Nacional de Ciberseguridad dependiente del Ministerio de Asuntos Económicos y Transformación Digital
+    * _Tiene usuario para consultas_ [@INCIBE017](https://t.me/INCIBE017) - INCIBE - Línea de Ayuda en Ciberseguridad. Disponible de 9 a 21 h.
   * [Dirección General De Tráfico](https://t.me/DGT_ES) - Canal de la DGT. Información útil sobre seguridad vial y movilidad. Otras consultas en http://www.dgt.es
   * [Guardia Civil 🇪🇸](https://t.me/GuardiaCivil) - "El honor es mi principal divisa" - _No oficial_
   * [Policías de España](https://t.me/policias) - Información de utilidad para este cuerpo de seguridad. _No oficial_
@@ -870,7 +872,6 @@ Proyecto FECYT FTC 2019 15288
 
 * @bulobot - Para enviar bulos a los de [Maldito Bulo](https://t.me/malditobulo)
 * @bulo_blocker_bot - Para mandarle enlaces de noticias medioambientales (URLs) con el comando /bulo y GreenPeace las investiga.
-* [@INCIBE017](https://t.me/INCIBE017) - INCIBE - Línea de Ayuda en Ciberseguridad. Disponible de 9 a 21 h. - _USUARIO para solicitar ayuda_
 * @eltiempoBot - Predicciones meteorológicas y notificaciones diarias para los municipios de España.
 * @aemetbot - Consulta el tiempo de tu localidad. Sólo España.
 * [@wwwhatsnew](https://t.me/Wwwhatsbot) - Muestra de forma automática las noticias publicadas en WWWhatsnew
