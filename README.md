@@ -50,6 +50,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [MALDITO BULO](https://t.me/malditobulo) - Verificación en Maldita.es. Desmontamos bulos y desinformaciones. Tenemos un @bulobot de Telegram al que enviarle enlaces e imágenes para ser si están ya verificadas.
   * [Newtral.es](https://t.me/newtral_telegram) - Periodismo, tecnología y datos. Contamos historias que importan, desmentimos noticias falsas y hacemos fact-checking.
     * [Pronóstika](https://t.me/pronostika_es) - El juego de actualidad política de Newtral
+* [Informativo Ángel Martín](https://t.me/informativoangelmartin) - Canal oficial de las noticias de Ángel Martín - _Resumen diario en 7m30s_
 * Periódicos
   * [eldiario.es](https://t.me/eldiarioes) - Sistema de alertas informativas
   * [elsaltodiario.com](https://t.me/elsaltodiario) - El canal de alertas informativas de El Salto. Hilamos fino, te molestamos lo justo.
