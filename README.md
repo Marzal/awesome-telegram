@@ -123,16 +123,16 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Linux Administration](https://t.me/LinuxAdministration) - `[Parado desde 2019-06]`
 
 #### Podcasts
-* [24H24L](https://t.me/evento24h24l) - evento en línea, de 24 horas de duración, consta de 24 audios con formato de podcast, acerca del uso de GNU / Linux, las experiencias profesionales y personales de varios participantes y moderadores, contadas en seis categorías
+* [KDE Express Podcast](https://t.me/KDEexpress) - Podcast con noticias y novedades de la comunidad KDE.
 * [Compilando Podcast](https://t.me/compilandopodcast) - GNU/Linux y software libre
 * [Podcast Linux](https://t.me/podcastlinux) - Canal de Telegram para Podcast Linux de @JuanFebles. Noticias + Audios de Linux Express
-* [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [GNU/Linux Valencia](https://t.me/canalgnulinuxvalencia) - Nuestro objetivo es la difusión de GNU/Linux. Se pretenden hacer reuniones mensuales para realizar desde instalaciones en equipos, resolver problemas, mostrar facilidad de uso, funcionamiento, etc...
   * Tienen [grupo](https://t.me/gnulinuxvalencia) -
+* [Canal atareao](https://t.me/canal_atareao) - _(Tiene grupo asociado)_
 * [El Podcast de Eduardo](https://t.me/elpodcast) - [Podcast](https://www.eduardocollado.com) sobre Redes, Linux, Hosting .... y directos.
   * Grupo asociado [Grupo Podcast](https://t.me/grupopodcast) para comentar los capítulos - _(+ de todo un poco)_
   * Canal asociado [Audios - El Podcast de Eduardo](https://t.me/elpodcastaudios) - Audios del podcast
-* [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
+* [24H24L](https://t.me/evento24h24l) - evento en línea, de 24 horas de duración, consta de 24 audios con formato de podcast, acerca del uso de GNU / Linux, las experiencias profesionales y personales de varios participantes y moderadores, contadas en seis categorías
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
   * [Grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [uGeek](https://t.me/uGeek) - Toda la actualidad de Linux, Android, Raspberry Pi, impresoras 3D…
@@ -142,6 +142,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
 * [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado compartido con Tomando un Cafe_
   * [ARM(alternativas a Raspberry)](https://t.me/AlternativasRaspberry) - Grupo sobre alternativas a Raspberry, donde hablaremos de marcas como Pine64,OrangePi,NanoPI, BananaPi,LibreComputer y otras marcas.
+* [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
 * [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
@@ -828,6 +829,7 @@ Proyecto FECYT FTC 2019 15288
   * [Hack&Sec Murcia](https://t.me/hackandsecmurcia) - Este es un espacio de crecimiento personal para todo aquel que quiera aprender seguridad informática, donde todos podamos compartir conocimientos y poco a poco crear una comunidad en Murcia de gente con los mismos intereses
   * [Grupo Residuo Cero Región de Murcia](https://t.me/RegionMurciaResiduoCero) - Grupo para comentar las noticias y experiencias relacionadas con la sostenibilidad en toda la Región de Murcia
   * [Senderismo Cartagena-Murcia🌄](https://t.me/senderismocartagenamurcia) - 
+  * [Murcia, agricultura orgánica y permacultura, ecoaldeas.... 🍀](https://t.me/murciapuntoes) - Grupo para intercambiar todo tipo de experiencias.
   * Grupo privado de "Cartagena News" de CartagenaNews con noticias sobre la ciudad - _(Cartagena.España)_
   * Por localización
     * Cartagena
