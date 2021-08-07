@@ -142,6 +142,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Aviones De Papel](https://t.me/avionesdepapel) - Canal del Podcast Aviones de Papel - _Tiene grupo privado_
 * [ARM para TODOS](https://t.me/ARMparaTodos) - Canal donde están los audios del podcast ARM para Todos - _Tiene grupo privado compartido con Tomando un Cafe_
   * [ARM(alternativas a Raspberry)](https://t.me/AlternativasRaspberry) - Grupo sobre alternativas a Raspberry, donde hablaremos de marcas como Pine64,OrangePi,NanoPI, BananaPi,LibreComputer y otras marcas.
+* [Galego Geek Blog](https://t.me/galegogeekblog) - Aquí podréis encontrar todos los enlaces a las entradas de mi blog
+
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
