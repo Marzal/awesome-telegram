@@ -34,13 +34,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### ONGs / Asociaciones
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
-* [UNICEF_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
-* [FACUA](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
 * [esXRebellion](https://t.me/EsXrebellion) - ESXrebellion: Extinción/Rebelión es una movimiento que a través  de la desobediencia civil, masiva, pacífica y sostenida en el tiempo  presiona a la clase política y busca activar a la sociedad ante el colapso climático y la crisis existencial q viene.
 * [Juventud por el Clima - Fridays for Future España](https://t.me/jxclima) - Bienvenidx al canal oficial de Juventud por el Clima!! Por aquí publicaremos nuestras campañas, sentadas, acciones, asambleas...  - _Tiene canal asociado_
   * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
 * [CANAL CONBICI](https://t.me/conbici) - Canal de difusión de ConBici, noticias sobre la bicicleta como parte de la solución a la movilidad y sostenibilidad.
 * [Madres por el clima](https://t.me/Madresxelclima) - `[Parado desde 2019-12]` - Pero tienen [grupo activo](https://t.me/madresporelclima)
+* [UNICEF_es](https://t.me/unicef_es) - Trabajamos para que se cumplan todos los derechos de todos los niños y las niñas. Te unes?
+* [FACUA](https://t.me/facua) - Luchamos contra los abusos. Somos FACUA. Tu fuerza.
+* [OCU Noticias](https://t.me/ocunoticias) - Canal de Noticias de la Organizacion de Consumidores y Usuarios (OCU)
 * [Goteo.org](https://t.me/goteofunding) - La plataforma de crowfunding de proyectos con alto impacto social, impulso procomún y desarrollo cívico
 * [ANASMA](https://t.me/anasma) - Por un mundo rural sin barreras, en la mitad sur de la Península Ibérica - _Asociación Naturalista Aullidos de Sierra Madrona_
 
