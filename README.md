@@ -267,7 +267,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Bot Updates](https://t.me/BotUpdates) - The team that makes life better with using bots.
 * [Controller Updates](https://t.me/ControllerUpdates) - Status updates and small announcements related to @ControllerBot
 * [@MiTrackingBot - Info y novedades](https://t.me/MiTracking) - MiTrackingBot - Info y novedades de @MiTrackingbot: en este canal se irá añadiendo información relevante sobre el bot y todas sus mejoras. También puedes debatir en @MiTrackingChat
-* [WJClub News](https://t.me/WJClubNews) - Official News Channel of @WJClub (Noticias sobre algunos bots de encuestas) - `[Parado 2019-07]`
 * [Bots Channel](https://t.me/BotsChannel) - `[Parado 2018-06]`
 
 #### Directorios / Guías
@@ -888,8 +887,6 @@ Proyecto FECYT FTC 2019 15288
 ### Encuestas
 
 * @ultimate_pollbot - [Open Source](https://github.com/Nukesor/ultimate-poll-bot) - _Crea encuestas de todo tipo_
-* @groupagreebot - _Crea encuestas de todo tipo_ - `[Offline]`
-  * @advancedpollbot - _Crea encuestas de todo tipo y permite añadir opciones en caliente_
 
 ### Gestión canales / RRSS
 
