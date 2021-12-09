@@ -324,6 +324,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MovilZona](https://t.me/MovilZonaES) - Reviews, tutoriales, curiosidades, noticias y opinión en tu canal de tecnología.
 * En inglés
   * [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
+  * [TuxPhones - Linux phones, tablets, wearables](https://t.me/tuxphones) - News and resources about Linux on phones, tablets and wearables
   * [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
   * [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
     * Tiene [grupo asociado](https://t.me/LineageOS_group)
