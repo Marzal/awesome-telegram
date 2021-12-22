@@ -964,6 +964,9 @@ Proyecto FECYT FTC 2019 15288
 * [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
 * [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot) - [Open Source](https://github.com/Helias/EPUB-to-PDF) - _transforma rápidamente un libro o documento en formato epub a pdf_
 * [@AnyVideoDownloadBot](https://t.me/AnyVideoDownloadBot) - [Open source](https://github.com/Borodutch/VideoDownloadBot) - Send me a video link, I'll upload it to Telegram.
+* [@SurtidorBot](https://t.me/SurtidorBot) - [Open source](https://github.com/ormeno/combustible_bot) - Consulta el precio de las gasolineras más cercanas a ti.
+* [@Restaurants4UBot](https://t.me/Restaurants4UBot) - [Open source](https://github.com/ormeno/restaurants4U_bot) - Para pedir comida al estilo Delivero usando Telegram PAidments y la opcion de crear un catalogo de platos.
+* [@libretaxi_bot](https://t.me/libretaxi_bot) - [Open source](https://libretaxi.org/) - Alternativa a Uber, conectado pasajeros y conductores con código abierto.
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts by search or recommendation system, deliver notification on new episods.
 * [@rss2tg_bot](@rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
