@@ -247,8 +247,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * [Desktop Themes Channel](https://t.me/themes) - Desktop Themes for all!
   * [Demo Store](https://t.me/TestStore) - This test store features the most exotic imaginary goods no money can buy, so you can test how Telegram Payments 2.0 work without spending a penny.
 * [Open Source Telegram](https://t.me/OpenSourceTelegram) - Is Telegram Open Source yet?
-* [Privacy Today](https://t.me/privacytoday) - All things privacy, open source, libre philosophy and more! - _Aspectos de privacidad en Telegram_
-  * Tiene [grupo](https://t.me/PTuring) - _Para entrar en el grupo real hay que leer el mensaje de bienvenida,no ser un bot y saber inglés. OJO Muchísimos mensajes_
 * [Más➕TELEGRAM👑🚀](https://t.me/mastelegram) - Toda la información para que expriman al 100 esta aplicación: consejos, tips, betas, estables y mucho más. - _(Tiene grupo asociado)_
 * [Stickers Animados](https://t.me/StickersAnimados) - Los mejores Stickers Animados de Telegram aquí
 * [Trending Stickers](https://t.me/TrendingStickers) - _Nuevos Stickers con info y su autor_
