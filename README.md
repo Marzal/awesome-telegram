@@ -679,6 +679,7 @@ Proyecto FECYT FTC 2019 15288
   * [NoCode OpenSource](https://t.me/NoCodeOpen) - El NoCode también es OpenSource
 * [Kubernetes Hispano](https://t.me/kubernetes_es) - 
 * [Comunidad N8N en Español](https://t.me/comunidadn8n) - Comunidad de usuarios de N8N  de Habla Hispana! https://comunidad-n8n.com
+* [HestiaCP en Español](https://t.me/HestiaCPSpain) - Aprende todos los beneficios de este magnífico panel de Hosting OpenSource
 * En inglés
   * [Nextcloud](https://t.me/Nextcloud) - _English_
   * [Mautrix-Telegram Bridge](https://t.me/mautrix_telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
