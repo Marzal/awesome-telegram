@@ -528,6 +528,7 @@ Proyecto FECYT FTC 2019 15288
   * [Articulo con recopilaciones](https://amalialopezacera.com/canales-de-telegram-de-personas-que-trabajan-en-las-administraciones-publicas/) - Canales de Telegram de personas que trabajan en las administraciones públicas
 * Legislación
   * [Economist&Jurist](https://t.me/EconomistJurist) - Noticias y actualidad jurídica - económica
+  * [Civio](https://t.me/civio) - Las últimas novedades de Civio y de El BOE nuestro de cada día
 * Internacional
   * [DOUE diario](https://t.me/DOUEdiario) - El Diario Oficial de la Unión Europea (DO)
   * [Euribor diario](https://t.me/Euribordiario) - Cotización diaria, análisis semanales y mensuales del Euribor.
