@@ -85,7 +85,6 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 ### Software Libre / FLOSS
 * Software Libre
-  * [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
   * [Victorhck](https://t.me/victorhck) - GNU/Linux - openSUSE - software libre
   * [feminismo 💜 soft.libre 🗝 tecnología 👩‍💻](https://t.me/feminismo_y_tecnologia) - Un canal (por fin) para mujeres y disidentes de género sobre tecnología y software libre
   * [Soberanía Tecnológica](https://t.me/soberania_tecnologica) - Selección de artículos, noticias y tutoriales relacionados con el software libre y la soberanía tecnológica
@@ -166,16 +165,14 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
 * [Desde Linux](https://t.me/desdelinuxweb) - Linux en estado puro. Las noticias de última hora y tutoriales más variados y completos.
 * [Linux Adictos](https://t.me/linuxadictos) - Linux para auténticos adictos y fans. Noticias cada día y los tutoriales más completos que podrás encontrar.
-* [masLinuXBlog](https://t.me/canalmaslinuxblog) - Canal sólo artículos del blog - Tiene [Grupo](https://t.me/MasGNULinuXBlog)
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
 * [Ubunlog (Ubuntu y Linux)](https://t.me/ubunlog) - Noticias de Ubuntu y Linux, con los tutoriales más completos.
-* [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre.
+* [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre. - `[Parado]`
 
 #### Eventos
-* [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast)
+* [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
+* [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast) - `[Poco actualizado]`
   * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
-* [lyt20](https://t.me/lyt16) - Linux y Tapas en **León** capital.
-  * Tiene [grupo](https://t.me/linuxytapas) - Grupo de participación e información
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
 
 #### Distros
@@ -340,6 +337,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Investiga, que algo queda](https://t.me/investigamos) - Recursos, información, recomendaciones y más relacionados con la investigación.
   * [Ciencia mundana](https://t.me/cienciamundana) - Este es el canal por donde difundo lo que escribo o me parece fundamental.
   * [BIOLOGÍA Y NATURALEZA](https://t.me/Biologia_Naturaleza) - Artículos, Fichas, Notas, Infografías, Imágenes, Videos y Documentales relacionados con las ciencias de la naturaleza y en especial la biología y sus ramas.
+  * [nibö - niboe.info](https://t.me/niboe) - Divulgación científica responsable e inclusiva.
   * [MARIPOSAS IBÉRICAS](https://t.me/mariposasibericas) - Mariposas de la Península Ibérica
   * [Que pasa con tus Bichitos](https://t.me/ConoceTusBichos) - Mini Documentales de Animales
   * [NanoFrames (divulgación científica) ](https://t.me/NanoFrames) - Nos gusta narrar, dibujar y escribir acerca de ciencia, tecnología e ingeniería 
@@ -862,6 +860,8 @@ Proyecto FECYT FTC 2019 15288
   * [GULiC](https://t.me/GrupoDeUsuariosDeLinuxDeCanarias) - Gente de Canarias, simpatizantes del Software Libre
 * Cataluña
   * [Col.lectiu Ronda](https://t.me/collectiuronda) - Cooperativa d'assessorament jurídic, laboral i social
+* Castilla y Leon
+  * [Linux y Tapas en **León** capital](https://t.me/linuxytapas) - Grupo de participación e información
 * Islas Baleares
   * [XR Ibiza Global Collaborators](https://t.me/joinchat/C5cQDxPVIPB_3rhhqEgUig) - For English speaking people that like to collaborate with XR Ibiza
 
