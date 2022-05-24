@@ -658,6 +658,7 @@ Proyecto FECYT FTC 2019 15288
 * [Género y SL](https://t.me/generoysl) - Mapeando un Software Libre feminista
 * [GUTL Oficial](https://t.me/GUTLOficial) - Grupo de Usuarios de Tecnologías Libres.
 * [FOSDEM en español](https://t.me/fosdem_ES) - hispanoparlantes en el FOSDEM
+* [AULAS LIBRES (Google fuera)](https://t.me/aulaslibres) - Grupo de @inter_ferencias para unir a profes, AMPA y alumnado por la soberanía digital en las aulas
 * Hispalinustálgicos _(Con invitación)_
 * FLOSS
   * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
