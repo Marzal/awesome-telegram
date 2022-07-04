@@ -161,6 +161,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
 * [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
+* [Nos Gusta Linux](https://t.me/nosgustalinux) - GNU/Linux, software, tutoriales, noticias y reviews. En youtube.com/nosgustalinux y en nosgustalinux.es. Un proyecto de @makigas.
 * [LaMiradaDelReplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre - _Calidad frente a cantidad_
 * [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
 * [Desde Linux](https://t.me/desdelinuxweb) - Linux en estado puro. Las noticias de última hora y tutoriales más variados y completos.
