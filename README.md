@@ -200,6 +200,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 
 #### Empresas
 * [Slimbook](https://t.me/slimbook) - Slimbook TEAM news. Portátiles y equipos de gama alta con Linux preinstalado desde Valencia
+  * [Linux Center](https://t.me/linuxcenteres) - [Espacio multidisciplinar](https://linuxcenter.es/) en Valencia, pensado para divulgar el código abierto y las tecnologías libres en el que la comunidad es protagonista.
 * [VANT](https://t.me/vantpc) - Portátiles y sobremesas linuxeros, muy linuxeros desde Valencia
 * [JuncoTIC - juncotic.com](https://t.me/juncotic) - Cursos, capacitaciones y consultoría en tecnologías libres - _Cursos online y presenciales_
 
@@ -547,12 +548,16 @@ Proyecto FECYT FTC 2019 15288
   * [ParoMujeresCt](https://t.me/ParoMujeresCt) - Paro Internacional de Mujeres Cartagena
   * [Yayoflautas Cartagena](https://t.me/YayosCt) - 
   * [#ElDigitalCT](https://t.me/eldigitalct) - Canal Oficial del Diario El Digital Cartagena
+  * [Ayuntamiento de Cartagena](https://t.me/aytocartagenaes) - Canal oficial de Telegram del Ayuntamiento de Cartagena 🏛️
+  * [Colectivo GALACTYCO 🏳‍🌈⚧💜](https://t.me/colectivogalactyco) - Toda la información sobre la actividad del Colectivo GALACTYCO, la asociación LGBTIQ+ autonómica en Cartagena y comarca. 💪🏽🏳‍🌈⚧💜🌱
 * Murcia y alrededores
   * [Ruta de la tapa vegana de Murcia 😋🥑](https://t.me/rutavegana) - Toda la información 🗞 sobre la Ruta de la tapa vegana de Murcia en tu mano
   * [Coordinadora de Barrios de Alcantarilla](https://t.me/CoordiBarriosAlcantarilla) - Colectivo vecinal. Entidad sin animo de lucro para la infancia víctima de injusticias sociales.
 * Lorca
   * [112Lorca](https://t.me/Lorca112) - Servicio de Emergencias Municipal y Protección Civil de Lorca.
   * [Ayuntamiento de Lorca](https://t.me/AytoLorca) - Canal oficial del Ayuntamiento de Lorca
+* Supra-regionales
+  * [Difusión OSEL](https://t.me/DivulgacionOSEL) - Comunidad de intercambios basados en la Sustentabilidad y la Equidad Local en Murcia_Alacant.
 * Parados
   * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
   * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
@@ -678,6 +683,7 @@ Proyecto FECYT FTC 2019 15288
 * Comunidades por tematicas de aplicaciones
   * [Gráfica Libre](https://t.me/graficalibre) - Diseño gráfico, digital, Web, interiores, ilustración, edición de video, D entre otros cientos de tipos de diseño y programas.
   * [NoCode OpenSource](https://t.me/NoCodeOpen) - El NoCode también es OpenSource
+  * [OSGeo.es](https://t.me/osgeoes) - Grupo de discusión en español para la comunidad de software libre geoespacial
 * [Kubernetes Hispano](https://t.me/kubernetes_es) - 
 * [Comunidad N8N en Español](https://t.me/comunidadn8n) - Comunidad de usuarios de N8N  de Habla Hispana! https://comunidad-n8n.com
 * [HestiaCP en Español](https://t.me/HestiaCPSpain) - Aprende todos los beneficios de este magnífico panel de Hosting OpenSource
