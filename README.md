@@ -34,7 +34,8 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 ### ONGs / Asociaciones
 * [Ecologistas en Acción](https://t.me/ecologistas) - Ecologistas en Acción. Somos una confederación de grupos ecologistas. Con una estructura asamblearia, formamos parte del ecologismo social.
 * [Greenpeace_esp](https://t.me/greenpeace_esp) - Organización ecologista y pacifista, económica y políticamente independiente, no acepta donaciones ni presiones de Gobiernos o empresas
-* [esXRebellion](https://t.me/EsXrebellion) - ESXrebellion: Extinción/Rebelión es una movimiento que a través  de la desobediencia civil, masiva, pacífica y sostenida en el tiempo  presiona a la clase política y busca activar a la sociedad ante el colapso climático y la crisis existencial q viene.
+* [INDICE GRUPOS XR-ESPAÑA](https://t.me/GruposXRSpain) - Índice de grupos de telegram de EXTINCTION REBELLION EXPAÑA
+  * [esXRebellion](https://t.me/EsXrebellion) - ESXrebellion: Extinción/Rebelión es una movimiento que a través  de la desobediencia civil, masiva, pacífica y sostenida en el tiempo  presiona a la clase política y busca activar a la sociedad ante el colapso climático y la crisis existencial q viene.
 * [Juventud por el Clima - Fridays for Future España](https://t.me/jxclima) - Bienvenidx al canal oficial de Juventud por el Clima!! Por aquí publicaremos nuestras campañas, sentadas, acciones, asambleas...  - _Tiene canal asociado_
   * [fff date planning and polling](https://t.me/fffdateplanning) - This group is ONLY for dateplanning stuff
 * [Economía Solidaria / REAS Red de Redes](https://t.me/ESS_REAS) - Noticias más destacadas de la Economía Solidaria y REAS
@@ -324,7 +325,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Fairphone Blog](https://t.me/fairphoneblog) - Unofficial Fairphone Blog Channel
   * [TuxPhones - Linux phones, tablets, wearables](https://t.me/tuxphones) - News and resources about Linux on phones, tablets and wearables
   * [UBports News Channel](https://t.me/ubports_news) - The very latest from the UBports Community\!
-  * [LineageOS ](https://t.me/LineageOS) - `[Parado desde 2019-03]`
+  * [LineageOS ](https://t.me/LineageOS) - `XR[Parado desde 2019-03]`
     * Tiene [grupo asociado](https://t.me/LineageOS_group)
     * Para [offtopic](https://t.me/lineageos_offtopic)
   * [/e/ announcements](https://t.me/mydataismydata) - Latest news from /e/ - my data is MY data https://e.foundation
@@ -477,7 +478,7 @@ Proyecto FECYT FTC 2019 15288
   * [1906 news](https://t.me/news1906) - Encuestas y estudios de opinión. Procesos electorales.
   * [Electomania](https://t.me/electomania) - Web especializada en política nacional y encuestas.
 * Comunicación/AAPP
-  * [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicas
+  * [Amalia López Acera RRSS AAPP MarcaPersonal](https://t.me/amalialopezacera) - Canal con información y recursos sobre redes sociales para personas que trabajan en las administraciones públicasXR
   * [Comunicación política #COMPOL](https://t.me/comunicacionypolitica) - Canal creado por Verónica Crespo (@vcrespo03) para compartir contenidos y recursos sobre comunicación y política 
   * [Juanjo Aragón - Administraciones Públicas](https://t.me/juanjoaragon) - Novedades y artículos sobre Administraciones Públicas....
 * Partidos
@@ -491,10 +492,7 @@ Proyecto FECYT FTC 2019 15288
   * [Izquierda Unida🔻](https://t.me/iunida) - Canal oficial de Izquierda Unida en Telegram. #PorUnNuevoPaís más justo, digno, democrático y soberano.
     * [Animalistas IU](https://t.me/AnimalistasIU) - Canal oficial de comunicación del Movimiento Animalista de IU, Área Federal de Izquierda Unida que trabaja por los Derechos Animales.
   * [PACMA](https://t.me/PartidoPACMA) - Todas las campañas y acciones del único partido en España que defiende sin excusas los derechos de los animales, el medioambiente y la justicia social.
-  * [☠️ PIRATAS.org ☠️](https://t.me/PiratasORG) - Canal del Movimiento Pirata en el Estado español ☠️
-* Congreso de los Diputados (Madrid)
-  * [Congreso de los Diputados](https://t.me/CongresodelosDiputados) - Canal para estar al tanto de la actualidad del Congreso
-    * [BOE diario](https://t.me/BOEdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
+  * [☠️ PIRATAS.org ☠️](https://t.me/PiratasOXRTitulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
     * [La Moncloa](https://t.me/LaMoncloa_ES) - Últimos titulares desde La Moncloa a medida que se vayan produciendo y publicando oficialmente.
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
   * [Podemos Congreso](phttps://t.me/podemoscongreso) - Toda la actualidad de PODEMOS en el Congreso - `[Parado desde 2018]`
