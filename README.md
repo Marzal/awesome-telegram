@@ -538,7 +538,6 @@ Proyecto FECYT FTC 2019 15288
 * [Noticias veganas Región de Murcia / SurEste peninsular](https://t.me/MurciaVegana) - 🌿 Información, noticias y eventos veganos. Promoviendo la cultura vegana en la 🍋 Región de Murcia. 💪
 * [AGENDA SOCIAL SE](https://t.me/AgendaSocialSE) - Canal de la Region de Murcia SÓLO para CONVOCATORIAS (fecha y lugar) de ASAMBLEAS ABIERTAS o actividades gratuitas (criterio 15M, culturales... ).
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
-* [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_
 * [Actividades ANSE](https://t.me/asociacionanse) - Info de próximas actividades
 * [CÍRCULOS DE CONSUMO LOCAL](https://t.me/unidadyaccion_federacion) - Trata de contribuir desde nuestra acción como consumidores y usuarios a través de la compra, a REACTIVAR NUESTRA ECONOMÍA REGIONAL
 * [BORM diario](https://t.me/BORMdiario) - Titulares diarios (de lunes a sábado) del Boletín Oficial de la Región de Murcia.
@@ -561,6 +560,7 @@ Proyecto FECYT FTC 2019 15288
 * Parados
   * [Ubicaciones La Manga](https://t.me/UbiLaManga) - Ubicaciones La Manga `[Parado desde 2018]`
   * [Greenpeace Murcia](https://t.me/GPMurcia) - GreenPeace Murcia - `[Sin contenido]`
+  * [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_ - `[2023-05]`
 * [Ayuntamientos](https://amalialopezacera.com/167-canales-de-telegram-de-ayuntamientos-actualizado-2021/) - 167 canales de Telegram de ayuntamientos (actualizado 2021) por "El Blog de Amalia López Acera"
 
 #### Andalucía
