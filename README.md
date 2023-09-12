@@ -535,6 +535,7 @@ Proyecto FECYT FTC 2019 15288
 ### Regionales
 #### Región de Murcia
 * [Residuo Cero Region de Murcia](https://t.me/ResiduoCeroRM) - Información sobre noticias Zero Waste en la Región de Murcia
+* [Noticias veganas Región de Murcia / SurEste peninsular](https://t.me/MurciaVegana) - 🌿 Información, noticias y eventos veganos. Promoviendo la cultura vegana en la 🍋 Región de Murcia. 💪
 * [AGENDA SOCIAL SE](https://t.me/AgendaSocialSE) - Canal de la Region de Murcia SÓLO para CONVOCATORIAS (fecha y lugar) de ASAMBLEAS ABIERTAS o actividades gratuitas (criterio 15M, culturales... ).
 * [Cecilio Cean](https://t.me/ceciliocean) - Medio de comunicación social, solidario y altruista.
 * [@LaOpiniondeMurcia_bot](https://t.me/LaOpiniondeMurcia_bot) - La Opinión de Murcia _Es un bot, pero funciona como un canal_
