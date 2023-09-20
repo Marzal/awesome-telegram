@@ -378,6 +378,7 @@ Proyecto FECYT FTC 2019 15288
    * [DSP - Dietética Sin Patrocinadores](https://t.me/dieteticasinpatrocinadores) - Canal de noticias de Dietética Sin Patrocinadores. Más info en @dieteticasin en Twitter, Facebook e Instagram. - `[Parado desde 2019-02]`
    * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
    * [Recetas veganas 😋](https://t.me/recetas_veganas) - Recetas veganas de sana y deliciosa comida
+   * [Veganos de España](https://t.me/veganosspain) - Veganos de España para compartir información útil y de calidad del universo Vegan. Veganizan tu dieta, estilo de vida...
    * [Canal Veggie](https://t.me/recetasveggiesconamor) - Canal de recetas vegetarianas y veganas y más! - _Tiene grupo privado asociado_
    * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, [Abandonado desde 2016], pero tiene material interesante.
  * Huertos
