@@ -11,6 +11,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Noticias Veganas](https://t.me/noticiasveganas) - Noticias e información sobre veganismo _(Basado en ciencia)_
 * [ECO Inteligencia](https://t.me/ecointeligencia) - Capacidad de desarrollar productos y servicios diseñados para que desde su creación hasta el final de su vida útil sean beneficiosos para el Medio Ambiente.
 * [BlogSOSTENIBLE - Ecología y más](https://t.me/blogsostenible) - Noticias e ideas de ecología, justicia y política ecológica. La sostenibilidad no es opcional. Máximo 1 mensaje diario (de media).
+* [El club epistolar de la ecocosmo](https://t.me/ecoepistolar) - Sobre sostenibilidad, vida lenta y otras cosas que nos hacen felices.
 * [Ecoinventos](https://t.me/ecoinventos) - Reciclaje, Energías renovables, medio ambiente, eficiencia energética y desarrollo sostenible.
 * [Trabaja en Medio Ambiente](https://t.me/trabajaenmedioambiente) - Canal asociado a la web de busqueda de empleo ambiental - _Dos mesanjes diarios con las ofertas de trabajo_
 * [Bioemprender](https://t.me/bioemprender) - becas, ofertas de trabajo, prácticas remuneradas
