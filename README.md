@@ -230,6 +230,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
     * Complemento del grupo [@Domology](https://t.me/Domology) - Grupo Dedicado A Aprender Y Colaborar Sobre El Apasionante Mundo De La Domótica
 * English
   * [Important stories alert for Hacker News](https://t.me/important_stories_alert_hacknews) - [Open Source](https://github.com/tanrax/important-stories-alert-for-hacker-news) - Hacker News stories as soon as they reach 600 points.
+  * [CatOps](https://t.me/catops) - News and notes about DevOps culture, SRE, and more.
 
 ### Telegram
 * Oficiales
