@@ -973,7 +973,7 @@ Proyecto FECYT FTC 2019 15288
 * [@AnyDLBot](https://t.me/AnyDLBot) - [Open Source](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source ALL-In-One Telegram RoBot, that can do lot of things
 * [@do2bot](https://t.me/do2bot) - [Open Source](https://github.com/Lunaresk/python_telegram_do2bot) - Create and share todo lists for own or clollaborative purposes 
 * [@dwgrambot](https://t.me/dwgrambot) - [Open Source](https://github.com/ShiSHcat/dwgram-lib-php) - Easy open source link generator
-* [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](http://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
+* [@EuromillionsBot](https://t.me/EuromillionsBot) - [Open Source](https://fopina.github.io/tgbot-euromillionsbot/) - lets you check Euromillions results and receive alerts when new ones are announced.
 * [@epub_to_pdf_bot](https://t.me/epub_to_pdf_bot) - [Open Source](https://github.com/Helias/EPUB-to-PDF) - _transforma rápidamente un libro o documento en formato epub a pdf_
 * [@AnyVideoDownloadBot](https://t.me/AnyVideoDownloadBot) - [Open source](https://github.com/Borodutch/VideoDownloadBot) - Send me a video link, I'll upload it to Telegram.
 * [@SurtidorBot](https://t.me/SurtidorBot) - [Open source](https://github.com/ormeno/combustible_bot) - Consulta el precio de las gasolineras más cercanas a ti.
