@@ -1,7 +1,7 @@
 # awesome-telegram
 Listado de Canales, Grupos, Bots y Recursos de Telegram
 
-[Novedades](https://gitlab.com/listados/awesome-telegram/commits/master) - Historial de cambios de este listado
+[Novedades](https://gitlab.com/listados/awesome-telegram/-/commits/master) - Historial de cambios de este listado
 
 ## CANALES
 
@@ -150,7 +150,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [Ochobitshacenunbyte.com](https://t.me/ochobitshacenunbyte) - Canal de los seguidores de la [web](https://www.ochobitshacenunbyte.com)
 * [Mosqueteroweb](https://t.me/mosqueterowebencanal) - Para publicar los contenidos creados por mi: podcasts, artículos, promociones, sorteos y otros.
 * [Podcast Inside](https://t.me/systeminsideaudio) - Todos los Podcast de SystemInside. [https://tupodcast.com](https://tupodcast.com) (Parado desde 2019-03)
-* [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](http://maratonlinuxero.org/)
+* [Maratón Linuxero](https://t.me/maraton_linuxero) - Proyecto de emisión en vivo de [podcasts linuxeros](https://maratonlinuxero.gitlab.io/)
   * Tiene [grupo](https://t.me/maratonlinuxero) - Emisiones podcasteras sobre software libre.
 * [GDF Estudio](https://t.me/gdfestudio) - Entérate de en qué se está trabajando en GDF Estudio antes que nadie. Magia y Tecnología. Podcast Rebasando el Horizonte
 * [Killall Radio Podcast Telegram](https://t.me/killallradiopodcast) - Audios colaborativos del Killall Radio Team. - `[Parado desde 2019-05]`
@@ -160,12 +160,12 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [La semana PHP](https://t.me/lasemanaphp) - Ofertas de trabajo diarias de PHP y su ecosistema: Symfony, Laravel, WordPress, Drupal,...
 
 #### Blogs
-* [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://muylinux.com)
+* [MuyLinux](https://t.me/muylinux) - Linux, FLOSS y mucho más, en [https://MuyLinux.com](https://www.muylinux.com/)
 * [Colaboratorio](https://t.me/colaboratorio) - Nanomedios y experiencias virtuales
 * [SoloLinux](https://t.me/sololinux_es) - Telegram oficial de sololinux.es
 * [Nos Gusta Linux](https://t.me/nosgustalinux) - GNU/Linux, software, tutoriales, noticias y reviews. En youtube.com/nosgustalinux y en nosgustalinux.es. Un proyecto de @makigas.
 * [LaMiradaDelReplicante](https://t.me/lamiradadelreplicante) - Blog sobre Linux y Software Libre - _Calidad frente a cantidad_
-* [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](http://www.voidnull.es)
+* [_voidNull](https://t.me/voidnullblog) - Canal Oficial del blog [_ voidNull](https://voidnull.es/)
 * [Desde Linux](https://t.me/desdelinuxweb) - Linux en estado puro. Las noticias de última hora y tutoriales más variados y completos.
 * [Linux Adictos](https://t.me/linuxadictos) - Linux para auténticos adictos y fans. Noticias cada día y los tutoriales más completos que podrás encontrar.
 * [Emezeta](https://t.me/Emezeta) -Blog [https://www.emezeta.com/](https://www.emezeta.com/) - `[Sin contenido]`
@@ -173,7 +173,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [NeoSiteLinux](https://t.me/neositelinux) - Canal de NeoSitelinux.com sobre GNU/Linux, software y cultura libre. - `[Parado]`
 
 #### Eventos
-* [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [http://charla.esLib.re](http://charla.eslib.re)
+* [esLibre - anuncios](https://t.me/esLibre_anuncios) - Sigue la actividad de [https://eslib.re/](https://eslib.re/)
 * [OpenExpo Europe Channel](https://t.me/OpenExpo) - Noticias de OpenExpo Europe y Más Allá De La Innovación(Podcast) - `[Poco actualizado]`
   * Tiene [grupo asociado](https://t.me/OpenExpoEurope) - Web del [evento](https://openexpoeurope.com/es/) empresarial que publica el podcast ["Más allá de la innovación"](https://masalladelainnovacion.com)
 * [Opensouthcode](https://t.me/opensouthcode) - Evento software libre y opensource. **Málaga** - `[Parado]`
@@ -237,7 +237,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
   * [Telegram News](https://t.me/telegram) - The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
     * [Telegram en español](https://t.me/TelegramES) - Canal oficial de Telegram en español
   * [Telegram Tips](https://t.me/TelegramTips) - Videos con uso de funcionalidades
-    * [Tips de Telegram](http://t.me/TelegramTipsES) - Traducción al español oficial de Telegram Tips
+    * [Tips de Telegram](https://t.me/TelegramTipsES) - Traducción al español oficial de Telegram Tips
   * [Telegram Desktop](https://t.me/desktop) - The official Telegram Desktop channel, firsthand information from the developer.
   * [Durov's Channel](https://telegram.me/durov) - This is where I post thoughts about Telegram in a slightly less formal and more direct way than in the official Telegram blog. - _El fundador de Telegram_
   * [Telegram Designers](https://t.me/designers) - Feature suggestions for Telegram from designers all over the world. If you want to contribute, send your UI mockups to @design_bot
@@ -276,7 +276,7 @@ Listado de Canales, Grupos, Bots y Recursos de Telegram
 * [GameeApp](https://t.me/gameeapp) - Unofficial Complete list of games by @gamee. Requires Telegram v 3.13
 
 ### Seguridad
-* [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](http://unaaldia.hispasec.com/)
+* [Una al día](https://t.me/unaaldia) - Canal de Telegram con las noticias diarias de [UAD.](https://unaaldia.hispasec.com/)
 * [CyberSecurityPulse](https://t.me/cybersecuritypulse) - Canal de noticias y reflexiones sobre ciberseguridad del equipo de innovación y laboratorio de ElevenPaths
 * [CCN-CERT](https://t.me/CCNCERT) -Capacidad de Repuesta a Incidentes del Centro Criptológico Nacional que, como CERT Gubernamental Nacional, contribuye a reforzar la ciberseguridad en España.
 * GINSEG
@@ -428,7 +428,7 @@ Proyecto FECYT FTC 2019 15288
   * [NASeros Podcast](https://t.me/naserospodcast) - Sigue los podcast de Naseros.com en Telegram
     * [Grupo oficial](https://t.me/NASeros) - NAS, redes, almacenamiento, multimedia y seguridad. Y [grupo para novatos](https://t.me/NASzeros)
   * [eDucando Geek](https://t.me/educandogeek) - encontrarás refencias a mi experiencia de uso con diferentes dispositivos, ordenadores, etc. - _Solo audios_
-  * [sobre la marcha](http://t.me/sobre_la_marcha) - Grupo para oyentes del podcast “sobre la marcha” - _Tecnología, curiosidades y el día a día desde Australia._
+  * [sobre la marcha](https://t.me/sobre_la_marcha) - Grupo para oyentes del podcast “sobre la marcha” - _Tecnología, curiosidades y el día a día desde Australia._
   * [Órbita friki](https://t.me/orbitafrikinews) - Podcast donde @igorregidor y @tescaso hablan sobre libros, comics, series, peliculas, juegos o hacen entrevistas a representantes de la comunidad friki.
     * Tiene [grupo](https://t.me/orbitafriki) - Descubre, disfruta y comparte esas aficiones que vives con pasión. Podcast Orbita Friki (antes Reto Friki)
   * [Ingenieria Inversa](https://t.me/ingenieriainversa) - Tecnología y Retroinformatica
@@ -440,7 +440,7 @@ Proyecto FECYT FTC 2019 15288
   * [mixx.io](https://t.me/mixx_io) - Actualidad, información y opiniones sobre tecnología - Tiene [Grupo](https://t.me/mixxiocomunidad)
 * Programación
   * [Republica Web](https://t.me/republicaweb) - dirigido a todas las personas que se ganan la vida con la web. Hablamos con libertad sobre cuestiones relacionadas con internet y nuestra profesión de formadores y desarrolladores web. _Tiene grupo [privado](https://republicaweb.es/)_
-  * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.danielprimo.io/podcast) / historias que tienen que ver con la programación y el desarrollo web
+  * [Web Reactiva](https://t.me/webreactiva) - enlaces a los nuevos episodios de [Web Reactiva](https://www.webreactiva.com/podcast) / historias que tienen que ver con la programación y el desarrollo web
 * Familia
   * [Noticias Madresfera](https://t.me/NoticiasMadresfera) - Noticias y promos madresféricas al día
     * [Noticias Saludesfera](https://t.me/saludesfera) - Noticias, eventos y acciones de Saludesfera
@@ -469,7 +469,7 @@ Proyecto FECYT FTC 2019 15288
 * [Viajo en Moto](https://t.me/viajoenmoto)
   * Tiene [grupo](https://t.me/chat_viajo_en_moto)
 * [Casus Belli Podcast](https://t.me/casusbellipodcast) - ¡Vive la Historia Bélica del Siglo XX! Programa de Pódcast.
-* [Podium Podcast](https://t.me/s/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
+* [Podium Podcast](https://t.me/PodiumPodcast) - Red de Podcasting con muchos podcast - _Del grupo Prisa Radio_
 * [MetaCast 📢](https://t.me/meta_cast) - Reseñas diarias de podcast, principalmente de desarrollo y tecnología, pero hay espacio para otras temáticas.
 * [Cómeme el Podcast](https://t.me/Comemeelpodcast) - Bienvenidos a cómeme el podcast, un espacio en el que nos sumergiremos en el mundo de la sexualidad sin tabus 😈
 * [Darkxander Radio](https://t.me/DarkxanderRadio) - Análisis de canciones, artistas y letras en el tiempo en su contexto
@@ -498,7 +498,7 @@ Proyecto FECYT FTC 2019 15288
   * [☠️ PIRATAS.org ☠️](https://t.me/PiratasOXRTitulares diarios (de lunes a sábado) del Boletín Oficial del Estado.
     * [La Moncloa](https://t.me/LaMoncloa_ES) - Últimos titulares desde La Moncloa a medida que se vayan produciendo y publicando oficialmente.
   * [PP Congreso](https://t.me/GPPopular) - en el Congreso de los Diputados
-  * [Podemos Congreso](phttps://t.me/podemoscongreso) - Toda la actualidad de PODEMOS en el Congreso - `[Parado desde 2018]`
+  * [Podemos Congreso](https://t.me/podemoscongreso) - Toda la actualidad de PODEMOS en el Congreso - `[Parado desde 2018]`
 * Sindicatos
   * [Canal CCOO](https://t.me/canalccoo) - Canal de la Confederación Sindical de Comisiones Obreras
   * [UGT Comunicación](https://t.me/ugt_es) - Canal de noticias de la Unión General de Trabajadores
@@ -618,7 +618,7 @@ Proyecto FECYT FTC 2019 15288
 * [Actividades feministas Galicia](https://t.me/ActividadesFemGalicia) - Nesta canle iremos engadindo tódalas actividades feministas que vaiamos atopando.
 
 #### Madrid
-* [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](http://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
+* [LibreLabUCM](https://t.me/librelabucm) - [Asociación de estudiantes](https://librelabucm.org) de Tecnologías Libres en la UCM. ¡Noticias y actualidad del software libre\!
   * Tiene grupo: [LLU - LibreLabUCM](https://t.me/LLUchat) - Somos una asociación de estudiantes que apoya la tecnología libre, la cultura libre, el hacking y la seguridad... y nos gusta pasarlo en grande\!
 * Sostenibilidad
   * [XR Madrid](https://t.me/XRMadrid) - Canal de Extinction Rebellion Madrid. Entérate de todas las actividades del movimiento en la ciudad.💚✊🏽
@@ -701,7 +701,7 @@ Proyecto FECYT FTC 2019 15288
 * [ShurLinuxeros Amantes de GNU/Linux](https://t.me/shurlinuxeros) - _Poco movimiento_
 * DEB
   * [Debian_es](https://t.me/Debian_es) - Grupo sobre Debian de hispano hablantes.
-    * [Devuan en Español](https://t.me/devuan_es) - Grupo [oficial](https://devuan.org) de Devuan en Español
+    * [Devuan en Español](https://t.me/devuan_es) - Grupo [oficial](https://www.devuan.org) de Devuan en Español
   * [Ubuntu en Español](https://t.me/ubuntu_es) - Grupo dedicado a Ubuntu y sus derivadas
     * [Lubuntu Oficial en Español](https://t.me/lubuntues) - Lubuntu
     * [Ubuntizados](https://t.me/ubuntizados) - #Grupo colaborativos de ubuntizados. Usuari@s, seguidor@s, admirador@s y todos aquell@s que tenga interés por la distribución Ubuntu en sus diferentes sabores, Ubuntu, Kubuntu, Xubuntu, Lubuntu,
@@ -713,7 +713,7 @@ Proyecto FECYT FTC 2019 15288
     * [Lliurex](https://t.me/comunitat_lliurex) - Versión de la Comunidad Valenciana para sus equipos públicos en educación
   * [DeepinOS](https://t.me/deepin_es) - Grupo Oficial de DeepinOS en Español!
     * [Deepin en Español](https://t.me/deepinenespanol) - Somos un grupo en español sobre Deepin
-  * [Huayra GNU/Linux](https://t.me/huayra_comunidad) - Grupo Oficial de la Comunidad [Huayra Linux](https://huayra.conectarigualdad.gob.ar/) - _desarrollado por Educ.ar SE para los Programas Conectar Igualdad y Primaria Digital._
+  * [Huayra GNU/Linux Federal](https://t.me/HuayraGNULinuxFederal) - _desarrollado por Educ.ar SE para los Programas Conectar Igualdad y Primaria Digital._
 * RPM
   * [Fedora en Español](https://t.me/fedora_es) - Grupo oficial de Fedora en Español.
   * [CentOS en Español](https://t.me/centos_es) - Grupo oficial de CentOS en Español
@@ -725,7 +725,7 @@ Proyecto FECYT FTC 2019 15288
   * Arch based
     * [Arch Linux y Derivadas](https://t.me/ArchLinuxYDerivadas) - Arch Linux y distribuciones derivadas. Creado para ayudar y dar soporte a los usuarios de tales distros
     * [Arch Linux](https://t.me/archlinuxgroup) - Unofficial group for discussing everything about Arch Linux.
-    * [Anarchy Linux en Español](https://t.me/anarchyenespanol) - Grupo de usuarios de [Anarchy](https://anarchylinux.org) Linux
+    * [Anarchy Linux en Español](https://t.me/anarchyenespanol) - Grupo de usuarios de Anarchy en español.
     * [Manjaro en Español](https://t.me/manjarolinuxes) - No Oficial de Manjaro GNU/Linux. Con Calidad de Oficial.
     * [Antergos en Español](https://t.me/antergosesp) y [Antergos en Español](https://t.me/antergos_es) - _(Distro descontinuada)_
     * [Antergos (Archive)](https://t.me/Antergos) - _(En inglés)_
@@ -745,7 +745,7 @@ Proyecto FECYT FTC 2019 15288
     * [KDE - Cañas y Bravas](https://t.me/kde_canasbravas) - Únete a desarrolladores y usuarios KDE de todo el mundo para discutir tanto nuestro software como el mundo del software libre
     * [KDE Web](https://t.me/KDEWeb) - Managing KDE websites
     * [kde promo](https://t.me/joinchat/AEyx-0O8HKlHV7Cg7ZoSyA) - Official Telegram group for KDE Promo.
-    * [KDE Plasma](http://t.me/kdeplasma) - _International users group_
+    * [KDE Plasma](https://t.me/kdeplasma) - _International users group_
   * No oficiales
     * [KDE en español](https://t.me/KDE_esp) - Grupo hecho para usuarios de KDE en cualquier distro. - _No oficial_
 * [Gnomeros](https://t.me/gnomeros) - Grupo dedicado al entorno de Escritorio por excelencia en GNU/Linux
@@ -759,7 +759,7 @@ Proyecto FECYT FTC 2019 15288
 ### Juegos
 
 * [ENLinuxJugamos](https://t.me/EnLinuxjugamos) - Grupo para los que gustan de juegos en Linux
-* [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la [página](http://www.jugandoenlinux.com)
+* [JugandoEnLinux.com en Español](https://t.me/jugandoenlinux) - Grupo de la [página](https://jugandoenlinux.com)
 * [Todo Sobre Juegos Telegram](https://t.me/JuegosTg) - Grupo para jugar a los juegos de Telegram.
 * [Linux & Gaming Discussion](https://t.me/linux_gaming) - _(English) Gaming on Linux_
 
@@ -913,12 +913,12 @@ Proyecto FECYT FTC 2019 15288
 ### Administración de Grupos
 
 * [@join_captcha_bot](https://t.me/join_captcha_bot) - [Open Source](https://github.com/J-Rios/TLG_JoinCaptchaBot) - To verify if a new user in a group is human - _AntiSpam/bots en el login para grupos_
-* [@shieldy_bot](https://t.me/shieldy_bot) - [Open Source](https://github.com/backmeupplz/shieldy) - _AntiSpam captcha bot solamente, sin administración de grupo_
+* [@shieldy_bot](https://t.me/shieldy_bot) - [Open Source](https://github.com/1inch/shieldy) - _AntiSpam captcha bot solamente, sin administración de grupo_
 * [@banofbot](https://telegram.me/banofbot) - [Open Source](https://github.com/backmeupplz/banofbot) - allows you to vote for kicking users from groups
 * [@DistrIUsebot](https://t.me/distriusebot) - [Open Source](https://gitlab.com/schcriher/distriusebot) - creado para listar las distribuciones de GNU/Linux que usan los miembros de grupos de telegram. - _Ademas saluda y despide a los usuarios_
 * [@GroupButler_bot](https://t.me/GroupButler_bot) - [Open Source](https://github.com/group-butler/GroupButler) - managing your group with rules, anti-flood, description, custom trigger - _Sin probar_
   * [@GroupButlerEsp_bot](https://t.me/GroupButlerEsp_bot) - Bot multiproposito para grupos
-* @combot - I gather chats stats, visualize them and help you to engage your community. / [Manage:](combot.org/u/login) - _Sin probar_
+* @combot - I gather chats stats, visualize them and help you to engage your community. / [Manage:](https://combot.org/login) - _Sin probar_
 * @InviteMemberBot - membership bot platform for paid Telegram channels and groups
 * @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
 
@@ -964,7 +964,7 @@ Proyecto FECYT FTC 2019 15288
 
 * [@MiTrackingBot](https://t.me/MiTrackingBot) - Este bot permite llevar un registro de tus trackings con notificaciones automáticas
 * @cuandosale_bot - Para saber la fecha de salida de un capítulo
-* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/n1try/telegram-expense-bot) - Bot for managing your daily financial expenses.
+* [@ExpenseBot](https://t.me/ExpenseBot) - [Open Source](https://github.com/muety/telegram-expense-bot) - Bot for managing your daily financial expenses.
 * [@randymbot](https://t.me/randymbot) - [Open Source](https://github.com/backmeupplz/randymbot) - Randy can randomly select a raffle participant in a chat or a channel
 * [GiveawaysBot 🎰](https://t.me/Giveaways_Bot) - [Open Source](https://github.com/DanySpin97/GiveawaysBot)`2017` - handles giveaways creation and management, allowing users to easily create, join and share giveaways.
 * [InstantViewBot](https://t.me/CorsaBot) - [Open Source](https://github.com/albertincx/formatbot1) - Make Instant View from any article, chat
@@ -982,7 +982,7 @@ Proyecto FECYT FTC 2019 15288
 * [@tickergrambot](https://t.me/tickergrambot) - [Open source](https://github.com/a0rtega/tickergram-bot) - Tickergram is a Telegram bot to look up quotes, charts, general market sentiment and more.
 * [@Podcast_bot](https://t.me/Podcast_bot) - Te ayudo a buscar información en una inmensa base de datos sobre Podcasting.
 * [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts by search or recommendation system, deliver notification on new episods.
-* [@rss2tg_bot](@rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
+* [@rss2tg_bot](https://t.me/rss2tg_bot) - A notification RSS/Atom bot. Quick and simple. And free. - _Sin limite de feeds, funciona en el propio bot_
 * [@TheFeedReaderBot](https://t.me/TheFeedReaderBot) - The Feed Reader Bot monitors RSS feeds (and Twitter accounts), and sends messages when new posts are available. - _Algunas opciones son de pago (5 feeds gratis), funciona en canales y grupos_
 * [@yourcastbot](https://t.me/yourcastbot) - The podcast bot. Search, subscribe and listen podcasts. - _Sirve para buscar, escuchar y bajar episodios de Podcasts_
 * [@scihubot](https://t.me/scihubot) - _Para mandarle conseguir articulos cientificos_
@@ -996,7 +996,7 @@ Proyecto FECYT FTC 2019 15288
 * Texto a voz y viceversa
   * [@transcriber_bot](https://t.me/transcriber_bot) - [Open Source](https://github.com/charslab/TranscriberBot) - Voz a texto
   * [@voicybot](https://t.me/voicybot) - [Open Source](https://github.com/backmeupplz/voicy) - bot for translating voice recordings into text (speech-to-text)
-  * [@BetterTTSBot](https://t.me/BetterTTSBot) - [Open Source](https://gitlab.com/spechide/TTSRoBot) - send text and get voice in any one of 78 languages
+  * [@BetterTTSBot](https://t.me/BetterTTSBot) - Open Source pero desaparecido https://gitlab.com/spechide/TTSRoBot - send text and get voice in any one of 78 languages
   * [@pronunciationbot](https://t.me/pronunciationbot) - This is a bot that allows you to convert text into speech in 84 languages. - _Texto a voz_
 * Imagen a texto
   * [@reverseSearchBot](https://t.me/reverseSearchBot) - [Open Source](https://github.com/kawaiiDango/reverseSearchBot) - Find the source of an image/GIF/sticker or identify the anime character, show, episode & time from its screenshot.
@@ -1030,11 +1030,11 @@ Proyecto FECYT FTC 2019 15288
 
 * [@HttpResponseBot](https://t.me/HttpResponseBot) - With this Bot you can get the HTTP status code and the redirects instantly for any website. Send me a link.
 * @GithubReleasesBot - A chatbot that notify the user by telegram's message for a followed Github repository's new releases
-* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/n1try/telegram-middleman-bot) - Message broker bot to translate HTTP calls into Telegram messages.
+* [@MiddlemanBot](https://t.me/MiddlemanBot) - [Open Source](https://github.com/muety/telepush) - Message broker bot to translate HTTP calls into Telegram messages.
 * [@GitHubBot](https://t.me/githubbot) - Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
 * [@github_gist_bot](https://t.me/github_gist_bot) - Bot uploads text and documents to GitHub Gist.
 * [@jsondumpprotobot](https://t.me/jsondumpprotobot) - [Open Source](https://github.com/udf/uniborg/blob/kate/stdplugins/info.py) - Returns Telegram MtProto meta-data for all sent messages
-* [@PyroJsonDumpBot](@PyroJsonDumpBot) - [Open Source](https://github.com/SpEcHiDe/PyroJsonDumpBot) - Returns Telegram MtProto meta-data for all sent messages
+* [@PyroJsonDumpBot](https://t.me/PyroJsonDumpBot) - [Open Source](https://github.com/SpEcHiDe/PyroJsonDumpBot) - Returns Telegram MtProto meta-data for all sent messages
 
 
 ## RECURSOS
@@ -1045,7 +1045,7 @@ Proyecto FECYT FTC 2019 15288
 * [Authorization](https://my.telegram.org/auth) - Delete Account or Manage Apps
 * <https://telesco.pe/> - _Muestra una web solo con los videos circulares de un canal_
 
-### Utilidades
+### Herramientas
 * <https://т.website/> - _Generador de previews insertables_
 ### Funcionamiento
 * https://limits.tginfo.me/en/ - Info y limites de Telegram
@@ -1068,7 +1068,6 @@ Proyecto FECYT FTC 2019 15288
 
 ### Para encontrar canales, grupos o bots
 * Otros listados
-  * [awesome-telegram-lists](https://github.com/lorien/awesome-telegram-lists) - _Listado de listas con recursos de Telegram_
   * [awesome-telegram](https://github.com/ebertti/awesome-telegram#readme) - A curated list of Telegram resources - _En inglés y ruso_
   * [Comunidades Tecnológicas de Venezuela en Telegram](https://github.com/OpenVE/comunidades-en-telegram)
   * https://canales.xyz/telegram/ - Grupos y canales de Telegram en español
@@ -1095,7 +1094,7 @@ posts tweet
     * [Canal a Tweet](https://ifttt.com/applets/F83hWUC2-export-telegram-channel-posts-to-twitter) - Export telegram channel posts to twitter. W/O double info in tweet
     * [Canal a Tweet](https://ifttt.com/applets/zywpdZzv-auto-twit-from-telegram) - Auto post from your telegram channel into twitter
   * TW -> Telegram
-    * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y) - Whenever you are mentioned on Twitter, post a message to Telegram
+    * [@mencion a TG_Chat](https://ifttt.com/applets/UjfzrX8Y-whenever-you-are-mentioned-on-twitter-post-a-message-to-telegram) - Whenever you are mentioned on Twitter, post a message to Telegram
     * [@Usuario TW a Chat](https://ifttt.com/applets/nxWRgmZr-keep-up-with-a-user-s-tweets-on-telegram) - When a specific user Tweets, this Applet will
 send it to Telegram
     * [@Usuario TW a Chat](https://ifttt.com/applets/cgMtzsY6-forward-user-tweets-to-telegram) - Forward user tweets to Telegram
