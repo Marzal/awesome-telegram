@@ -380,7 +380,6 @@ Proyecto FECYT FTC 2019 15288
    * [Realfooding](https://t.me/realfooder) - Realfooding por Telegram. Quédate para saber todas las novedades.
    * [Recetas veganas 😋](https://t.me/recetas_veganas) - Recetas veganas de sana y deliciosa comida
    * [Veganos de España](https://t.me/veganosspain) - Veganos de España para compartir información útil y de calidad del universo Vegan. Veganizan tu dieta, estilo de vida...
-   * [Canal Veggie](https://t.me/recetasveggiesconamor) - Canal de recetas vegetarianas y veganas y más! - _Tiene grupo privado asociado_
    * [Vegan & Vegetarian](https://t.me/vegan) - Infografías y fotos, [Abandonado desde 2016], pero tiene material interesante.
  * Huertos
    * [Cultiva Tu Huerto](https://t.me/cultivatuhuerto) - Aprende a cultivar tus hortalizas de forma sencilla en casa en tu huerto urbano o maceta
@@ -446,9 +445,10 @@ Proyecto FECYT FTC 2019 15288
     * [Noticias Saludesfera](https://t.me/saludesfera) - Noticias, eventos y acciones de Saludesfera
   * [Un papá como Vader](https://t.me/unpapacomovader) - Blog, podcasts y libros. ¿Te apuntas? 😋
   * [Criar con Sentido Común](https://t.me/CriarconSentidoComun) - Los mejores contenidos online sobre Crianza Respetuosa, Educación y Salud Infantil.
-  * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
   * [Educa en Positivo Conéctate a Tu Hijo](https://t.me/educaenpositivoconectateatuhijo) - Para inspirar, motivar, apoyar a madres y padres en la aventura de educar en el siglo XXI
+  * [Creciendo con Montessori](https://t.me/creciendoconmontessori) - https://www.creciendoconmontessori.com
   * [Hablemos de Montessori](https://t.me/hablemosdemontessori) - dedicado a la Educación #Montessori
+  * [Canal Osera](https://t.me/canalosera) - Todo lo nuevo de Canal Osera - [Grupo](https://t.me/osera)
 * Ciencia
   * [Podcastidae](https://t.me/podcastidae) - Canal de difusión de los podcast de a Red Podcastidae.  Red de Podcast de Ciencia, Medio Ambiente y Naturaleza
   * [Carreras Científicas Alternativas](https://t.me/carrerascientificasalternativas) - [Plataforma](https://carrerascientificasalternativas.com/) de guía para científicos e investigadores interesados en redirigir su carrera más allá del mundo académico 🎓🚸
