@@ -668,6 +668,7 @@ Proyecto FECYT FTC 2019 15288
 * [GUTL Oficial](https://t.me/GUTLOficial) - Grupo de Usuarios de Tecnologías Libres.
 * [FOSDEM en español](https://t.me/fosdem_ES) - hispanoparlantes en el FOSDEM
 * [AULAS LIBRES (Google fuera)](https://t.me/aulaslibres) - Grupo de @inter_ferencias para unir a profes, AMPA y alumnado por la soberanía digital en las aulas
+* [Clementina: Software Libre y Educación](https://t.me/Clementina_SHCL) - Creado para difundir la cultura libre en educación. SL, Hardware Libre y Cultura Libre. Dirigido a quienes recién empiezan.
 * Hispalinustálgicos _(Con invitación)_
 * FLOSS
   * [Wikimedia General chat](https://t.me/WikimediaGeneral) - This group is public. In this group, the code of conduct for Wikimedia technical spaces is in effect
