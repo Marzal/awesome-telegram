@@ -922,6 +922,7 @@ Proyecto FECYT FTC 2019 15288
 * @combot - I gather chats stats, visualize them and help you to engage your community. / [Manage:](https://combot.org/login) - _Sin probar_
 * @InviteMemberBot - membership bot platform for paid Telegram channels and groups
 * @MissRose_bot - A group admin bot to help you manage your groups - _(es privativo por cabreo del developer)_ - [Rose Support](https://t.me/RoseSupport)
+* [@SUCH](https://t.me/such) - feedback and support bot builder for channel admins, bot developers, business owners, and community managers.
 
 ### Para encontrar en Telegram
 
