@@ -931,8 +931,9 @@ Proyecto FECYT FTC 2019 15288
 
 ### Aprobados por Telegram
 
+* [@SearchReport](https://t.me/SearchReport) - Para reportar terminos de busqueda de contenido ileagal o fraudulento _(Oficial)_
 * [@telegraph](https://t.me/telegraph) - To manage your telegra.ph publications and log in across any number of devices _(Oficial)_
-* [@BotFather](https://t.me/botfather) - BotFather is the one bot to rule them all. Use it to create new bot accounts and manage your existing bots.
+* [@BotFather](https://t.me/botfather) - Para crear y manejar la creación de bots. _(Oficial)_
 * [@like](https://t.me/like) - _(Mensajes con botones)_
 * [@Stickers](https://t.me/Stickers) - Create Telegram Stickers and get usage stats for your stickers with this bot. - _Tambien inline_
 * [@vote](https://t.me/vote) - _Creador de encuestas. El mismo integrado en los 3 puntos de arriba a la derecha._
